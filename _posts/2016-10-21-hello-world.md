@@ -44,13 +44,13 @@ sit amet
 1. First
 2. Second
 3. Third
-	b. Alpha
-	a. Bravo
+	a. Alpha
+	b. Bravo
 
 ### Inline code
 
 Use `<div>` tags
-``echo `uname -a```
+`` echo `uname -a` ``
 
 ### Code blocks
 
