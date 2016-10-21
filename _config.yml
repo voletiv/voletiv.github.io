@@ -1,0 +1,18 @@
+# Site settings
+title: Vikram Voleti blog
+email: vikram.voleti@gmail.com
+description: "My technical diary."
+baseurl: ""
+url: "http://voletiv.github.io"
+twitter_username: vikky2904
+github_username:  voletiv
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
