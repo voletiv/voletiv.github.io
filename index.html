@@ -1,8 +1,18 @@
 ---
 layout: default
-title: Vikram Voleti blog
 ---
-<div class="blurb">
-	<h1>Hi there, I'm Vikram!</h1>
-	<p>I'm best known as Tony Stark from <em>Iron Man</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
-</div><!-- /.blurb -->
+
+<div class="home">
+  
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <br>
+        {{ post.excerpt }}
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
