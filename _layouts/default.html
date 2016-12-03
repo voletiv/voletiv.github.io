@@ -27,7 +27,7 @@
                 {{ page.content | markdownify }}
 
                 {% if page.email %}
-                <p><font face="arial,helvetica"><a href="mailto:{{ page.email }}">{{ page.email }}</a></font></p>
+                <p><font face="helvetica,arial"><a href="mailto:{{ page.email }}">{{ page.email }}</a></font></p>
                 {% endif %}
                 <ul class="list-inline social-buttons">
                     {% for network in page.social %}
@@ -62,7 +62,7 @@
                               <h4 class="subheading">{{ post.subtitle }}</h4>
                           </div>
                           <div class="timeline-body">
-                              <p class="text-muted">{{ post.content }}</p>
+                              <p class="text-muted"><font face="helvetica,arial">{{ post.content }}</font></p>
                           </div>
                       </div>
                   </li>
