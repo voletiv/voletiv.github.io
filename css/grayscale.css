@@ -55,7 +55,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #cc6600;
+    color: #ffffff;
     /* color: #11505d; */
 }
 
@@ -356,7 +356,7 @@ ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
     color: #222;
-    background-color: #fec503;
+    background-color: #ff6600;
 }
 
 footer {
