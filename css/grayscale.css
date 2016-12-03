@@ -9,7 +9,7 @@ body {
     height: 100%;
     font-family: "Lato",Lato;
     color: #fff;
-    background-color: #808080;
+    background-color: #4d4d4d;
 }
 
 html {
@@ -25,7 +25,7 @@ h5,
 h6 {
     margin: 0 0 35px;
     text-transform: uppercase;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Lato",Lato;
     font-weight: 700;
     letter-spacing: 1px;
 }
