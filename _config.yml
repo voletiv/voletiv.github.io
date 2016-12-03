@@ -15,6 +15,6 @@ google-tracking-id:
 
 # Career Settings
 # Default career thumbnail image.
-career-img: "img/timeline/GOR.png"
+career-img: "img/vikky-ironman.jpg"
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]
