@@ -2,6 +2,6 @@
 layout: null
 title: Summer 2013
 subtitle: KU Leuven, Belgium
-image: "img/timeline/kuleuven.jpeg"
+image: "img/timeline/leuven.png"
 ---
 Carry-Free Arithmetic for Cryptography
