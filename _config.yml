@@ -1,9 +1,10 @@
-url: "http://voletiv.github.io"
+url: "http://voletiv.github.io/timeline"
 baseurl: ""
 
 # Site Settings
 title: Vikram Voleti
 email: vikram.voleti@gmail.com
+github_username:  voletiv
 description: "My technical diary."
 twitter_username: vikky2904
 keywords: "blog, academic, Vikram, Voleti"
@@ -11,6 +12,6 @@ google-tracking-id:
 
 # Career Settings
 # Default career thumbnail image.
-career-img: "img/timeline/default.jpg"
+career-img: "img/timeline/GOR.png"
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]
