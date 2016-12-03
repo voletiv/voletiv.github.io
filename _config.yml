@@ -1,18 +1,16 @@
-# Site settings
+url: "http://voletiv.github.io"
+baseurl: ""
+
+# Site Settings
 title: Vikram Voleti
 email: vikram.voleti@gmail.com
 description: "My technical diary."
-baseurl: ""
-url: "http://voletiv.github.io"
 twitter_username: vikky2904
-github_username:  voletiv
+keywords: "blog, academic, Vikram, Voleti"
+google-tracking-id:
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/default.jpg"
 
-highlighter: rouge
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
+exclude: ["Rakefile", "LICENSE", "readme.markdown"]
