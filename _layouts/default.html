@@ -59,7 +59,7 @@
                 <ul class="timeline">
                 {% for post in site.posts %}
 
-                  <li class="{{ class }}">
+                  <li class="timeline-inverted">
                       <div class="timeline-image">
                           <img class="img-circle img-responsive" src="{{ site.baseurl }}/{% if post.image %}{{ post.image }}{% else %}{{site.career-img}}{% endif %}" alt="">
                       </div>
@@ -76,6 +76,12 @@
                   </li>
 
                 {% endfor %}
+
+                  <li class="timeline-inverted">
+                    <div class="timeline-image">
+                      <img class="img-circle img-responsive" src="{{ site.baseurl }}/{{ site.career-img }}" alt="">
+                    </div>
+                  </li>
    
                 </ul>
 
