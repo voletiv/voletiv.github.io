@@ -5,4 +5,4 @@ subtitle: IIT Kharagpur
 image: "img/timeline/hmm.png"
 ---
 * Gesture Recognition using Hidden Markov Models (HMM)
-* [Presentation](summer_2012_HMM_FingerTipGestureRecognition/Ppt.pdf)
+* [Presentation](https://github.com/voletiv/summer_2012_HMM_FingerTipGestureRecognition/blob/master/Ppt.pdf "BTP presentation")
