@@ -11,7 +11,7 @@
     bottom: 0;
     left: 40px;
     width: 2px;
-    margin-left: -1.5px;
+    margin-left: 0px;
     background-color: #f1f1f1;
 }
 
@@ -35,7 +35,7 @@
     float: right;
     position: relative;
     width: 100%;
-    padding: 0 20px 0 100px;
+    padding: 0 20px 0 20px;
     text-align: left;
 }
 
@@ -75,7 +75,7 @@
 
 .timeline>li.timeline-inverted>.timeline-panel {
     float: right;
-    padding: 0 20px 0 100px;
+    padding: 0 20px 0 20px;
     text-align: left;
 }
 
