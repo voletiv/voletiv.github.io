@@ -41,15 +41,15 @@
 
 .timeline>li .timeline-panel:before {
     right: auto;
-    left: -20px;
-    border-right-width: 20px;
+    left: -15px;
+    border-right-width: 15px;
     border-left-width: 0;
 }
 
 .timeline>li .timeline-panel:after {
     right: auto;
-    left: -20px;
-    border-right-width: 20px;
+    left: -14px;
+    border-right-width: 14px;
     border-left-width: 0;
 }
 
