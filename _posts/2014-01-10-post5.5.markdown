@@ -1,6 +1,5 @@
 ---
 layout: null
-noimage: true
 title: M.Tech. Thesis
 subtitle: De-fencing of Images using Microsoft Kinect
 ---
