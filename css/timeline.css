@@ -79,7 +79,7 @@
     width: 10px;
     height: 10px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
+    border: 3px solid #f1f1f1;
     border-radius: 100%;
     text-align: center;
     color: #fff;
@@ -158,6 +158,19 @@
         margin-top: 16px;
         font-size: 13px;
         line-height: 18px;
+    }
+    
+    .timeline>li .timeline-noimage {
+        left: 50%;
+        width: 10px;
+        height: 10px;
+        margin-left: -5px;
+    }
+
+    .timeline>li .timeline-noimage h4 {
+        margin-top: 16px;
+        font-size: 12px;
+        line-height: 10px;
     }
 
     .timeline>li.timeline-inverted>.timeline-panel {
