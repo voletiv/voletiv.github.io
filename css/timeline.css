@@ -73,7 +73,7 @@
     line-height: 14px;
 }
 .timeline>li .timeline-noimage {
-    z-index: 100;
+    z-index: 10;
     position: absolute;
     left: 0;
     width: 10px;
@@ -161,10 +161,10 @@
     }
     
     .timeline>li .timeline-noimage {
-        left: 50%;
+        left: 0%;
         width: 10px;
         height: 10px;
-        margin-left: -5px;
+        margin-left: 0px;
     }
 
     .timeline>li .timeline-noimage h4 {
