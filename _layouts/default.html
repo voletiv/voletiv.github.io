@@ -58,12 +58,6 @@
                 {{ page.content | markdownify }}
                 <ul class="timeline">
                 {% for post in site.posts %}
-                  {% assign loopindex = forloop.index | modulo: 2 %}
-                  {% capture class %}
-                    {% if loopindex == 0 %}
-                      timeline-inverted
-                    {% endif %}
-                  {% endcapture %}
 
                   <li class="{{ class }}">
                       <div class="timeline-image">
@@ -79,14 +73,6 @@
                               <p class="text-muted"><font face="lato" size=3px>{{ post.content }}</font></p>
                           </div>
                       </div>
-                  </li>
-
-                {% endfor %}
-
-                  <li class="timeline-inverted">
-                    <div class="timeline-image">
-                      <img class="img-circle img-responsive" src="{{ site.baseurl }}/{{ site.career-img }}" alt="">
-                    </div>
                   </li>
    
                 </ul>
