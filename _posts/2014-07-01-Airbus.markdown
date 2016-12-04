@@ -4,4 +4,5 @@ title: June 2014 - February 2016
 subtitle: Associate Engineer, Airbus India
 image: "img/timeline/airbus.png"
 ---
-Development & Integration of embedded software
+* Worked for Avionics Software & System Testing group
+* Development & Integration of embedded software

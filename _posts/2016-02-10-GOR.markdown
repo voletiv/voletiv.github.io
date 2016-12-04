@@ -4,4 +4,5 @@ title: February 2016 -
 subtitle: Image Processing Engineer, GreyOrange India
 image: "img/timeline/GOR.png"
 ---
-Embedded solutions for image classification, using machine learning, deep learning
+* Embedded solutions for image classification, using machine learning, deep learning
+* Work in image processing, computer vision, machine learning, deep learning

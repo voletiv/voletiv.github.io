@@ -6,3 +6,4 @@ image: "img/timeline/btp.png"
 ---
 * GMMs to identify bilabial consonants in audio
 * Face detection to identify lip closures in video 
+* [Github repository](https://github.com/voletiv/BTP_GMM_lipClosure "voletiv's Bachelor's Thesis") with files, presentation and thesis

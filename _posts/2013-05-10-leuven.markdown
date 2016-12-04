@@ -4,4 +4,5 @@ title: Summer 2013
 subtitle: KU Leuven, Belgium
 image: "img/timeline/leuven.png"
 ---
-Carry-Free Arithmetic for Cryptography
+* Carry-Free arithmetic operations for cryptography
+* [Github repository](https://github.com/voletiv/summer_2013_KULeuven "voletiv's Summer 2013") with presentation and report

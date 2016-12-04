@@ -1,7 +1,0 @@
----
-layout: null
-title: Summer 2011
-subtitle: Imperial College, London
-image: "img/timeline/imperial.jpg"
----
-Power consumption in FPGAs

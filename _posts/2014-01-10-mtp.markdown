@@ -6,3 +6,4 @@ image: "img/timeline/mtp.jpg"
 ---
 * De-fencing and inpainting of occluded images using RGB-D data
 * Work is published in [IEEE paper](http://ieeexplore.ieee.org/document/7050696/ "A multimodal approach for image de-fencing and depth inpainting")
+* [Github repository](https://github.com/voletiv/MTP_inPainting "voletiv's Master's Thesis") with  files, presentation and Master's Thesis

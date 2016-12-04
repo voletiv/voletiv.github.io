@@ -1,0 +1,8 @@
+---
+layout: null
+title: Summer 2011
+subtitle: Imperial College, London
+image: "img/timeline/imperial.jpg"
+---
+* Worked on power consumption in FPGAs
+* [Github repository](https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London "voleti's Summer 2011") with presentation, certificate and recommendation
