@@ -1,6 +1,0 @@
----
-layout: null
-title: M.Tech. Thesis
-subtitle: De-fencing of Images using Microsoft Kinect
----
-Research paper on work: http://ieeexplore.ieee.org/document/7050696/

@@ -1,0 +1,8 @@
+---
+layout: null
+title: B.Tech. Thesis
+subtitle: "Identification of Bilabial Consonants in Audio and Lip Closures in Video"
+image: "img/timeline/btp.png"
+---
+* GMMs to identify bilabial consonants in audio
+* Face detection to identify lip closures in video 
