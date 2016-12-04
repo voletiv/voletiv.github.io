@@ -161,7 +161,7 @@
     }
     
     .timeline>li .timeline-noimage {
-        left: 0%;
+        left: 50%;
         width: 10px;
         height: 10px;
         margin-left: 0px;
@@ -202,7 +202,7 @@
     }
 
     .timeline>li .timeline-noimage {
-        left: 0%;
+        left: 50%;
         width: 10px;
         height: 10px;
         margin-left: 0px;
@@ -239,7 +239,7 @@
     }
 
     .timeline>li .timeline-noimage {
-        left: 0%;
+        left: 50%;
         width: 10px;
         height: 10px;
         margin-left: 0px;
