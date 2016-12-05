@@ -60,9 +60,10 @@
     width: 80px;
     height: 80px;
     margin-left: 0;
+    margin-right: 10px;
     border: 7px solid #bfbfbf;
     border-radius: 100%;
-    text-align: center;
+    text-align: left;
     color: #fff;
     background-color: #bfbfbf;
 }
