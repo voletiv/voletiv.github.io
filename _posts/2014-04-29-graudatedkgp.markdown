@@ -1,6 +1,6 @@
 ---
 layout: null
-title: July 2014
+title: May 2014
 subtitle: Indian Insitute of Technology, Kharagpur
 image: "img/timeline/kgp.jpg"
 ---
