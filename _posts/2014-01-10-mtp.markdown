@@ -5,5 +5,5 @@ subtitle: De-fencing of Images using Microsoft Kinect
 image: "img/timeline/mtp.jpg"
 ---
 * De-fencing and inpainting of occluded images using RGB-D data
-* [IEEE paper](http://ieeexplore.ieee.org/document/7050696/ "A multimodal approach for image de-fencing and depth inpainting") of research conducted
 * [Github repository](https://github.com/voletiv/MTP_inPainting "voletiv's Master's Thesis") with  files, presentation and Master's Thesis
+* [IEEE paper](http://ieeexplore.ieee.org/document/7050696/ "A multimodal approach for image de-fencing and depth inpainting")
