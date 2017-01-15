@@ -135,7 +135,12 @@
 	{% include js.html %}
 
   <script>
-  $("#mygallery").justifiedGallery();
+  $("#mygallery").justifiedGallery(({
+    rowHeight : 200,
+    maxRowHeight : 400,
+    lastRow : 'nojustify',
+    margins : 3
+  });
   </script>
 
 </body>
