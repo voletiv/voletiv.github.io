@@ -57,25 +57,25 @@
               <div class="col-lg-8 col-lg-offset-2">
                 {{ page.content | markdownify }}
 
-                  <ul class="travels">
-                    {% for post in site.posts %}
-                      {% if post.type == "travel" %}
-                        <li>
-                            <div class="post-date">
-                              <div id="myGallery">
-                                <a href="/img/travel/1.jpg">
-                                    <img alt="caption for image 1" src="/img/travel/1.jpg"/>
-                                </a>
-                                <a href="/img/travel/1.jpg">
-                                    <img alt="caption for image 2" src="/img/travel/2.jpg"/>
-                                </a>
-                              </div>
-                              <br>
+                  {% for post in site.posts %}
+                    {% if post.type == "travel" %}
+                      <p>{{post.title}}</p>
+                      <li>
+                          <div class="post-date">
+                            <div id="myGallery">
+                              <a href="/img/travel/1.jpg">
+                                  <img alt="caption for image 1" src="/img/travel/1.jpg"/>
+                              </a>
+                              <a href="/img/travel/2.jpg">
+                                  <img alt="caption for image 2" src="/img/travel/2.jpg"/>
+                              </a>
                             </div>
-                        </li>
-                      {% endif %}
-                    {% endfor %}
-                  </ul>
+                            <br>
+                          </div>
+                      </li>
+                    {% endif %}
+                  {% endfor %}
+
               </div>
           </div>
       </section>
