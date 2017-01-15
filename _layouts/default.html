@@ -62,7 +62,7 @@
                       <li>
                         <div class="post-date">
                           <p>{{ post.date | date: "%b %-d, %Y" }}</p>
-                          <p>{{post.title}}</p>
+                          <p class="text-muted"><font face="lato" size=3px>{{post.title}}</font></p>
                           <div id="mygallery">
                             <a href="/img/travel/1.jpg">
                                 <img alt="caption for image 1" src="/img/travel/1.jpg"/>
@@ -82,7 +82,7 @@
                           </div>
                           <script src="/js/jquery.justifiedGallery.js"></script>
                           <script>
-                          $('#mygallery').justifiedGallery({
+                          $("#mygallery").justifiedGallery({
                             rowHeight : 200,
                             lastRow : 'nojustify',
                             margins : 3
