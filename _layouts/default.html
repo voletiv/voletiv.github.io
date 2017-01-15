@@ -60,9 +60,10 @@
                   {% for post in site.posts %}
                     {% if post.type == "travel" %}
                       <li>
-                        <p>{{post.title}}</p>
                         <div class="post-date">
-                          <div id="myGallery">
+                          <p>{{ post.date | date: "%b %-d, %Y" }}</p>
+                          <p>{{post.title}}</p>
+                          <div id="mygallery">
                             <a href="/img/travel/1.jpg">
                                 <img alt="caption for image 1" src="/img/travel/1.jpg"/>
                             </a>
@@ -75,10 +76,13 @@
                             <a href="/img/travel/4.jpg">
                                 <img alt="caption for image 4" src="/img/travel/4.jpg"/>
                             </a>
+                            <a href="/img/travel/5.jpg">
+                                <img alt="caption for image 5" src="/img/travel/5.jpg"/>
+                            </a>
                           </div>
                           <script src="/js/jquery.justifiedGallery.js"></script>
                           <script>
-                            $("#myGallery").justifiedGallery({
+                            $('#mygallery').justifiedGallery({
                               rowHeight : 200,
                               lastRow : 'nojustify',
                               margins : 3
