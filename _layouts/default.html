@@ -59,31 +59,33 @@
 
                   {% for post in site.posts %}
                     {% if post.type == "travel" %}
-                      <p>{{post.title}}</p>
                       <li>
-                          <div class="post-date">
-                            <div id="myGallery">
-                              <a href="/img/travel/1.jpg">
-                                  <img alt="caption for image 1" src="/img/travel/1.jpg"/>
-                              </a>
-                              <a href="/img/travel/2.jpg">
-                                  <img alt="caption for image 2" src="/img/travel/2.jpg"/>
-                              </a>
-                              <a href="/img/travel/3.jpg">
-                                  <img alt="caption for image 3" src="/img/travel/3.jpg"/>
-                              </a>
-                              <a href="/img/travel/4.jpg">
-                                  <img alt="caption for image 4" src="/img/travel/4.jpg"/>
-                              </a>
-                            </div>
-                            <script src="/js/jquery.justifiedGallery.js"></script>
+                        <p>{{post.title}}</p>
+                        <div class="post-date">
+                          <div id="myGallery">
+                            <a href="/img/travel/1.jpg">
+                                <img alt="caption for image 1" src="/img/travel/1.jpg"/>
+                            </a>
+                            <a href="/img/travel/2.jpg">
+                                <img alt="caption for image 2" src="/img/travel/2.jpg"/>
+                            </a>
+                            <a href="/img/travel/3.jpg">
+                                <img alt="caption for image 3" src="/img/travel/3.jpg"/>
+                            </a>
+                            <a href="/img/travel/4.jpg">
+                                <img alt="caption for image 4" src="/img/travel/4.jpg"/>
+                            </a>
+                          </div>
+                          <script src="/js/jquery.justifiedGallery.js"></script>
+                          <script>
                             $("#myGallery").justifiedGallery({
                               rowHeight : 200,
                               lastRow : 'nojustify',
                               margins : 3
                             });
-                            <br>
-                          </div>
+                          </script>
+                          <br>
+                        </div>
                       </li>
                     {% endif %}
                   {% endfor %}
