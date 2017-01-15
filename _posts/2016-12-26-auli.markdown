@@ -6,5 +6,5 @@ title: Joshimath-Auli-Mussoorie
 subtitle: with Aravind Atreya, Barath Mahadevan, Sanjay Dixit
 ---
 First travel thingy
-![alt text]("img/travel/1.jpg" "Gurson meadows")
+![alt text](/img/travel/1.jpg "Gurson meadows")
 Awesome.
