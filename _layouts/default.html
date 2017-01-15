@@ -56,6 +56,18 @@
           <div class="row">
               <div class="col-lg-8 col-lg-offset-2">
                 {{ page.content | markdownify }}
+
+                  <ul class="travels">
+                    {% for post in site.posts %}
+                      {% if post.type == "travel" %}
+                        <li>
+                          <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+                            <p class="text-muted"><font face="lato" size=3px> {{ post.content }} </font></p>
+                          <br>
+                        </li>
+                      {% endif %}
+                    {% endfor %}
+                  </ul>
               </div>
           </div>
       </section>
@@ -68,23 +80,23 @@
                 {{ page.content | markdownify }}
                 <ul class="timeline">
                 {% for post in site.posts %}
+                  {% if post.type == "career" %}
+                    <li class="timeline-inverted">
+                        <div class="timeline-image">
+                            <img class="img-circle img-responsive" src="{{ site.baseurl }}/{% if post.image %}{{ post.image }}{% else %}{{site.career-img}}{% endif %}" alt="">
+                        </div>
 
-                  <li class="timeline-inverted">
-                      <div class="timeline-image">
-                          <img class="img-circle img-responsive" src="{{ site.baseurl }}/{% if post.image %}{{ post.image }}{% else %}{{site.career-img}}{% endif %}" alt="">
-                      </div>
-
-                      <div class="timeline-panel">
-                          <div class="timeline-heading">
-                              <h4>{{ post.title }}</h4>
-                              <h4 class="subheading">{{ post.subtitle }}</h4>
-                          </div>
-                          <div class="timeline-body">
-                              <p class="text-muted"><font face="lato" size=3px>{{ post.content }}</font></p>
-                          </div>
-                      </div>
-                  </li>
-
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>{{ post.title }}</h4>
+                                <h4 class="subheading">{{ post.subtitle }}</h4>
+                            </div>
+                            <div class="timeline-body">
+                                <p class="text-muted"><font face="lato" size=3px>{{ post.content }}</font></p>
+                            </div>
+                        </div>
+                    </li>
+                  {% endif %}
                 {% endfor %}
 
                   <li class="timeline-inverted">

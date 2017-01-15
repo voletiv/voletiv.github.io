@@ -1,5 +1,6 @@
 ---
 layout: null
+type: career
 title: February 2016 - present
 subtitle: Image Processing Engineer, GreyOrange India
 image: "img/timeline/GOR.png"

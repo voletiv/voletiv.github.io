@@ -1,5 +1,6 @@
 ---
 layout: null
+type: career
 title: June 2014 - February 2016
 subtitle: Associate Engineer, Airbus India
 image: "img/timeline/airbus.jpg"

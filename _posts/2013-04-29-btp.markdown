@@ -1,9 +1,10 @@
 ---
 layout: null
+type: career
 title: B.Tech. Thesis
 subtitle: "Identification of Bilabial Consonants in Audio and Lip Closures in Video"
 image: "img/timeline/btp.png"
 ---
 * GMMs to identify bilabial consonants in audio
-* Face detection to identify lip closures in video 
+* Face detection to identify lip closures in video
 * [Github repository](https://github.com/voletiv/BTP_GMM_lipClosure "voletiv's Bachelor's Thesis") with files, presentation and thesis

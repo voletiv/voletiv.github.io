@@ -1,5 +1,6 @@
 ---
 layout: null
+type: career
 title: M.Tech. Thesis
 subtitle: De-fencing of Images using Microsoft Kinect
 image: "img/timeline/mtp.jpg"

@@ -4,19 +4,3 @@ section-type: default
 title: Travel
 ---
 ## Travel
-
-<div class="travel">
-
-  <ul class="travels">
-    {% for post in site.posts %}
-      {% if post.section-type == "travel" %}
-        <li>
-          <span class="travel-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-            <p class="text-muted"><font face="lato" size=3px> {{ post.content }} </font></p>
-          <br>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-
-</div>

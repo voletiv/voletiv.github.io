@@ -1,5 +1,6 @@
 ---
 layout: null
+type: career
 title: Summer 2013
 subtitle: KU Leuven, Belgium
 image: "img/timeline/leuven.png"
