@@ -5,12 +5,16 @@ title: Travel
 ---
 ## Travel
 
-<ul class="travels">
-  {% for travel in site.travels %}
-    <li>
-      <span class="travel-date">{{ travel.date | travel: "%b %-d, %Y" }}</span>
-        travel.content
-      <br>
-    </li>
-  {% endfor %}
-</ul>
+<div class="travel">
+
+  <ul class="travels">
+    {% for travel in site.travels %}
+      <li>
+        <span class="travel-date">{{ travel.date | travel: "%b %-d, %Y" }}</span>
+          travel.content
+        <br>
+      </li>
+    {% endfor %}
+  </ul>
+  
+</div>
