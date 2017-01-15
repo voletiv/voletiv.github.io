@@ -56,11 +56,11 @@
           <div class="row">
               <div class="col-lg-8 col-lg-offset-2">
                 {{ page.content | markdownify }}
-                  <ul class="travel">
+                  <ul class="timeline">
                   {% for post in site.posts %}
                     {% if post.type == "travel" %}
-                      <li>
-                        <div class="post-date">
+                      <li class="timeline-inverted">
+                        <div class="timeline-heading">
                           <p>{{ post.date | date: "%b %-d, %Y" }}</p>
                           <p class="text-muted"><font face="lato" size=5px>{{post.title}}</font></p>
                           <div id="mygallery">
@@ -80,12 +80,35 @@
                                 <img alt="caption for image 5" src="/img/travel/5.jpg"/>
                             </a>
                           </div>
-                          <script src="/js/jquery.justifiedGallery.js"></script>
+                          <script src="/js/jquery.justified.js"></script>
                           <script>
-                          $("#mygallery").justifiedGallery({
-                            rowHeight : 200,
-                            lastRow : 'nojustify',
-                            margins : 3
+                          $('.image-container').empty().justifiedImages({
+                            images : photos,
+                            rowHeight: 200,
+                            maxRowHeight: 400,
+                            thumbnailPath: function(photo, width, height){
+                                var purl = photo.url_s;
+                                if( photo.url_n && (width > photo.width_s * 1.2 || height > photo.height_s * 1.2) ) purl = photo.url_n;
+                                if( photo.url_m && (width > photo.width_n * 1.2 || height > photo.height_n * 1.2) ) purl = photo.url_m;
+                                if( photo.url_z && (width > photo.width_m * 1.2 || height > photo.height_m * 1.2) ) purl = photo.url_z;
+                                if( photo.url_l && (width > photo.width_z * 1.2 || height > photo.height_z * 1.2) ) purl = photo.url_l;
+                                return purl;
+                            },
+                            getSize: function(photo){
+                                return {width: photo.width_s, height: photo.height_s};
+                            },
+                            margin: 1/*,
+                            appendBlocks: function(){
+                                return [{
+                                    rowNum : 1,
+                                    width : 150,
+                                    html : '<a href="#">Add Photo</a>'
+                                },{
+                                    rowNum : -1,
+                                    width : 150,
+                                    html : '<a href="#">Add Last Photo</a>'
+                                }]
+                            }*/
                           });
                           </script>
                           <br>
