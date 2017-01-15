@@ -61,9 +61,10 @@
                     {% for post in site.posts %}
                       {% if post.type == "travel" %}
                         <li>
-                          <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-                            <p class="text-muted"><font face="lato" size=3px> {{ post.content }} </font></p>
-                          <br>
+                            <div class="post-date">
+                              <p class="text-muted"><font face="lato" size=3px> {{ post.content }} </font></p>
+                              <br>
+                            </div>
                         </li>
                       {% endif %}
                     {% endfor %}
