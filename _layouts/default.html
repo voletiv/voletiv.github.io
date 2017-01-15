@@ -61,8 +61,8 @@
                     {% if post.type == "travel" %}
                       <li class="timeline-inverted">
                         <div class="timeline-heading">
-                          <p>{{ post.date | date: "%b %-d, %Y" }}</p>
-                          <p class="text-muted"><font face="lato" size=5px>{{post.title}}</font></p>
+                          <h4>{{ post.date | date: "%b %-d, %Y" }}</h4>
+                          <h4 class="subheading">{{post.title}}</h4>
                           <div id="mygallery">
                             <a href="/img/travel/1.jpg">
                                 <img alt="caption for image 1" src="/img/travel/1.jpg"/>
