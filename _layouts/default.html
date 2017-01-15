@@ -59,10 +59,13 @@
 
                   <ul class="travels">
                     {% for post in site.posts %}
+                      <div>
+                        <p> {{ post.title }} </p>
+                      </div>
                       {% if post.type == "travel" %}
                         <li>
                             <div class="post-date">
-                              <p class="text-muted"><font face="lato" size=3px> {{ post.content }} </font></p>
+                              <p class="text-muted"><font face="lato" size=3px> yoyo {{ post.content }} </font></p>
                               <br>
                             </div>
                         </li>
