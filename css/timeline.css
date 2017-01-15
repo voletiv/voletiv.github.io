@@ -1,3 +1,9 @@
+.travels .travel-date {
+  display: block;
+  font-size: 15px;
+  color: #818181;
+}
+
 .timeline {
     position: relative;
     padding: 0;
