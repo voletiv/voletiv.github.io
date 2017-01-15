@@ -11,10 +11,10 @@ title: Travel
     {% for travel in site.travels %}
       <li>
         <span class="travel-date">{{ travel.date | travel: "%b %-d, %Y" }}</span>
-          travel.content
+          <p class="text-muted"><font face="lato" size=3px> {{ travel.content }} </font></p>
         <br>
       </li>
     {% endfor %}
   </ul>
-  
+
 </div>
