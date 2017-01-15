@@ -76,6 +76,13 @@
                                   <img alt="caption for image 4" src="/img/travel/4.jpg"/>
                               </a>
                             </div>
+                            <link rel="stylesheet" href="css/justifiedGallery.css" />
+                            <script src="js/jquery.justifiedGallery.js"></script>
+                            $("#myGallery").justifiedGallery({
+                              rowHeight : 200,
+                              lastRow : 'nojustify',
+                              margins : 3
+                            });
                             <br>
                           </div>
                       </li>
@@ -124,14 +131,6 @@
               </div>
           </div>
       </section>
-
-      <link rel="stylesheet" href="css/justifiedGallery.css" />
-      <script src="js/jquery.justifiedGallery.js"></script>
-      $("#myGallery").justifiedGallery({
-        rowHeight : 200,
-        lastRow : 'nojustify',
-        margins : 3
-      });
 
     {% endif %}
   {% endfor %}
