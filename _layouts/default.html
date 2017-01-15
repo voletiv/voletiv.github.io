@@ -62,13 +62,12 @@
                       {% if post.type == "travel" %}
                         <li>
                             <div class="post-date">
-                              <p class="text-muted"><font face="lato" size=3px>{{ post.content }}</font></p>
                               <div id="myGallery">
                                 <a href="/img/travel/1.jpg">
                                     <img alt="caption for image 1" src="/img/travel/1.jpg"/>
                                 </a>
                                 <a href="/img/travel/1.jpg">
-                                    <img alt="caption for image 2" src="/img/travel/1.jpg"/>
+                                    <img alt="caption for image 2" src="/img/travel/2.jpg"/>
                                 </a>
                               </div>
                               <br>
@@ -122,7 +121,11 @@
 
       <link rel="stylesheet" href="css/justifiedGallery.css" />
       <script src="js/jquery.justifiedGallery.js"></script>
-      $("#myGallery").justifiedGallery();
+      $("#myGallery").justifiedGallery({
+        rowHeight : 200,
+        lastRow : 'nojustify',
+        margins : 3
+      });
 
     {% endif %}
   {% endfor %}
