@@ -8,12 +8,14 @@ title: Travel
 <div class="travel">
 
   <ul class="travels">
-    {% for travel in site.travels %}
-      <li>
-        <span class="travel-date">{{ travel.date | travel: "%b %-d, %Y" }}</span>
-          <p class="text-muted"><font face="lato" size=3px> {{ travel.content }} </font></p>
-        <br>
-      </li>
+    {% for post in site.posts %}
+      {% if post.section-type == "travel" %}
+        <li>
+          <span class="travel-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <p class="text-muted"><font face="lato" size=3px> {{ post.content }} </font></p>
+          <br>
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 
