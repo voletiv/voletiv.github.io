@@ -11,7 +11,7 @@
     var settings = $.extend({
       itemSelector: ".item",
       resize: true,
-      rowHeight: $(window).height() / 4,
+      rowHeight: 20,
       callback: function() {}
     }, options );
 
