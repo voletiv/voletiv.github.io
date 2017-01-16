@@ -63,7 +63,7 @@
                           <h4>{{ post.date | date: "%b %-d, %Y" }}</h4>
                           <h4>{{post.title}}</h4>
                           <br>
-                          <div id="myGallery" ng-repeat="n in range(1,5)">
+                          <div id="myGallery" ng-repeat="n in [] | range:5">
                             <h4>{{n}}</h4>
                             <a href="/img/travel/{{n}}.jpg">
                                 <img alt="caption for image {{n}}" src="/img/travel/{{n}}.jpg"/>
@@ -125,14 +125,6 @@
 	{% include js.html %}
 
   <script>
-  $scope.range = function(min, max, step) {
-    step = step || 1;
-    var input = [];
-    for (var i = min; i <= max; i += step) {
-        input.push(i);
-    }
-    return input;
-  };
   $("#myGallery").justifiedGallery();
   </script>
 
