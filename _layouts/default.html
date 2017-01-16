@@ -136,9 +136,10 @@
 	{% include js.html %}
 
   <script>
+  $("#myGallery").ready(function() { $("#myGallery").load(function() { [justifiedGallery] }); });
   $("#myGallery").justifiedGallery({
-    rowHeight : 200,
-    maxRowHeight : 400,
+    rowHeight : 100,
+    maxRowHeight : 200%,
     lastRow : 'nojustify',
     captions : false,
     margins : 1,
