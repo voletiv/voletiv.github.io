@@ -1,0 +1,13 @@
+/* http://www.jqueryscript.net/gallery/jQuery-Responsive-Justified-Image-Gallery-Plugin-Photogrid-js.html
+*/
+
+.photoGrid .item {
+  float: left;
+  margin: 2px;
+}
+
+.photoGrid .item img {
+  width: 100%;
+  max-width: 100%;
+  max-height: 100%;
+}

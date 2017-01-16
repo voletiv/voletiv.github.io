@@ -66,50 +66,12 @@
                       <h4>{{post.title}}</h4>
                       <h4>{{post.nOfImages}}</h4>
                       <br>
-                      <div id="myGallery" ng-repeat="n in [] | range:"+{{post.nOfImages}}>
-                        <?php
-                        $directory = {{post.directory}};	//where the gallery images are located
-
-                        $allowed_types=array('jpg','jpeg','gif','png');	//allowed image types
-
-                        $file_parts=array();
-                        $ext='';
-                        $title='';
-                        $i=0;
-
-                        //try to open the directory
-                        $dir_handle = @opendir($directory) or die("There is an error with your image directory!");
-                        echo '
-                        <div class="pic '.$nomargin.'" style="no-repeat 50% 50%;">
-                        ';
-                        while ($file = readdir($dir_handle))	//traverse through the files
-                        {
-                          if($file=='.' || $file == '..') continue;	//skip links to the current and parent directories
-
-                          $file_parts = explode('.',$file);	//split the file name and put each part in an array
-                          $ext = strtolower(array_pop($file_parts));	//the last element is the extension
-
-                          $title = implode('.',$file_parts);	//once the extension has been popped out, all that is left is the file name
-                          $title = htmlspecialchars($title);	//make the filename html-safe to prevent potential security issues
-
-                          $nomargin='';
-                          if(in_array($ext,$allowed_types))	//if the extension is an allowable type
-                          {
-                            if(($i+1)%4==0) $nomargin='nomargin';	//the last image on the row is assigned the CSS class "nomargin"
-                            echo '
-                              <a href="'.$directory.'/'.$file.'">
-                                <img alt="'.$title.'" src="'.$directory.'/'.$file.'"/>
-                              </a>
-                            ';
-
-                            $i++;	//increment the image counter
-                          }
-                        }
-                        echo '
-                        </div>';
-
-                        closedir($dir_handle);
-                        ?>
+                      <div class="photoGrid">
+                        <a class="item" href="/img/travel/1.jpg"><img src="/img/travel/1.jpg"></a>
+                        <a class="item" href="/img/travel/2.jpg"><img src="/img/travel/2.jpg"></a>
+                        <a class="item" href="/img/travel/3.jpg"><img src="/img/travel/3.jpg"></a>
+                        <a class="item" href="/img/travel/4.jpg"><img src="/img/travel/4.jpg"></a>
+                        <a class="item" href="/img/travel/5.jpg"><img src="/img/travel/5.jpg"></a>
                       </div>
                       <br>
                     </div>
@@ -120,7 +82,6 @@
           </div>
         </div>
       </section>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     {% elsif page.section-type == "timeline" %}
       <!-- {{ page.title }} Section -->
       <section id="{{ page.title }}" class="container content-section text-center">
@@ -167,7 +128,9 @@
 	{% include js.html %}
 
   <script>
-  $("#myGallery").justifiedGallery();
+  $(window).load(function() {
+    $('.photoGrid').photoGrid();
+  });
   </script>
 
 </body>
