@@ -65,12 +65,12 @@
                       <h4>{{ post.date | date: "%b %-d, %Y" }}</h4>
                       <h4>{{post.title}}</h4>
                       <br>
-                      <li ng-repeat="n in [1, 2, 3, 4]">{{n}}</li>
-                      <div id="myGallery" ng-repeat="n in [1,2,3,4]">
-                        {{n}}
-                        <a href="/img/travel/{{n}}.jpg">
-                          <img alt="caption for image{{n}}" src="/img/travel/{{n}}.jpg"/>
-                        </a>
+                      <div class="photoGrid">
+                        <a class="item" href="/img/travel/1.jpg"><img src="/img/travel/1.jpg"></a>
+                        <a class="item" href="/img/travel/2.jpg"><img src="/img/travel/2.jpg"></a>
+                        <a class="item" href="/img/travel/3.jpg"><img src="/img/travel/3.jpg"></a>
+                        <a class="item" href="/img/travel/4.jpg"><img src="/img/travel/4.jpg"></a>
+                        <a class="item" href="/img/travel/5.jpg"><img src="/img/travel/5.jpg"></a>
                       </div>
                       <br>
                     </div>
@@ -128,7 +128,7 @@
 	{% include js.html %}
 
   <script>
-  $("#myGallery").justifiedGallery();
+  $(".photoGrid").photoGrid();
   </script>
 
 </body>
