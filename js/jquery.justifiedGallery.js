@@ -463,7 +463,6 @@
         }
       } else {
         scrollBarOn = hasScrollBar();
-        this.galleryWidth = galleryWidth;
       }
     }, this), this.settings.refreshTime);
   };
