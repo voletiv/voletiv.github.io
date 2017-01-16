@@ -59,7 +59,7 @@
                   {% for post in site.posts %}
                     {% if post.type == "travel" %}
                       <li class="timeline-inverted">
-                        <div>
+                        <div class="timeline-panel">
                           <h4>{{ post.date | date: "%b %-d, %Y" }}</h4>
                           <h4 class="subheading">{{post.title}}</h4>
                           <br>
