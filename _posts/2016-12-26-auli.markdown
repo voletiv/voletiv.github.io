@@ -5,6 +5,7 @@ date: 2016-12-26 22:00:00
 title: Joshimath-Auli-Mussoorie
 subtitle: with Aravind Atreya, Barath Mahadevan, Sanjay Dixit
 nOfImages: 5
+directory: "/img/travel/"
 ---
 First travel thingy
 ![alt text](/img/travel/1.jpg "Gurson meadows")
