@@ -1,12 +1,12 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
-  {% include head.html %}
+	{% include head.html %}
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
-  {% include navigation.html %}
-  {% include header.html %}
+	{% include navigation.html %}
+	{% include header.html %}
 
   {% for page in site.pages %}
     {% if page.section-type == "default" %}
@@ -67,7 +67,7 @@
                       <br>
                       <div id="myGallery" ng-repeat="n in [] | range:5">
                         <a href="/img/travel/{{n}}.jpg">
-                          <img src="/img/travel/{{n}}.jpg"/>
+                          <img alt="caption for image {{n}}" src="/img/travel/{{n}}.jpg"/>
                         </a>
                       </div>
                       <br>
@@ -79,6 +79,7 @@
           </div>
         </div>
       </section>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     {% elsif page.section-type == "timeline" %}
       <!-- {{ page.title }} Section -->
       <section id="{{ page.title }}" class="container content-section text-center">
@@ -121,11 +122,11 @@
     {% endif %}
   {% endfor %}
 
-  {% include footer.html %}
-  {% include js.html %}
+	{% include footer.html %}
+	{% include js.html %}
 
   <script>
-  $("#photoGrid").photoGrid();
+  $("#myGallery").justifiedGallery();
   </script>
 
 </body>
