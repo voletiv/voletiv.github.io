@@ -5,23 +5,23 @@
  * MIT License (see http://marco.mit-license.org)
  */
 (function ( $ ) {
- 
+
   $.fn.photoGrid = function( options ) {
- 
+
     var settings = $.extend({
       itemSelector: ".item",
       resize: true,
-      rowHeight: $(window).height() / 2,
+      rowHeight: $(window).height() / 4,
       callback: function() {}
     }, options );
-    
+
     // Private Functions
-    _layout = function($container, itemSelector, callback) {  
+    _layout = function($container, itemSelector, callback) {
       // Based on http://www.crispymtn.com/stories/the-algorithm-for-a-perfectly-balanced-photo-gallery
       var ideal_height, index, partition, row_buffer, rows, summed_width, containerWidth, weights;
 
       var photos = $container.find(itemSelector).toArray();
-      
+
       containerWidth = $container.width();
 
       ideal_height = parseInt(settings.rowHeight);
@@ -35,10 +35,10 @@
       if (rows < 1) {
         width = parseInt(ideal_height * aspect_ratio(photos));
         height = ideal_height;
-        $(photos).css({        
+        $(photos).css({
           width: width - parseInt($(photos).css('marginLeft')) * 2,
           height: height - parseInt($(photos).css('marginTop')) * 2
-        });      
+        });
       } else {
         weights = photos.map(function(p) {
           return parseInt(aspect_ratio(p) * 100);
@@ -58,14 +58,14 @@
           return $.each(row_buffer,function(index, photo) {
             width = parseInt(containerWidth / summed_ratios * aspect_ratio(photo));
             height = parseInt(containerWidth / summed_ratios);
-            $(photo).css({        
+            $(photo).css({
               width: width - parseInt($(photo).css('marginLeft')) * 2,
               height: height - parseInt($(photo).css('marginTop')) * 2
             });
           });
         });
-      } 
-      
+      }
+
       callback && callback();
     }
 
@@ -81,7 +81,7 @@
       var nativeIsArray = Array.isArray;
       var nativeForEach = Array.prototype.forEach;
       var _ = {};
-      
+
       var each = _.each = _.forEach = function(obj, iterator, context) {
         if (obj == null) return obj;
         if (nativeForEach && obj.forEach === nativeForEach) {
@@ -97,7 +97,7 @@
           }
         }
         return obj;
-      };      
+      };
       _.isArray = nativeIsArray || function(obj) {
         return toString.call(obj) == '[object Array]';
       };
@@ -121,7 +121,7 @@
           });
         }
         return result;
-      };  
+      };
       _.min = function(obj, iterator, context) {
         var result = Infinity, lastComputed = Infinity,
             value, computed;
@@ -144,7 +144,7 @@
         return result;
       };
       // END: underscore.js dependencys
-    
+
       var ans, i, j, m, n, solution, table, x, y, _i, _j, _k, _l;
       n = seq.length;
       if (k <= 0) {
@@ -241,7 +241,7 @@
 
       // Start grid layout
       _layout($container, settings.itemSelector, settings.callback);
-      
+
       // Window resize event
       if(settings.resize) {
         var resizeTimer;
@@ -251,10 +251,10 @@
         $(window).resize(function() {
           clearTimeout(resizeTimer);
           resizeTimer = setTimeout(resizeFunction, 250);
-        });  
+        });
       }
     });
- 
+
   };
- 
+
 }( jQuery ));
