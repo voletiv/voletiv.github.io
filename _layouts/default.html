@@ -55,11 +55,11 @@
           <div class="row">
               <div class="col-lg-8 col-lg-offset-2">
                 {{ page.content | markdownify }}
-                  <ul>
+                  <ul class="timeline">
                   {% for post in site.posts %}
                     {% if post.type == "travel" %}
-                      <li>
-                        <div>
+                      <li class="timeline-inverted">
+                        <div class="timeline-panel">
                           <h4>{{ post.date | date: "%b %-d, %Y" }}</h4>
                           <h4 class="subheading">{{post.title}}</h4>
                           <br>
