@@ -52,31 +52,44 @@
     {% elsif page.section-type == "travel" %}
       <!-- {{ page.title }} Section -->
       <section id="{{ page.title }}" class="container content-section">
-          <div class="row">
-              <div class="col-lg-8 col-lg-offset-2">
-                {{ page.content | markdownify }}
-                  <ul>
-                  {% for post in site.posts %}
-                    {% if post.type == "travel" %}
-                      <li>
-                        <div>
-                          <h4>{{ post.date | date: "%b %-d, %Y" }}</h4>
-                          <h4>{{post.title}}</h4>
-                          <br>
-                          <div id="myGallery" ng-repeat="n in [] | range:5">
-                            <h4>{{n}}</h4>
-                            <a href="/img/travel/{{n}}.jpg">
-                                <img alt="caption for image {{n}}" src="/img/travel/{{n}}.jpg"/>
-                            </a>
-                          </div>
-                          <br>
-                        </div>
-                      </li>
-                    {% endif %}
-                  {% endfor %}
-                </ul>
-              </div>
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            <div class="text-center">
+              {{ page.content | markdownify }}
+            </div>
+            <ul>
+              {% for post in site.posts %}
+                {% if post.type == "travel" %}
+                  <li>
+                    <div>
+                      <h4>{{ post.date | date: "%b %-d, %Y" }}</h4>
+                      <h4>{{post.title}}</h4>
+                      <br>
+                      <div id="myGallery">
+                        <a href="/img/travel/1.jpg">
+                          <img alt="caption for image 1" src="/img/travel/1.jpg"/>
+                        </a>
+                        <a href="/img/travel/2.jpg">
+                          <img alt="caption for image 2" src="/img/travel/2.jpg"/>
+                        </a>
+                        <a href="/img/travel/3.jpg">
+                          <img alt="caption for image 3" src="/img/travel/3.jpg"/>
+                        </a>
+                        <a href="/img/travel/4.jpg">
+                          <img alt="caption for image 4" src="/img/travel/4.jpg"/>
+                        </a>
+                        <a href="/img/travel/5.jpg">
+                          <img alt="caption for image 5" src="/img/travel/5.jpg"/>
+                        </a>
+                      </div>
+                      <br>
+                    </div>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
           </div>
+        </div>
       </section>
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     {% elsif page.section-type == "timeline" %}
