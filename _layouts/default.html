@@ -64,6 +64,7 @@
                     <div>
                       <h4>{{ post.date | date: "%b %-d, %Y" }}</h4>
                       <h4>{{post.title}}</h4>
+                      <h4>{{post.nOfImages}}</h4>
                       <br>
                       <div id="myGallery" ng-repeat="n in [] | range:{{post.nOfImages}}">
                         <a href="/img/travel/{{n}}.jpg">
