@@ -66,8 +66,8 @@
                       <h4>{{post.title}}</h4>
                       <br>
                       <div id="myGallery" ng-repeat="n in [] | range:5">
-                        <a href="/img/travel/{n}.jpg">
-                          <img src="/img/travel/{n}.jpg"/>
+                        <a href="/img/travel/{{n}}.jpg">
+                          <img src="/img/travel/{{n}}.jpg"/>
                         </a>
                       </div>
                       <br>
@@ -125,7 +125,7 @@
   {% include js.html %}
 
   <script>
-  //$("#photoGrid").photoGrid();
+  $("#photoGrid").photoGrid();
   </script>
 
 </body>
