@@ -7,9 +7,21 @@
 
     {% include header.html %}
 
-    <div class="container content">
+    <div class="body-container content">
+    {% if page.type == "contact" %}
+        <div class="contact">
+    {% endif %}
+
         {{ content }}
+
+    {% if page.type == "contact" %}
+        </div>
+    {% endif %}
     </div>
+
+    {% if page.type != "contact" %}
+    {% include footer.html %}
+    {% endif %}
 
 </body>
 </html>

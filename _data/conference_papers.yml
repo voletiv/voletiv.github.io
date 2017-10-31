@@ -23,7 +23,7 @@
   image: mtp_final_result.png
   description: Elimination of fence-like occlusions, inpainting of images using RGB-D data
   authors: S. Jonna, V. S. Voleti and R. R. Sahay
-  venue: International Conference on Advancements in Pattern Recognition, ICAPR'15
+  venue: International Conference on Advances in Pattern Recognition, ICAPR'15
   number_link: 2
   link1:
     url: docs/ICAPR_2015.pdf

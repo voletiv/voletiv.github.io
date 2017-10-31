@@ -14,11 +14,18 @@
         margin-top: 5px;
         margin-bottom: 5px;
     }
-    ul > li {
-        margin: 0px 0px 10px 205px;
-    }
     ul {
-        padding: 0 20px 0 20px;;
+        padding: 0 20px 0 20px;
+    }
+    ul > li {
+        margin: 0px 0px 10px 0px;
+    }
+    .publications ul {
+        padding: 0 20px 0 20px;
+        line-height: 75%;
+    }
+    .publications ul > li {
+        margin: 0px 0px 10px 205px;
     }
     ol {
         padding: 0 30px 0 30px;
@@ -40,7 +47,7 @@
         // height: $image-size;
         width: 25%;
         position: relative;
-        margin: -10px 0 0 15px;
+        margin: 0px 0px 150px 100px;
         float: right;
         border-radius: 10%;
         p & {

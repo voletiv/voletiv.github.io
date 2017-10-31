@@ -1,14 +1,92 @@
-- title: Image De-fencing using Microsoft Kinect
-  image: mtp.jpg
+- title: Image De-fencing using Microsoft Kinect (M.Tech. Thesis)
+  image: mtp_rect.jpg
   description: <ul>
                <li>Elimination of fence-like occlusions, inpainting of images using RGB-D data</li>
                <li>Nominated for Best M.Tech. Project Award among three departments (Electrical, Electronics, CS)</li>
-               <li>Research paper [4] based on project work is published in the proceedings of ICAPR 2015 by IEEE</li>
-               <li>Co-authored journal paper [1] is under review at the International Journal of Computer Vision (IJCV)</li>
+               <li>Research paper based on project work is published in the proceedings of ICAPR 2015 by IEEE</li>
+               <li>Co-authored journal paper is under review at the International Journal of Computer Vision (IJCV)</li>
                </ul>
-  authors: V. Voleti
-  venue: 24th National Conference on Communications, NCC 2018 (under review)
-  number_link: 1
+  venue: IIT Kharagpur
+  number_link: 3
   link1:
-    url: docs/NCC_2018.pdf
-    display: pdf
+    url: https://github.com/voletiv/MTP_inPainting/blob/master/Vikram_Voleti_Masters_Thesis_compressed.pdf
+    display: THESIS
+  link2:
+    url: https://github.com/voletiv/MTP_inPainting/blob/master/Sem_10_MTP_Presentation.pdf
+    display: Presentation
+  link3:
+    url: https://github.com/voletiv/MTP_inPainting
+    display: GitHub
+
+- title: Implementation of Carry-Free Arithmetic Operations in FPGA (Summer 2013)
+  image: leuven_summer.png
+  description: <ul>
+               <li>Designed and implemented addition, subtraction, multiplication using Carry-Free Logic</li>
+               <li>Developed, tested and verified the modules in Verilog, and simulated circuits in Xilinx</li>
+               </ul>
+  venue: KU Leuven
+  number_link: 3
+  link1:
+    url: https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Report/KULeuven_Report.pdf
+    display: Report
+  link2:
+    url: https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Presentation/Implementation_of_Carry-Free_Arithmetic_Primitives_for_Prime_Field_Elliptic_Curve_Cryptography.pdf
+    display: Presentation
+  link3:
+    url: https://github.com/voletiv/summer_2013_KULeuven
+    display: GitHub
+
+- title: Determination of Time Offset between Audio and Video (B.Tech. Thesis)
+  image: btp.png
+  description: <ul>
+               <li>Measurement of synchronization between audio and video using bilabial cues in both modes</li>
+               <li>Trained a Gaussian Mixture Model (GMM) in MATLAB with MFCCs extracted from audio</li>
+               <li>Devised a C++ program to identify lip closures in video using OpenCV modules</li>
+               </ul>
+  venue: IIT Kharagpur
+  number_link: 3
+  link1:
+    url: https://github.com/voletiv/BTP_GMM_lipClosure/blob/master/Bachelors_Thesis.pdf
+    display: THESIS
+  link2:
+    url: https://github.com/voletiv/BTP_GMM_lipClosure/blob/master/Vikram_Voleti_\%5B09EE3501\%5D_BTP_Presentation.pdf
+    display: Presentation
+  link3:
+    url: https://github.com/voletiv/BTP_GMM_lipClosure
+    display: GitHub
+
+- title: Fingertip Gesture Recognizer using HMMs (Summer 2012)
+  image: tri.png
+  description: <ul>
+               <li>Implemented Hidden Markov Models (HMMs) in MATLAB, verified with standard implementations</li>
+               <li>Created a MATLAB program that recognizes shapes drawn by fingertip using HMM</li>
+               </ul>
+  venue: IIT Kharagpur
+  number_link: 3
+  link1:
+    url: https://github.com/voletiv/summer_2012_HMM_FingerTipGestureRecognition/blob/master/Vikram\%20Voleti\%20\%5B09EE3501\%5D\%20Summer\%202012\%20Internship\%20Report.pdf
+    display: Report
+  link2:
+    url: https://github.com/voletiv/summer_2012_HMM_FingerTipGestureRecognition/blob/master/Ppt.pdf
+    display: Presentation
+  link3:
+    url: https://github.com/voletiv/summer_2012_HMM_FingerTipGestureRecognition
+    display: GitHub
+
+- title: Measurement of Intra-die Power Variation in Sub-nm FPGA’s (Summer 2011)
+  image: icl.png
+  description: <ul>
+               <li>Measured the relative power consumption among the LookUp Tables (LUTs) of an FPGA</li>
+               <li>Designed and implemented an automated workflow for signal processing, and visualization of results</li>
+               </ul>
+  venue: Imperial College, London
+  number_link: 2
+  link1:
+    url: https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London/blob/master/An Automated Flow for Intra-Die Power Variation Measurement.pdf
+    display: Presentation
+  link2:
+    url: https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London
+    display: GitHub
+
+
+

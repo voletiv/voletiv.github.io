@@ -2,18 +2,45 @@
 title: Vikram Voleti's contact details
 layout: default
 excerpt: Vikram Voleti's contact details
+type: contact
 ---
 
 ## Contact
 
-Email: [vikram.voleti@gmail.com](mailto:vikram.voleti@gmail.com)
-
-[//]: # * Phone: +91 77600 53663
+[<i class="fa fa-envelope"></i> vikram.voleti@gmail.com](mailto:vikram.voleti@gmail.com)
 
 ---
 
-[//]: # ## Social
+{% if site.github_username %}
+<a href="https://github.com/{{ site.github_username }}">
+<i class="fa fa-github"></i> GitHub
+</a>
+{% endif %}
 
-[GitHub](https://github.com/voletiv)
+{% if site.linkedin_username %}
+<a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+<i class="fa fa-linkedin"></i> LinkedIn
+</a>
+{% endif %}
 
-[LinkedIn](https://www.linkedin.com/in/vikram-voleti-45372222/)
+{% if site.quora_username %}
+<a href="https://www.quora.com/profile/{{ site.quora_username }}">
+<i class="fa fa-quora"></i> Quora
+</a>
+{% endif %}
+
+{% if site.facebook_username %}
+<a href="https://www.facebook.com/{{ site.facebook_username }}">
+<i class="fa fa-facebook"></i> Facebook
+</a>
+{% endif %}
+
+---
+
+### Movie review blog:
+
+{% if site.wordpress_username %}
+<a href="https://{{ site.wordpress_username }}.wordpress.com">
+<i class="fa fa-wordpress"></i> Wordpress
+</a>
+{% endif %}

@@ -1,6 +1,9 @@
 - name: "CONTACT"
   link: "contact"
 
+- name: "EXPERIENCE"
+  link: "experience"
+
 - name: "CV"
   link: "docs/Vikram_Voleti_Academic_20171031.pdf"
 

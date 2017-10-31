@@ -6,16 +6,20 @@
 
 html {
     height: 100%;
+    width: 100%;
     margin: 0;
     padding: 0;
+    overflow:scroll;
 }
+
 body {
     margin: 0;
-    font-family: "Calibri", sans-serif;
+    font-family: sans-serif;
     font-size: 13px;
     color: #272727;
     height: 100%;
 }
+
 a {
     text-decoration: none;
     color: $accent;
@@ -23,28 +27,56 @@ a {
 a:hover {
     text-decoration: underline;
 }
-hr {
+
+hr.top{
     border: 0;
     height: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
     background-color: #dddddd;
+    margin: 3px 0px 3px 0px;
+}
+
+hr.bottom {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    background-color: #dddddd;
+    margin: 0px 0px 10px 0px;
+}
+
+p {
+    text-align: justify;
 }
 
 /*
  * Navbar
  */
 
+/* Fix top */
+.fixed-top {
+    // display: inline-block;
+    position: fixed;
+    top: 0;
+    // left: 50%;
+    margin: -10px 0px 0px 0px; /* Negative half of height. */
+    // margin-left: 50px;
+    width: 100%;
+}
+
 #author-name {
     font-size: 30px;
     // font-weight: bold;
     color: #272727;
-    display: inline-block;
+    // display: inline-block;
     margin: -10px 0px 0px 0px;
 }
 .navbar {
+    width: 100%;
+    height: 20px;
     background-color: #eeeeee;
-    padding: 20px 0px 40px 0px;
+    padding: 20px 0px 15px 0px;
 }
 .navbar-ul {
     font-size: 15px;
@@ -74,6 +106,13 @@ hr {
     max-width: 50%;
     margin: auto;
 }
+
+.body-container {
+    max-width: 50%;
+    margin: auto;
+    padding-top: 70px;
+}
+
 .wrapper {
     min-height: 100%;
 }
@@ -86,7 +125,7 @@ hr {
     padding: 20px;
     margin-bottom: 20px;
     background-color: #ffffff;
-    border: 1px solid darken(#ffffff, 10%);
+    border: 1px solid darken(#ffffff, 20%);
     blockquote {
         border-color: #ddd;
         border-color: rgba(0,0,0,.15);
@@ -100,14 +139,50 @@ hr {
 }
 
 .publication-picture {
-    display: inline-block;
+    // display: inline-block;
     max-width: 20%;
     float: left;
     padding: 2px;
-    border: 1px solid darken(#ffffff, 7%);
+    border: 1px solid darken(#ffffff, 20%);
     border-radius: 10px;
     margin: 0px 20px 0px 0px;
     overflow: hidden;
+}
+
+// .publication-links {
+//     margin: 0px 0px 5px 0px;
+// }
+
+/* Social */
+
+.contact {
+    font-size: 15px;
+    line-height: 200%;
+}
+
+.contact i {
+    font-size: 2em;
+    margin-right: 2px
+}
+
+/* Footer */
+
+.footer {
+    font-size: 12px;
+    /* Set the fixed height of the footer here */
+    height: 20px;
+    margin: 100px 0px 10px 0px;
+    border: 1px solid transparent;
+    // border-radius: 4px;
+    // @include box-shadow(0 1px 1px rgba(0,0,0,.05));
+    padding: 10px 0px 20px 0px;
+    background-color: #e5e5e5;
+    border-top: 1px solid transparent;
+}
+
+.footer i {
+    font-size: 2em;
+    margin-left: 2px
 }
 
 /* Mobile */

@@ -4,13 +4,15 @@ layout: default
 excerpt: Home page of Vikram Voleti's website
 ---
 
-<img class="profile-picture" src="images/bindu_akka_f.jpg">
+<img class="profile-picture" src="images/bindu_akka_f_small.jpg">
 
 ## About Me
 
-I am currently a researcher under Prof. C. V. Jawahar at the Applied Research Lab, CVIT, IIIT-Hyderabad.
+I am currently a researcher under Prof. C. V. Jawahar at the Applied Research Lab, CVIT, IIIT-Hyderabad. My current work is on weakly supervised lipreading using deep neural networks. I am experimenting with convolutional and recurrent neural networks to achieve standard benchmarks in visual speech recognition.
 
-Previously, I worked as an Image Processing Engineer at GreyOrange Robotics, a multinational firm that designs, manufactures and deploys advanced robotics systems for automation at warehouses, distribution and fulfillment centres. My job was to developed a computer vision module to perform video processing in real time for warehouse automation. We made an "Empty Carriage Detection System" (ECDS) for the "Cross-Belt Sorter" (CBS) that detects in real time whether a carriage in a conveyor belt has a packet on it or not, and relays the information to the server and mechanical systems. I also helped develop the embedded vision module in automated guided robots for warehouses, called "Butlers".
+Previously, I worked as an Image Processing Engineer at GreyOrange Robotics in the Embedded Systems team. I was involved in designing computer vision modules for real time video processing and pattern recognition for warehouse automation and autonomos robots. Before that, I worked in Airbus, India, in the Avionics Software and Systems Testing group. I was involved in development and validation of avionincs systems in the Flight Warning Computer for aircrafts in the long-range family.
+
+I graduated from IIT Kharagpur, India, in 2014 with a Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering, my Master's specialization being Instrumentation and Signal Processing. My Bachelor's and Master's thesis were in the areas of computer vision, image processing, machine learning.
 
 ## Research Interests
 

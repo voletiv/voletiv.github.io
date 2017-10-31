@@ -8,13 +8,11 @@ excerpt: Vikram Voleti's publications
 
 {% for publication in site.data.journal_papers %}
 
-{% assign loopindex = forloop.index %}
-[//]: # **[{{loopindex}}]**
 {% include publications.html %}
 
 {% endfor %}
 
-<p> &nbsp; </p>
+<p>&nbsp;</p>
 
 {% assign numOfJournals = loopindex %}
 
@@ -22,13 +20,11 @@ excerpt: Vikram Voleti's publications
 
 {% for publication in site.data.conference_papers %}
 
-{% assign loopindex = forloop.index | plus: numOfJournals %}
-[//]: # **[{{loopindex}}]**
 {% include publications.html %}
 
 {% endfor %}
 
-<p> &nbsp; </p>
+<p>&nbsp;</p>
 
 ## Thesis / Reports
 
@@ -38,6 +34,3 @@ excerpt: Vikram Voleti's publications
 
 {% endfor %}
 
-<p> &nbsp; </p>
-<p> &nbsp; </p>
-<p> &nbsp; </p>
