@@ -1,0 +1,57 @@
+<div class="publications">
+
+    <!-- <div class="publication-title">[{{loopindex}}] {{ publication.title }}</div> -->
+    <div class="publication-title">{{ publication.title }}</div>
+
+    <img class="publication-picture" src="images/publications/{{ publication.image }}" alt="NOT FOUND" />
+
+    {% if publication.description %}
+    <p>{{ publication.description }}</p>
+    {% endif %}
+
+    <p><em>{{ publication.authors }}</em></p>
+
+    <p>{{ publication.venue }}</p>
+
+    {% if publication.number_link == 1 %}
+    <p><a href="{{ publication.link1.url }}">{{ publication.link1.display }}</a></p>
+    {% endif %}
+
+    {% if publi.number_link == 2 %}
+    <p><a href="{{ publication.link1.url }}">{{ publication.link1.display }}</a>
+    |
+    <a href="{{ publication.link2.url }}">{{ publication.link2.display }}</a></p>
+    {% endif %}
+
+    {% if publi.number_link == 3 %}
+    <p><a href="{{ publication.link1.url }}">{{ publication.link1.display }}</a>
+    |
+    <a href="{{ publication.link2.url }}">{{ publication.link2.display }}</a>
+    |
+    <a href="{{ publication.link3.url }}">{{ publication.link3.display }}</a></p>
+    {% endif %}
+
+    {% if publication.number_link == 4 %}
+    <p><a href="{{ publication.link1.url }}">{{ publication.link1.display }}</a>
+    |
+    <a href="{{ publication.link2.url }}">{{ publication.link2.display }}</a>
+    |
+    <a href="{{ publication.link3.url }}">{{ publication.link3.display }}</a>
+    |
+    <a href="{{ publication.link4.url }}">{{ publication.link4.display }}</a></p>
+    {% endif %}
+
+    {% if publi.number_link == 5 %}
+    <p><a href="{{ publication.link1.url }}">{{ publication.link1.display }}</a>
+    |
+    <a href="{{ publication.link2.url }}">{{ publication.link2.display }}</a>
+    |
+    <a href="{{ publication.link3.url }}">{{ publication.link3.display }}</a>
+    |
+    <a href="{{ publication.link4.url }}">{{ publication.link4.display }}</a>
+    |
+    <a href="{{ publication.link5.url }}">{{ publication.link5.display }}</a></p>
+    {% endif %}
+
+</div>
+

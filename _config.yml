@@ -1,20 +1,15 @@
-url: "http://voletiv.github.io/timeline"
-baseurl: ""
-
-# Site Settings
 title: Vikram Voleti
 author: Vikram Voleti
-email: vikram.voleti@gmail.com
-github_username:  voletiv
-github_site: "github.com/voletiv"
-linkedIn_site: "https://in.linkedin.com/in/vikram-voleti-45372222"
-description: "My technical diary."
-twitter_username: vikky2904
-keywords: "blog, academic, Vikram, Voleti"
-google-tracking-id:
+url: "voletiv.github.io"
+baseurl: ""
 
-# Career Settings
-# Default career thumbnail image.
-career-img: "img/vikky-ironman.jpg"
+description: Vikram Voleti's website
 
-exclude: ["Rakefile", "LICENSE", "readme.markdown"]
+markdown: kramdown
+
+google_analytics_tracking_id: UA-109052064-1
+
+sass:
+    style: compressed
+    sass_dir: _sass
+

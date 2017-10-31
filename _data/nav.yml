@@ -1,0 +1,11 @@
+- name: "CONTACT"
+  link: "contact"
+
+- name: "CV"
+  link: "docs/Vikram_Voleti_Academic_20171031.pdf"
+
+- name: "PUBLICATIONS"
+  link: "publications"
+
+- name: "HOME"
+  link: "/"

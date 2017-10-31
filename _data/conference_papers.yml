@@ -1,0 +1,34 @@
+- title: Carry-Free Implementations of Arithmetic Operations in FPGA
+  image: leuven_2013.png
+  description: <ul><li>Design and implementation of addition, subtraction, multiplication using Carry-Free Logic</li>
+               <li>Developed, tested and verified the modules in Verilog, and simulated circuits in Xilinx</li></ul>
+  authors: V. Voleti
+  venue: 24th National Conference on Communications, NCC 2018 (under review)
+  number_link: 1
+  link1:
+    url: docs/NCC_2018.pdf
+    display: pdf
+
+- title: Simple Real-Time Pattern Recognition for Industrial Automation
+  image: ecds.jpg
+  description: Optimization and implemention of vision and learning algorithms for faster pattern recognition
+  authors: V. Voleti, P. Mohan, S. Gupta, and J. Iqbal
+  venue: International Conference on Industrial Design Engineering, ICIDE 2017 (under review)
+  number_link: 1
+  link1:
+    url: docs/ICIDE_2017.pdf
+    display: pdf
+
+- title: A Multimodal Approach for Image De-fencing and Depth Inpainting
+  image: mtp_final_result.png
+  description: Elimination of fence-like occlusions, inpainting of images using RGB-D data
+  authors: S. Jonna, V. S. Voleti and R. R. Sahay
+  venue: International Conference on Advancements in Pattern Recognition, ICAPR'15
+  number_link: 2
+  link1:
+    url: docs/ICAPR_2015.pdf
+    display: pdf
+  link2:
+    url: http://ieeexplore.ieee.org/document/7050696/
+    display: IEEE page
+

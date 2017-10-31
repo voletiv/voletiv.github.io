@@ -1,0 +1,138 @@
+@import "vars";
+
+/*
+ * Basic
+ */
+
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    font-family: "Calibri", sans-serif;
+    font-size: 13px;
+    color: #272727;
+    height: 100%;
+}
+a {
+    text-decoration: none;
+    color: $accent;
+}
+a:hover {
+    text-decoration: underline;
+}
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    background-color: #dddddd;
+}
+
+/*
+ * Navbar
+ */
+
+#author-name {
+    font-size: 30px;
+    // font-weight: bold;
+    color: #272727;
+    display: inline-block;
+    margin: -10px 0px 0px 0px;
+}
+.navbar {
+    background-color: #eeeeee;
+    padding: 20px 0px 40px 0px;
+}
+.navbar-ul {
+    font-size: 15px;
+    display: inline-block;
+    margin: 0;
+    margin-left: 0px;
+}
+.nav-list {
+    list-style-type: none;
+    margin: 0px 20px 0px 20px;
+}
+.alignable {
+    display: inline-block;
+}
+.pull-left {
+    @extend .alignable;
+    float: left;
+}
+.pull-right {
+    @extend .alignable;
+    float: right;
+}
+
+/* Divs */
+
+.container {
+    max-width: 50%;
+    margin: auto;
+}
+.wrapper {
+    min-height: 100%;
+}
+
+/* Publications */
+
+.publications {
+    min-height: 20px;
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border: 1px solid darken(#ffffff, 10%);
+    blockquote {
+        border-color: #ddd;
+        border-color: rgba(0,0,0,.15);
+      }
+}
+
+.publication-title {
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.publication-picture {
+    display: inline-block;
+    max-width: 20%;
+    float: left;
+    padding: 2px;
+    border: 1px solid darken(#ffffff, 7%);
+    border-radius: 10px;
+    margin: 0px 20px 0px 0px;
+    overflow: hidden;
+}
+
+/* Mobile */
+
+@media (max-width: 800px) {
+    .container {
+        max-width: $med-width;
+        transition: 0.3s ease all;
+    }
+}
+
+@media (max-width: 650px) {
+    .container {
+        max-width: 83%;
+    }
+    .navbar-ul {
+        margin-top: 5px;
+    }
+}
+
+@media (max-width: 580px) {
+    #author-name {
+        display: inline-block;
+    }
+}
+
+@import "typography";
+@import "tables";
