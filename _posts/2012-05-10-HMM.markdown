@@ -1,9 +1,0 @@
----
-layout: null
-type: career
-title: Summer 2012
-subtitle: IIT Kharagpur
-image: "img/timeline/hmm.jpg"
----
-* Gesture Recognition using Hidden Markov Models (HMM)
-* [Github repository](https://github.com/voletiv/summer_2012_HMM_FingerTipGestureRecognition "Summer 2012 IIT Kharagpur") with files, presentation
