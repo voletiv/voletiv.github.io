@@ -11,36 +11,17 @@ type: contact
 
 ---
 
-{% if site.github_username %}
-<a href="https://github.com/{{ site.github_username }}">
-<i class="fa fa-github"></i> GitHub
-</a>
-{% endif %}
+[<i class="fa fa-github"></i> GitHub](https://github.com/{{ site.github_username }}){:target="_blank"}
 
-{% if site.linkedin_username %}
-<a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-<i class="fa fa-linkedin"></i> LinkedIn
-</a>
-{% endif %}
+[<i class="fa fa-linkedin"></i> LinkedIn](https://linkedin.com/in/{{ site.linkedin_username }}){:target="_blank"}
 
-{% if site.quora_username %}
-<a href="https://www.quora.com/profile/{{ site.quora_username }}">
-<i class="fa fa-quora"></i> Quora
-</a>
-{% endif %}
+[<i class="fa fa-quora"></i> Quora](https://www.quora.com/profile/{{ site.quora_username }}){:target="_blank"}
 
-{% if site.facebook_username %}
-<a href="https://www.facebook.com/{{ site.facebook_username }}">
-<i class="fa fa-facebook"></i> Facebook
-</a>
-{% endif %}
+[<i class="fa fa-facebook"></i> Facebook](https://www.facebook.com/{{ site.facebook_username }}){:target="_blank"}
 
 ---
 
 ### Movie review blog:
 
-{% if site.wordpress_username %}
-<a href="https://{{ site.wordpress_username }}.wordpress.com">
-<i class="fa fa-wordpress"></i> Wordpress
-</a>
-{% endif %}
+[<i class="fa fa-wordpress"></i> Wordpress](https://{{ site.wordpress_username }}.wordpress.com){:target="_blank"}
+

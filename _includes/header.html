@@ -1,6 +1,6 @@
 <div class="fixed-top">
 <hr class="top">
-<div class="navbar">
+<div id="nav" class="navbar">
   <div class="container">
     <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
     <ul class="alignable pull-right navbar-ul">
@@ -18,5 +18,25 @@
     </ul>
   </div>
 </div>
+<script>
+$('body').addClass('js');
+$('#nav').hide().before('<div id="titleBar"><div><button role="button" aria-pressed="false" aria-controls="nav" aria-label="Toggle navigation bar"><span class="fa fa-lbars"></span></button></div></div>');
+$('button[aria-controls="nav"]').click(function() {
+        jqNav = $('#nav');
+        if ($(this).attr('aria-pressed') == 'true') {
+                $(this).attr('aria-pressed', false);
+                $('#nav, #titleBar>div').animate(
+                        { 'margin-left': '-=80%' },
+                        { 'duration': 400 });
+                jqNav.promise().done(function() { jqNav.hide().css('margin-left', 0); });
+        } else {
+                $(this).attr('aria-pressed', true);
+                jqNav.css('margin-left', '-80%').show();
+                $('#nav, #titleBar>div').animate(
+                        { 'margin-left': '+=80%' },
+                        { 'duration': 400 });
+        }
+});
+</script>
 <hr class="bottom">
 </div>
