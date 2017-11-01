@@ -5,7 +5,7 @@ excerpt: Home page of Vikram Voleti's website
 permalink: /
 ---
 
-<img class="profile-picture" src="images/bindu_akka_f_small.jpg">
+<img class="profile-picture" src="{{site.url}}{{site.baseurl}}/images/bindu_akka_f_small.jpg">
 
 ## About Me
 

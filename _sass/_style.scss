@@ -12,6 +12,10 @@ html {
     overflow:scroll;
 }
 
+header {
+    /* ... */
+}
+
 body {
     margin: 0;
     font-family: sans-serif;
@@ -58,6 +62,7 @@ p {
 .fixed-top {
     // display: inline-block;
     position: fixed;
+    z-index: 99;
     top: 0;
     // left: 50%;
     margin: -10px 0px 0px 0px; /* Negative half of height. */

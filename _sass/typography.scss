@@ -23,10 +23,12 @@
     .publications ul {
         list-style-type: none;
         // padding: 0 20px 0 20px;
-        line-height: 75%;
         text-align: justify;
+    }
+    .publications ul > li {
+        margin-bottom: 5px;
         @media (max-width: $max-width) {
-            line-height: 100%;
+            // line-height: 100%;
         }
     }
     ol {
@@ -58,7 +60,25 @@
         }
         @media (max-width: $max-width) {
             max-width: 80%;
-            margin: 0px 10% 20px 10%;
+            margin: 0px 0% 20px 20px;
+        }
+    }
+    .experience-picture {
+        // height: $image-size;
+        width: 8%;
+        position: relative;
+        margin: 0px 0px 10px 20px;
+        float: right;
+        padding: 2px;
+        border: 1px solid darken(#ffffff, 20%);
+        border-radius: 10%;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        @media (max-width: $max-width) {
+            max-width: 8%;
+            margin: 0px 0% 20px 20px;
         }
     }
     img {
