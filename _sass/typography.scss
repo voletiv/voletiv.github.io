@@ -23,10 +23,10 @@
     .publications ul {
         padding: 0 20px 0 20px;
         line-height: 75%;
+        text-align: justify;
         @media (max-width: $max-width) {
-            padding: 0 20px 0 20px;
+            margin: 20px;
             line-height: 100%;
-            text-align: justify;
         }
     }
     ol {

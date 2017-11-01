@@ -202,7 +202,7 @@ p {
         padding-top: 100px;
     }
     .navbar {
-        height: 35px;
+        height: 40px;
     }
     .navbar-ul {
         margin-top: 5px;
@@ -210,13 +210,14 @@ p {
     .nav-list {
         margin: 2px 0px 0px 20px;
         background-color: #eeeeee;
+        border: 1px solid darken(#ffffff, 20%);
     }
     .publications {
         width: 80%;
     }
     .publication-picture {
         max-width: 80%;
-        margin: 0px 10% 0px 10%;
+        margin: 2px 10% 2px 10%;
     }
 }
 
