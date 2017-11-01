@@ -21,13 +21,11 @@
         margin: 0px 0px 10px 0px;
     }
     .publications ul {
-        padding: 0 20px 0 20px;
+        list-style-type: none;
+        // padding: 0 20px 0 20px;
         line-height: 75%;
         text-align: justify;
         @media (max-width: $max-width) {
-            max-width: 100%;
-            margin: 10px auto;
-            padding: 0px auto;
             line-height: 100%;
         }
     }
@@ -60,7 +58,7 @@
         }
         @media (max-width: $max-width) {
             max-width: 75%;
-            margin-right: 50%;
+            margin: 0px 0px 20px 40%;
         }
     }
     img {
