@@ -52,8 +52,9 @@
             margin: 0;
         }
         @media (max-width: $small-width) {
+            width: 50%;
             img {
-                margin-top: 1000px;
+                margin-top: 10px;
             }
         }
     }
