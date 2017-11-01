@@ -57,9 +57,8 @@
             margin: 0;
         }
         @media (max-width: $max-width) {
-            width: 100%;
-            margin: 0px 0px 20px 0px;
-            padding-right: 50%
+            max-width: 80%;
+            margin: 0px 10% 20px 10%;
         }
     }
     img {
