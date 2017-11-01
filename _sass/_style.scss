@@ -198,8 +198,8 @@ p {
     }
     .nav-list {
         list-style-type: none;
-        margin: 0px 80% 0px 20px;
-        padding: 5px 10px;
+        margin: 0px 80% 0px 0px;
+        padding: 0px 10px;
     }
 }
 
@@ -212,6 +212,9 @@ p {
     }
     .navbar-ul {
         margin-top: 5px;
+    }
+    .publications {
+        max-width: 83%;
     }
 }
 
