@@ -58,9 +58,9 @@
         }
         @media (max-width: $max-width) {
             width: 50%;
-            margin: 10px 80% 10px 0px;
-            img {
-                margin: 10px;
+            img.center {
+                display: block;
+                margin: 0 auto;
             }
         }
     }

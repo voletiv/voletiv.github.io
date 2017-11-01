@@ -192,23 +192,32 @@ p {
         max-width: $med-width;
         transition: 0.3s ease all;
     }
+    #author-name {
+        font-size: 20px;
+    }
     .body-container {
         max-width: $med-width;
         transition: 0.3s ease all;
+        padding-top: 100px;
+    }
+    .navbar {
+        height: 35px;
     }
     .navbar-ul {
         margin-top: 5px;
     }
     .nav-list {
-        margin: 4px 5px 2px 0px;
+        margin: 2px 5px 0px 0px;
         background-color: #eeeeee;
     }
     .publications {
         width: 80%;
     }
     .publication-picture {
-        max-width: 50%;
-        margin: 0px 24% 0px 24%;
+        width: 80%;
+        img.center {
+            display: block;
+            margin: 0 a
     }
 }
 
