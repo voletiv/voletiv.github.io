@@ -3,8 +3,6 @@
 <div id="nav" class="navbar">
   <div class="container">
     <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
-<button type="button" aria-pressed="false" onclick="handleBtnClick(event)">
-  Native button toggle
     <ul class="alignable pull-right navbar-ul">
         {% for page in site.data.nav %}
             {% if page.name == "CV" %}
@@ -18,8 +16,6 @@
                 </li>
         {% endfor %}
     </ul>
-
-</button>
   </div>
 </div>
 </script>
