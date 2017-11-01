@@ -199,17 +199,16 @@ p {
     .body-container {
         max-width: $med-width;
         transition: 0.3s ease all;
-        padding-top: 100px;
+        padding-top: 90px;
     }
     .navbar {
         height: 50px;
         padding: 20px 0px 0px 0px;
     }
     .nav-list {
-        font-size: 14px;
-        width: 30%;
-        margin: 0px 0px 0px 0px;
-        // margin: 0px 0px 0px 20px;
+        font-size: 13px;
+        // width: 30%;
+        margin: 0px 0px 0px 20px;
         // background-color: #eeeeee;
         // border: 1px solid darken(#ffffff, 20%);
     }
