@@ -11,7 +11,7 @@
 
 - title: Simple Real-Time Pattern Recognition for Industrial Automation
   image: ecds.jpg
-  description: Optimization and implemention of vision and learning algorithms for faster pattern recognition
+  description: <ul><li>Optimization and implemention of vision and learning algorithms for faster pattern recognition</li></ul>
   authors: V. Voleti, P. Mohan, S. Gupta, and J. Iqbal
   venue: International Conference on Industrial Design Engineering, ICIDE 2017 (under review)
   number_link: 1
@@ -21,7 +21,7 @@
 
 - title: A Multimodal Approach for Image De-fencing and Depth Inpainting
   image: mtp_final_result.png
-  description: Elimination of fence-like occlusions, inpainting of images using RGB-D data
+  description: <ul><li>Elimination of fence-like occlusions, inpainting of images using RGB-D data</li></ul>
   authors: S. Jonna, V. S. Voleti and R. R. Sahay
   venue: International Conference on Advances in Pattern Recognition, ICAPR'15
   number_link: 2
