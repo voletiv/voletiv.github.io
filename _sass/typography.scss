@@ -26,7 +26,8 @@
         text-align: justify;
         @media (max-width: $max-width) {
             max-width: 100%;
-            padding: 10px;
+            margin: 10px auto;
+            padding: 0px auto;
             line-height: 100%;
         }
     }
@@ -58,9 +59,8 @@
             margin: 0;
         }
         @media (max-width: $max-width) {
-            max-width: 100%;
-            margin-bottom: 20px;
-            padding: 0px 20% 0px 20%;
+            max-width: 50%;
+            margin: 0px 100% 20px 100%;
         }
     }
     img {
