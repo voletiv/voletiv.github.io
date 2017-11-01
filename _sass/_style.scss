@@ -202,22 +202,19 @@ p {
         padding-top: 100px;
     }
     .navbar {
-        height: 40px;
-    }
-    .navbar-ul {
-        margin-top: 5px;
+        height: 60px;
     }
     .nav-list {
-        margin: 2px 0px 0px 20px;
+        margin: 0px 0px 0px 40px;
         background-color: #eeeeee;
-        border: 1px solid darken(#ffffff, 20%);
+        // border: 1px solid darken(#ffffff, 20%);
     }
     .publications {
         width: 80%;
     }
     .publication-picture {
         max-width: 80%;
-        margin: 2px 10% 2px 10%;
+        margin: 10px 10% 10px 10%;
     }
 }
 
