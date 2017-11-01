@@ -205,8 +205,9 @@ p {
         height: 60px;
     }
     .nav-list {
-        margin: 0px 0px 0px 40px;
-        background-color: #eeeeee;
+        max-width: 33%;
+        margin: 0;
+        // background-color: #eeeeee;
         // border: 1px solid darken(#ffffff, 20%);
     }
     .publications {
