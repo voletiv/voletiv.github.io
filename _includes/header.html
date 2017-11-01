@@ -1,14 +1,16 @@
 <div class="fixed-top">
 <hr class="top">
-<div id="nav" class="navbar">
+<div class="navbar">
   <div class="container">
     <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
     <ul class="alignable pull-right navbar-ul">
         {% for page in site.data.nav %}
             {% if page.name == "CV" %}
                 <li class="alignable pull-right nav-list"><a target="_blank" href="{{ site.url }}{{ site.baseurl }}{{ page.link }}">{{ page.name }}</a>
+                {{ site.url }}{{ site.baseurl }}{{ page.link }}
             {% else %}
                 <li class="alignable pull-right nav-list"><a href="{{ site.url }}{{ site.baseurl }}{{ page.link }}">{{ page.name }}</a>
+                {{ site.url }}{{ site.baseurl }}{{ page.link }}
             {% endif %}
             {% if forloop.first == false %}
                 <!-- | -->
