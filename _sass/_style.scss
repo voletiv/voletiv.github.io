@@ -33,24 +33,6 @@ a:hover {
     text-decoration: underline;
 }
 
-hr.top{
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-    background-color: #dddddd;
-    margin: 3px 0px 3px 0px;
-}
-
-hr.bottom {
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-    background-color: #dddddd;
-    margin: 0px 0px 10px 0px;
-}
-
 p {
     text-align: justify;
 }
@@ -228,10 +210,11 @@ p {
     }
     .publication-picture {
         max-width: 80%;
-        margin: auto;
+        margin: 0px 10% 20px 10%;
     }
     .publication-text {
         margin-left: 0%;
+        margin-top: 20px;
     }
 }
 
