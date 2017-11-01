@@ -209,5 +209,16 @@ p {
     }
 }
 
+button,
+[role="button"] {
+    padding: 3px;
+    border: 1px solid #CCC;
+}
+
+button[aria-pressed="true"],
+[role="button"][aria-pressed="true"] {
+    border: 2px solid #000;
+}
+
 @import "typography";
 @import "tables";

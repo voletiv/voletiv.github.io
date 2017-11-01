@@ -13,6 +13,8 @@ sass:
     style: compressed
     sass_dir: _sass
 
+include: ["_pages"]
+
 github_username:      voletiv
 linkedin_username:    vikram-voleti-45372222
 quora_username:       Vikram-Voleti

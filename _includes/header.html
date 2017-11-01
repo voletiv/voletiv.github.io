@@ -3,12 +3,14 @@
 <div id="nav" class="navbar">
   <div class="container">
     <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+<button type="button" aria-pressed="false" onclick="handleBtnClick(event)">
+  Native button toggle
     <ul class="alignable pull-right navbar-ul">
-        {% for x in site.data.nav %}
-            {% if x.name == "CV" %}
-                <li class="alignable pull-right nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+        {% for page in site.data.nav %}
+            {% if page.name == "CV" %}
+                <li class="alignable pull-right nav-list"><a target="_blank" href="{{ site.url }}{{ site.baseurl }}{{ page.link }}">{{ page.name }}</a>
             {% else %}
-                <li class="alignable pull-right nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                <li class="alignable pull-right nav-list"><a href="{{ site.url }}{{ site.baseurl }}{{ page.link }}">{{ page.name }}</a>
             {% endif %}
             {% if forloop.first == false %}
                 <!-- | -->
@@ -16,27 +18,10 @@
                 </li>
         {% endfor %}
     </ul>
+
+</button>
   </div>
 </div>
-<script>
-$('body').addClass('js');
-$('#nav').hide().before('<div id="titleBar"><div><button role="button" aria-pressed="false" aria-controls="nav" aria-label="Toggle navigation bar"><span class="fa fa-lbars"></span></button></div></div>');
-$('button[aria-controls="nav"]').click(function() {
-        jqNav = $('#nav');
-        if ($(this).attr('aria-pressed') == 'true') {
-                $(this).attr('aria-pressed', false);
-                $('#nav, #titleBar>div').animate(
-                        { 'margin-left': '-=80%' },
-                        { 'duration': 400 });
-                jqNav.promise().done(function() { jqNav.hide().css('margin-left', 0); });
-        } else {
-                $(this).attr('aria-pressed', true);
-                jqNav.css('margin-left', '-80%').show();
-                $('#nav, #titleBar>div').animate(
-                        { 'margin-left': '+=80%' },
-                        { 'duration': 400 });
-        }
-});
 </script>
 <hr class="bottom">
 </div>

@@ -2,6 +2,7 @@
 title: Vikram Voleti
 layout: default
 excerpt: Home page of Vikram Voleti's website
+permalink: /
 ---
 
 <img class="profile-picture" src="images/bindu_akka_f_small.jpg">

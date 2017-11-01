@@ -2,56 +2,128 @@
 
 <div class="publication-title">{{ publication.title }}</div>
 
-<img class="publication-picture" src="images/publications/{{ publication.image }}" alt="NOT FOUND" />
+<img class="publication-picture" src="{{site.url}}{{site.baseurl}}/images/publications/{{ publication.image }}" alt="NOT FOUND" />
 
 {% if publication.description %}
 <p>{{ publication.description }}</p>
 {% endif %}
 
-{% if publication.number_link == 1 %}
+{% if publication.authors %}
 <p><em>{{ publication.authors }}</em></p>
 {% endif %}
 
+{% if publication.venue %}
 <p>{{ publication.venue }}</p>
+{% endif %}
 
 {% if publication.number_link == 1 %}
-<p><a href="{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a></p>
+<p>
+{% if publication.link1.url contains '://' %}
+<a href="{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+{% endif %}
+</p>
 {% endif %}
 
 {% if publication.number_link == 2 %}
-<p><a href="{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+<p>
+{% if publication.link1.url contains '://' %}
+<a href="{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+{% endif %}
 |
-<a href="{{ publication.link2.url }}" target="_blank">{{ publication.link2.display }}</a></p>
+{% if publication.link2.url contains '://' %}
+<a href="{{ publication.link2.url }}" target="_blank">{{ publication.link2.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/{{ publication.link2.url }}" target="_blank">{{ publication.link2.display }}</a>
+{% endif %}
+</p>
 {% endif %}
 
 {% if publication.number_link == 3 %}
-<p><a href="{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+<p>
+{% if publication.link1.url contains '://' %}
+<a href="{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+{% endif %}
 |
+{% if publication.link2.url contains '://' %}
 <a href="{{ publication.link2.url }}" target="_blank">{{ publication.link2.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/{{ publication.link2.url }}" target="_blank">{{ publication.link2.display }}</a>
+{% endif %}
 |
-<a href="{{ publication.link3.url }}" target="_blank">{{ publication.link3.display }}</a></p>
+{% if publication.link3.url contains '://' %}
+<a href="{{ publication.link3.url }}" target="_blank">{{ publication.link3.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/{{ publication.link3.url }}" target="_blank">{{ publication.link3.display }}</a>
+{% endif %}
+</p>
 {% endif %}
 
 {% if publication.number_link == 4 %}
-<p><a href="{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+<p>
+{% if publication.link1.url contains '://' %}
+<a href="{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+{% endif %}
 |
+{% if publication.link2.url contains '://' %}
 <a href="{{ publication.link2.url }}" target="_blank">{{ publication.link2.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/{{ publication.link2.url }}" target="_blank">{{ publication.link2.display }}</a>
+{% endif %}
 |
+{% if publication.link3.url contains '://' %}
 <a href="{{ publication.link3.url }}" target="_blank">{{ publication.link3.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/{{ publication.link3.url }}" target="_blank">{{ publication.link3.display }}</a>
+{% endif %}
 |
-<a href="{{ publication.link4.url }}" target="_blank">{{ publication.link4.display }}</a></p>
+{% if publication.link4.url contains '://' %}
+<a href="{{ publication.link4.url }}" target="_blank">{{ publication.link4.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/{{ publication.link4.url }}" target="_blank">{{ publication.link4.display }}</a>
+{% endif %}
+</p>
 {% endif %}
 
 {% if publication.number_link == 5 %}
-<p><a href="{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+<p>
+{% if publication.link1.url contains '://' %}
+<a href="{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+{% endif %}
 |
+{% if publication.link2.url contains '://' %}
 <a href="{{ publication.link2.url }}" target="_blank">{{ publication.link2.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/{{ publication.link2.url }}" target="_blank">{{ publication.link2.display }}</a>
+{% endif %}
 |
+{% if publication.link3.url contains '://' %}
 <a href="{{ publication.link3.url }}" target="_blank">{{ publication.link3.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/{{ publication.link3.url }}" target="_blank">{{ publication.link3.display }}</a>
+{% endif %}
 |
+{% if publication.link4.url contains '://' %}
 <a href="{{ publication.link4.url }}" target="_blank">{{ publication.link4.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/{{ publication.link4.url }}" target="_blank">{{ publication.link4.display }}</a>
+{% endif %}
 |
-<a href="{{ publication.link5.url }}" target="_blank">{{ publication.link5.display }}</a></p>
+{% if publication.link5.url contains '://' %}
+<a href="{{ publication.link5.url }}" target="_blank">{{ publication.link5.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/{{ publication.link5.url }}" target="_blank">{{ publication.link5.display }}</a>
+{% endif %}
+</p>
 {% endif %}
 
 </div>

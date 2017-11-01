@@ -3,6 +3,7 @@ title: Vikram Voleti's contact details
 layout: default
 excerpt: Vikram Voleti's contact details
 type: contact
+permalink: /contact/
 ---
 
 ## Contact

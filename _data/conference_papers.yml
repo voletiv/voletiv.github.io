@@ -6,7 +6,7 @@
   venue: 24th National Conference on Communications, NCC 2018 (under review)
   number_link: 1
   link1:
-    url: docs/NCC_2018.pdf
+    url: NCC_2018.pdf
     display: pdf
 
 - title: Simple Real-Time Pattern Recognition for Industrial Automation
@@ -16,7 +16,7 @@
   venue: International Conference on Industrial Design Engineering, ICIDE 2017 (under review)
   number_link: 1
   link1:
-    url: docs/ICIDE_2017.pdf
+    url: ICIDE_2017.pdf
     display: pdf
 
 - title: A Multimodal Approach for Image De-fencing and Depth Inpainting
@@ -26,7 +26,7 @@
   venue: International Conference on Advances in Pattern Recognition, ICAPR'15
   number_link: 2
   link1:
-    url: docs/ICAPR_2015.pdf
+    url: ICAPR_2015.pdf
     display: pdf
   link2:
     url: http://ieeexplore.ieee.org/document/7050696/

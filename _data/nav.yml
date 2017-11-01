@@ -1,14 +1,14 @@
 - name: "CONTACT"
-  link: "contact"
+  link: "/contact"
 
 - name: "EXPERIENCE"
-  link: "experience"
+  link: "/experience"
 
 - name: "CV"
-  link: "docs/Vikram_Voleti_Academic_20171031.pdf"
+  link: "/docs/Vikram_Voleti_Academic_20171031.pdf"
 
 - name: "PUBLICATIONS"
-  link: "publications"
+  link: "/publications"
 
 - name: "HOME"
   link: "/"
