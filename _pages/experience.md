@@ -31,7 +31,7 @@ GreyOrange Robotics is a multinational firm that designs, manufactures and deplo
 
 A [research paper]({{site.url}}{{site.baseurl}}/docs/ICIDE_2017.pdf){:target="_blank"} based on some of the work is under review at the International Conference on Industrial Design Engineering, [ICIDE 2017](http://www.icide.org/){:target="_blank"}.
 
-| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/ICIDE_2017.pdf){:target="_blank"}: V. Voleti, P. Mohan, S. Gupta, J. Iqbal, Simple Real-Time Pattern Recognition for Industrial Automation," in _Proc. International Conference on Industrial Design Engineering_, 2017 (under review) |
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/ICIDE_2017.pdf){:target="_blank"}: V. Voleti, P. Mohan, S. Gupta, J. Iqbal, Simple Real-Time Pattern Recognition for Industrial Automation," in _Proc. International Conference on Industrial Design Engineering_, 2017 | (under review)
 
 <br />
 
@@ -67,7 +67,7 @@ _2013 --- 2014_
 
 ### Image De-fencing using Microsoft Kinect --- M.Tech. Thesis
 
-[**IIT Kharagpur**](http://www.iitkgp.ac.in/), under [Prof. Rajiv Ranjan Sahay](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=STmUU&depts_name=EE){:target="_blank"}, Electrical Engineering, IIT Kharagpur, India
+[**IIT Kharagpur, India**](http://www.iitkgp.ac.in/) --- under [Prof. Rajiv Ranjan Sahay](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=STmUU&depts_name=EE){:target="_blank"}, Electrical Engineering
 
 I worked on de-fencing of images using RGB-D data from Microsoft Kinect. We recorded images of scenes with fence-like occlusions and were successful in removing the fences from the scenes. We first recorded multpiple images of the same scene with slight spatial variation of the camera, and computed the approximate global shift among them. We then used loopy belief propagation to inpaint. A comparison of our technique and the erstwhile standards was made, and our method was demonstrated to be better.
 
@@ -75,7 +75,7 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/ICAPR_2015.pdf){:target="_b
 
 | [**Research paper**]({{site.url}}{{site.baseurl}}/docs/ICAPR_2015.pdf){:target="_blank"}: S. Jonna, V. S. Voleti, R. R. Sahay, and M. S. Kankanhalli, A Multimodal Approach for Image De-fencing and Depth Inpainting," in _Proc. Int. Conf. Advances in Pattern Recognition_, 2015, pp. 1---6 |
 
-| [**Journal paper**]({{site.url}}{{site.baseurl}}/docs/IJCV_2017.pdf){:target="_blank"}: S. Jonna, S. Satapathy, V. S. Voleti, R. R. Sahay, Unveiling the scene: A Multimodal Framework for Simultaneous Image Disocclusion and Depth Map Completion using Computational Cameras," _International Journal of Computer Vision_, 2017 (under review) |
+| [**Journal paper**]({{site.url}}{{site.baseurl}}/docs/IJCV_2017.pdf){:target="_blank"}: S. Jonna, S. Satapathy, V. S. Voleti, R. R. Sahay, Unveiling the scene: A Multimodal Framework for Simultaneous Image Disocclusion and Depth Map Completion using Computational Cameras," _International Journal of Computer Vision_, 2017 | (under review)
 
 [THESIS](https://github.com/voletiv/MTP_inPainting/blob/master/Vikram_Voleti_Masters_Thesis_compressed.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/MTP_inPainting/blob/master/Sem_10_MTP_Presentation.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/MTP_inPainting){:target="_blank"} repository containing thesis, presentation, code files, and results
 
@@ -87,7 +87,7 @@ _2012 --- 2013_
 
 ### Identification of Bilabial Consonants in Audio and Lip Closures in Video --- B.Tech. Thesis
 
-[**IIT Kharagpur**](http://www.iitkgp.ac.in/), under [Prof. Rajiv Ranjan Sahay](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=STmUU&depts_name=EE){:target="_blank"}, Electrical Engineering, IIT Kharagpur, India
+[**IIT Kharagpur, India**](http://www.iitkgp.ac.in/) --- under [Prof. Rajiv Ranjan Sahay](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=STmUU&depts_name=EE){:target="_blank"}, Electrical Engineering
 
 I worked on the identification of bilabial consonants in video and audio. The goal was to measure the time offset between the two modes using corresponding time points where bilabials occur. I learnt C++ and the OpenCV library, and detected lip closures in video using the standard Viola-Jones face detector, and a novel algorithm for lip closure detection. I trained a Gaussian Mixture Model in MATLAB on the MFCC features of bilabials in the speech signals of different speakers. A correlation was drawn between the time points of bilabials in audio and video.
 
@@ -103,13 +103,13 @@ _Summer 2013_
 
 ### Implementation of Carry-Free Arithmetic Operations in FPGA
 
-[**KU Leuven, Belgium**](https://www.kuleuven.be/english/), under [Prof. Ingrid Verbauwhede](https://www.kuleuven.be/wieiswie/en/person/00018159){:target="_blank"}, Computer Security & Industrial Applications, ESAT
+[**KU Leuven, Belgium**](https://www.kuleuven.be/english/) --- under [Prof. Ingrid Verbauwhede](https://www.kuleuven.be/wieiswie/en/person/00018159){:target="_blank"}, Computer Security & Industrial Applications, ESAT
 
 I worked on the carry-free implementations of arithmetic operations of addition, subtraction and multiplication. Binary numbers are first converted to a recoded digit format that eliminates carry propagation. I designed the truth tables for this conversion, as well as subsequent addition, subtraction and multiplication. I then simplified the circuits into Product-of-Sums form, and coded them in Verilog. The time taken by these circuits were compared with standard implementation.
 
 A [single-author research paper]({{site.url}}{{site.baseurl}}/docs/NCC_2018.pdf){:target="_blank"} based on this work is under review at the 24th National Conference on Communications, [NCC 2018](https://www.iith.ac.in/~ncc2018/){:target="_blank"}.
 
-| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/NCC_2018.pdf){:target="_blank"}: V. Voleti, Carry-Free Implementations of Arithmetic Operations in FPGA", in _Proc. 24th National Conference on Communications_, 2018 (under review) |
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/NCC_2018.pdf){:target="_blank"}: V. Voleti, Carry-Free Implementations of Arithmetic Operations in FPGA", in _Proc. 24th National Conference on Communications_, 2018 | (under review)
 
 [Report](https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Report/KULeuven_Report.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Presentation/Implementation_of_Carry-Free_Arithmetic_Primitives_for_Prime_Field_Elliptic_Curve_Cryptography.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2013_KULeuven){:target="_blank"} repository containing report and presentation
 
@@ -121,7 +121,7 @@ _Summer 2012_
 
 ### Fingertip Gesture Recognizer using HMMs
 
-[**IIT Kharagpur**](http://www.iitkgp.ac.in/), under [Prof. Aurobinda Routray](http://www.aroutray.org/){:target="_blank"}, Electrical Engineering, IIT Kharagpur, India
+[**IIT Kharagpur, India**](http://www.iitkgp.ac.in/) --- under [Prof. Aurobinda Routray](http://www.aroutray.org/){:target="_blank"}, Electrical Engineering
 
 I first implemented Hidden Markov Models (HMM) in MATLAB from scratch, and verified the implementation outputs with those of standard implementation. I then made a simple gesture recognizer in MATLAB using HMMs.
 
@@ -135,10 +135,10 @@ _Summer 2011_
 
 ### Measurement of Intra-die Power Variation in Sub-nm FPGA’s
 
-[**Imperial College, London**](https://www.imperial.ac.uk/), under [Prof. Peter Cheung](http://www.imperial.ac.uk/people/p.cheung){:target="_blank"}, Electrical and Electronic Engineering, Imperial College, London
+[**Imperial College, London**](https://www.imperial.ac.uk/) --- under [Prof. Peter Cheung](http://www.imperial.ac.uk/people/p.cheung){:target="_blank"}, Electrical and Electronic Engineering
 
 I experimented with an FPGA, and measured the power consumption among the LookUp Tables (LUTs) within it. An automated workflow for the measurement of power across the FPGA was made, by first implementing a circuit in each LUT, measuring the power on an oscilloscope using the JTAG terminals on the FPGA, recording the oscilloscope's readings in MATLAB, and plotting graphs from MATLAB.
 
-[Presentation](https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London/blob/master/An Automated Flow for Intra-Die Power Variation Measurement.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London){:target="_blank"} repository containing presentation, certificate, and recommendation letter from Prof. Peter Cheung.
+[Presentation](https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London/blob/master/An Automated Flow for Intra-Die Power Variation Measurement.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London){:target="_blank"} repository containing presentation, certificate, and recommendation letter from Prof. Peter Cheung
 
 
