@@ -7,10 +7,8 @@
         {% for page in site.data.nav %}
             {% if page.name == "CV" %}
                 <li class="alignable pull-right nav-list"><a target="_blank" href="{{ site.url }}{{ site.baseurl }}{{ page.link }}">{{ page.name }}</a>
-                {{ site.url }}{{ site.baseurl }}{{ page.link }}
             {% else %}
                 <li class="alignable pull-right nav-list"><a href="{{ site.url }}{{ site.baseurl }}{{ page.link }}">{{ page.name }}</a>
-                {{ site.url }}{{ site.baseurl }}{{ page.link }}
             {% endif %}
             {% if forloop.first == false %}
                 <!-- | -->
