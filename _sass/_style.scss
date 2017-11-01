@@ -196,26 +196,27 @@ p {
         max-width: $med-width;
         transition: 0.3s ease all;
     }
+    .navbar-ul {
+        margin-top: 5px;
+    }
     .nav-list {
-        list-style-type: none;
-        margin: 0;
-        padding: 0px 10px;
+        margin: 0px 5px;
         background-color: #eeeeee;
+    }
+    .publications {
+        width: 80%;
+    }
+    .publication-picture {
+        max-width: 50%;
     }
 }
 
 @media (max-width: 650px) {
     .container {
-        max-width: 83%;
+        max-width: 80%;
     }
     .body-container {
-        max-width: 83%;
-    }
-    .navbar-ul {
-        margin-top: 5px;
-    }
-    .publications {
-        max-width: 83%;
+        max-width: 80%;
     }
 }
 
