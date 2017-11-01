@@ -3,8 +3,10 @@ title: Vikram Voleti's contact details
 layout: default
 excerpt: Vikram Voleti's contact details
 type: contact
-permalink: /contact/
+permalink: /contact
 ---
+
+<div markdown="1" class="contact">
 
 ## Contact
 
@@ -26,3 +28,4 @@ permalink: /contact/
 
 [<i class="fa fa-wordpress"></i> {{ site.wordpress_username }}.wordpress.com](https://{{ site.wordpress_username }}.wordpress.com){:target="_blank"}
 
+</div>

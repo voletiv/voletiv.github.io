@@ -8,8 +8,8 @@ $body-font-size: 15px;
 $publication-title-font-size: $body-font-size + 2;
 $author-font-size: 30px;
 $author-media-font-size: 21px;
-$contact-font-size: 17px;
-$footer-font-size: 14px;
+$contact-font-size: $body-font-size + 2;
+$footer-font-size: $body-font-size - 1;
 
 /*
  * Build Variables, don't touch

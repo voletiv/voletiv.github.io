@@ -2,7 +2,7 @@
 title: Vikram Voleti's publications
 layout: default
 excerpt: Vikram Voleti's publications
-permalink: /publications/
+permalink: /publications
 ---
 
 ## Journal papers
