@@ -18,8 +18,9 @@ header {
 
 body {
     margin: 0;
-    font-family: sans-serif;
-    font-size: 13px;
+    font-family: "Source Sans Pro", Arial, sans-serif;
+    // font-weight: light;
+    font-size: 16px;
     color: #272727;
     height: 100%;
 }
@@ -72,8 +73,8 @@ p {
 
 #author-name {
     font-size: 30px;
-    // font-weight: bold;
-    color: #272727;
+    font-weight: bold;
+    color: #777777;
     // display: inline-block;
     margin: -10px 0px 0px 0px;
 }
@@ -150,8 +151,12 @@ p {
     padding: 2px;
     border: 1px solid darken(#ffffff, 20%);
     border-radius: 10px;
-    margin: 0px 20px 0px 0px;
+    // margin: 0px 20px 0px 0px;
     overflow: hidden;
+}
+
+.publication-text {
+    margin-left: 25%;
 }
 
 // .publication-links {
@@ -223,6 +228,9 @@ p {
     .publication-picture {
         max-width: 80%;
         margin: 0px 10% 20px 10%;
+    }
+    .publication-text {
+        margin-left: 0%;
     }
 }
 
