@@ -194,6 +194,7 @@ p {
     }
     #author-name {
         font-size: 20px;
+        font-weight: bold;
     }
     .body-container {
         max-width: $med-width;
@@ -207,18 +208,15 @@ p {
         margin-top: 5px;
     }
     .nav-list {
-        margin: 2px 5px 0px 0px;
+        margin: 2px 0px 0px 20px;
         background-color: #eeeeee;
     }
     .publications {
         width: 80%;
     }
     .publication-picture {
-        width: 80%;
-        img.center {
-            display: block;
-            margin: 0 auto;
-        }
+        max-width: 80%;
+        margin: 0px 10% 0px 10%;
     }
 }
 
