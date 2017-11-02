@@ -23,11 +23,12 @@
     .publications ul {
         // list-style-type: none;
         // padding: 0 20px 0 20px;
+        margin-left: 5px;
         text-align: justify;
     }
     .publications ul > li {
-        // margin-left: -20px;
         margin-bottom: 5px;
+        // list-style-position: inside;
     }
     ol {
         padding: 0 30px 0 30px;
