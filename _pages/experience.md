@@ -7,9 +7,9 @@ permalink: /experience
 
 # WORK EXPERIENCE
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiith.png">](https://cvit.iiit.ac.in){:target="_blank"}
-
 _May 2017 --- present_
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiith.png">](https://cvit.iiit.ac.in){:target="_blank"}
 
 ### [International Institute of Information Techonology - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"}
 
@@ -19,9 +19,9 @@ My current work is on weakly supervised lipreading using deep neural networks. I
 
 <br />
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/gor.png">](http://www.greyorange.com/){:target="_blank"}
-
 _Feb 2016 --- May 2017_
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/gor.png">](http://www.greyorange.com/){:target="_blank"}
 
 ### [GreyOrange Robotics](http://www.greyorange.com/){:target="_blank"}
 
@@ -35,9 +35,9 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/ICIDE_2017.pdf){:target="_b
 
 <br />
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/airbus.jpg">](http://www.airbus.com/){:target="_blank"}
-
 _July 2014 --- Feb 2016_
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/airbus.jpg">](http://www.airbus.com/){:target="_blank"}
 
 ### [Airbus, India](http://www.airbus.com/){:target="_blank"}
 
@@ -49,9 +49,9 @@ Airbus is a commercial aircraft manufacturer, and the largest aeronautics & spac
 
 # EDUCATION
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
-
 _2009 --- 2014_
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
 
 ### [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/){:target="_blank"}, India
 
@@ -61,9 +61,9 @@ Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering,<br />with master'
 
 # RESEARCH PROJECTS
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
-
 _2013 --- 2014_
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
 
 ### Image De-fencing using Microsoft Kinect --- M.Tech. Thesis
 
@@ -81,9 +81,9 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/ICAPR_2015.pdf){:target="_b
 
 <br />
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
-
 _2012 --- 2013_
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
 
 ### Identification of Bilabial Consonants in Audio and Lip Closures in Video --- B.Tech. Thesis
 
@@ -97,9 +97,9 @@ I worked on the identification of bilabial consonants in video and audio. The go
 
 # RESEARCH INTERNSHIPS
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/leuven.png">](https://www.kuleuven.be/english/){:target="_blank"}
-
 _Summer 2013_
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/leuven.png">](https://www.kuleuven.be/english/){:target="_blank"}
 
 ### Implementation of Carry-Free Arithmetic Operations in FPGA
 
@@ -129,9 +129,9 @@ I first implemented Hidden Markov Models (HMM) in MATLAB from scratch, and verif
 
 <br />
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/imperial.jpg">](https://www.imperial.ac.uk/){:target="_blank"}
-
 _Summer 2011_
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/imperial.jpg">](https://www.imperial.ac.uk/){:target="_blank"}
 
 ### Measurement of Intra-die Power Variation in Sub-nm FPGA’s
 
