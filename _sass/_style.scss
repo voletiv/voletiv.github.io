@@ -142,7 +142,7 @@ p {
 
 .publication-text {
     // margin-left: 24%;
-    margin: 0px 0px 20px 25% ;
+    margin: 0px 0px 20px 25%;
 }
 
 // .publication-links {
@@ -208,16 +208,13 @@ p {
         // background-color: #eeeeee;
         // border: 1px solid darken(#ffffff, 20%);
     }
-    .publications {
-        width: 80%;
-    }
     .publication-picture {
         max-width: 80%;
-        margin: 0px 10% 20px 10%;
+        margin: 10px 10% 20px 10%;
     }
     .publication-text {
-        margin-left: 0%;
-        margin-top: 20px;
+        margin-left: 2%;
+        // margin-top: 20px;
     }
 }
 
