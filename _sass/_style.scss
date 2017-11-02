@@ -111,7 +111,7 @@ p {
 .publications {
     min-height: 20px;
     width: 100%;
-    padding: 20px;
+    // padding-bottom: 10px;
     margin-bottom: 30px;
     background-color: #ffffff;
     border: 1px solid darken(#ffffff, 30%);
@@ -122,9 +122,10 @@ p {
 }
 
 .publication-title {
+    margin: 20px 20px 10px 20px;
+    // margin-bottom: 10px;
     font-size: $publication-title-font-size;
     font-weight: bold;
-    margin-bottom: 10px;
 }
 
 .publication-picture {
@@ -136,10 +137,12 @@ p {
     border-radius: 10px;
     // margin: 0px 20px 0px 0px;
     overflow: hidden;
+    margin: 0px 20px 10px 20px;
 }
 
 .publication-text {
-    margin-left: 24%;
+    // margin-left: 24%;
+    margin: 0px 0px 20px 25% ;
 }
 
 // .publication-links {
