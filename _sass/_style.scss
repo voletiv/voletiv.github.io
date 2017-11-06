@@ -225,9 +225,6 @@ p {
     .body-container {
         max-width: 80%;
     }
-}
-
-@media (max-width: 650px) {
     .navbar-ul {
         margin-top: 5px;
     }
@@ -236,6 +233,9 @@ p {
 @media (max-width: 580px) {
     #author-name {
         display: inline-block;
+    }
+    .navbar {
+        height: 80px;
     }
 }
 
