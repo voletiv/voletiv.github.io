@@ -15,7 +15,7 @@ _May 2017 --- present_
 
 **Research Intern --- Applied Research Lab**, under [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, CVIT, IIIT-Hyderabad, India
 
-My current work is on weakly supervised lipreading using deep neural networks. I am experimenting with convolutional and recurrent neural networks to achieve standard benchmarks in visual speech recognition, using datasets such as GRIDcorpus, Lip-Reading-in-the-Wild (LRW). The effect of key visual attributes such as head pose, facial landmarks on visual speech recognition, and the possibility of self-learning are some of the possibilities I am exploring in this field.
+My current work is on weakly supervised lipreading using deep neural networks. I am experimenting with convolutional and recurrent neural networks to achieve standard benchmarks in visual speech recognition, using datasets such as GRIDcorpus, Lip-Reading-in-the-Wild (LRW). The effect of key visual attributes such as head pose, facial landmarks on visual speech recognition, and self-learning are some of the possibilities I am exploring in this field.
 
 <br />
 
