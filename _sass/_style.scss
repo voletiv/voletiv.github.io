@@ -235,11 +235,14 @@ p {
     #author-name {
         display: inline-block;
     }
-    .navbar {
-        height: 90px;
-    }
     .footer {
         height: 30px;
+    }
+}
+
+@media (max-width: 340px) {
+    .navbar {
+        height: 90px;
     }
 }
 
