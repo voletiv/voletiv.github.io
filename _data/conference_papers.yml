@@ -13,7 +13,7 @@
   image: ecds.jpg
   description: <ul><li>Optimization and implemention of vision and learning algorithms for faster pattern recognition</li></ul>
   authors: V. Voleti, P. Mohan, S. Gupta, and J. Iqbal
-  venue: International Conference on Industrial Design Engineering, ICIDE 2017 (under review)
+  venue: International Conference on Industrial Design Engineering, ICIDE 2017 (accepted)
   number_link: 1
   link1:
     url: ICIDE_2017.pdf
@@ -23,7 +23,7 @@
   image: mtp_final_result.png
   description: <ul><li>Elimination of fence-like occlusions, inpainting of images using RGB-D data</li></ul>
   authors: S. Jonna, V. S. Voleti and R. R. Sahay
-  venue: International Conference on Advances in Pattern Recognition, ICAPR'15
+  venue: International Conference on Advances in Pattern Recognition, ICAPR 2015
   number_link: 2
   link1:
     url: ICAPR_2015.pdf

@@ -31,7 +31,7 @@ GreyOrange Robotics is a multinational firm that designs, manufactures and deplo
 
 A [research paper]({{site.url}}{{site.baseurl}}/docs/ICIDE_2017.pdf){:target="_blank"} based on some of the work is under review at the International Conference on Industrial Design Engineering, [ICIDE 2017](http://www.icide.org/){:target="_blank"}.
 
-| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/ICIDE_2017.pdf){:target="_blank"}: V. Voleti, P. Mohan, S. Gupta, J. Iqbal, Simple Real-Time Pattern Recognition for Industrial Automation," in _Proc. International Conference on Industrial Design Engineering_, 2017 | (under review)
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/ICIDE_2017.pdf){:target="_blank"}: V. Voleti, P. Mohan, S. Gupta, J. Iqbal, Simple Real-Time Pattern Recognition for Industrial Automation," in _Proc. International Conference on Industrial Design Engineering_, 2017 | (accepted)
 
 <br />
 
