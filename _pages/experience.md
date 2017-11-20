@@ -29,9 +29,9 @@ _Feb 2016 --- May 2017_
 
 GreyOrange Robotics is a multinational firm that designs, manufactures and deploys advanced robotics systems for automation at warehouses, distribution and fulfillment centres. My job was to developed a computer vision module to perform video processing in real time for warehouse automation. We made an "Empty Carriage Detection System" (ECDS) for the "Cross-Belt Sorter" (CBS) that detects in real time whether a carriage in a conveyor belt has a packet on it or not, and relays the information to the server and mechanical systems. I also helped develop the embedded vision module in automated guided robots for warehouses, called "Butlers".
 
-A [research paper]({{site.url}}{{site.baseurl}}/docs/ICIDE_2017.pdf){:target="_blank"} based on some of the work is under review at the International Conference on Industrial Design Engineering, [ICIDE 2017](http://www.icide.org/){:target="_blank"}.
+A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/ICIDE_2017.pdf){:target="_blank"} based on some of the work is under review at the International Conference on Industrial Design Engineering, [ICIDE 2017](http://www.icide.org/){:target="_blank"}.
 
-| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/ICIDE_2017.pdf){:target="_blank"}: V. Voleti, P. Mohan, S. Gupta, J. Iqbal, Simple Real-Time Pattern Recognition for Industrial Automation," in _Proc. International Conference on Industrial Design Engineering_, 2017 | (accepted)
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/ICIDE_2017.pdf){:target="_blank"}: V. Voleti, P. Mohan, S. Gupta, J. Iqbal, Simple Real-Time Pattern Recognition for Industrial Automation," in _Proc. International Conference on Industrial Design Engineering_, 2017 | (accepted)
 
 <br />
 
@@ -71,11 +71,11 @@ _2013 --- 2014_
 
 I worked on de-fencing of images using RGB-D data from Microsoft Kinect. We recorded images of scenes with fence-like occlusions and were successful in removing the fences from the scenes. We first recorded multpiple images of the same scene with slight spatial variation of the camera, and computed the approximate global shift among them. We then used loopy belief propagation to inpaint. A comparison of our technique and the erstwhile standards was made, and our method was demonstrated to be better.
 
-A [research paper]({{site.url}}{{site.baseurl}}/docs/ICAPR_2015.pdf){:target="_blank"} based on this work has been published in [IEEE Xplore](http://ieeexplore.ieee.org/document/7050696/){:target="_blank"} in proceedings of the International Conference on Advances in Pattern Recognition, [ICAPR 2015](http://www.isical.ac.in/~icapr15/AcceptedPapers.php){:target="_blank"}. A [journal paper](docs/IJCV_2017.pdf){:target="_blank"} based on this work is under review at the International Journal of Computer Vision [(IJCV)](https://link.springer.com/journal/11263).
+A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/ICAPR_2015.pdf){:target="_blank"} based on this work has been published in [IEEE Xplore](http://ieeexplore.ieee.org/document/7050696/){:target="_blank"} in proceedings of the International Conference on Advances in Pattern Recognition, [ICAPR 2015](http://www.isical.ac.in/~icapr15/AcceptedPapers.php){:target="_blank"}. A [journal paper](docs/publications/IJCV_2017.pdf){:target="_blank"} based on this work is under review at the International Journal of Computer Vision [(IJCV)](https://link.springer.com/journal/11263).
 
-| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/ICAPR_2015.pdf){:target="_blank"}: S. Jonna, V. S. Voleti, R. R. Sahay, and M. S. Kankanhalli, A Multimodal Approach for Image De-fencing and Depth Inpainting," in _Proc. Int. Conf. Advances in Pattern Recognition_, 2015, pp. 1---6 |
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/ICAPR_2015.pdf){:target="_blank"}: S. Jonna, V. S. Voleti, R. R. Sahay, and M. S. Kankanhalli, A Multimodal Approach for Image De-fencing and Depth Inpainting," in _Proc. Int. Conf. Advances in Pattern Recognition_, 2015, pp. 1---6 |
 
-| [**Journal paper**]({{site.url}}{{site.baseurl}}/docs/IJCV_2017.pdf){:target="_blank"}: S. Jonna, S. Satapathy, V. S. Voleti, R. R. Sahay, Unveiling the scene: A Multimodal Framework for Simultaneous Image Disocclusion and Depth Map Completion using Computational Cameras," _International Journal of Computer Vision_, 2017 | (under review)
+| [**Journal paper**]({{site.url}}{{site.baseurl}}/docs/publications/IJCV_2017.pdf){:target="_blank"}: S. Jonna, S. Satapathy, V. S. Voleti, R. R. Sahay, Unveiling the scene: A Multimodal Framework for Simultaneous Image Disocclusion and Depth Map Completion using Computational Cameras," _International Journal of Computer Vision_, 2017 | (under review)
 
 [THESIS](https://github.com/voletiv/MTP_inPainting/blob/master/Vikram_Voleti_Masters_Thesis_compressed.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/MTP_inPainting/blob/master/Sem_10_MTP_Presentation.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/MTP_inPainting){:target="_blank"} repository containing thesis, presentation, code files, and results
 
@@ -107,9 +107,9 @@ _Summer 2013_
 
 I worked on the carry-free implementations of arithmetic operations of addition, subtraction and multiplication. Binary numbers are first converted to a recoded digit format that eliminates carry propagation. I designed the truth tables for this conversion, as well as subsequent addition, subtraction and multiplication. I then simplified the circuits into Product-of-Sums form, and coded them in Verilog. The time taken by these circuits were compared with standard implementation.
 
-A [single-author research paper]({{site.url}}{{site.baseurl}}/docs/NCC_2018.pdf){:target="_blank"} based on this work is under review at the 24th National Conference on Communications, [NCC 2018](https://www.iith.ac.in/~ncc2018/){:target="_blank"}.
+A [single-author research paper]({{site.url}}{{site.baseurl}}/docs/publications/NCC_2018.pdf){:target="_blank"} based on this work is under review at the 24th National Conference on Communications, [NCC 2018](https://www.iith.ac.in/~ncc2018/){:target="_blank"}.
 
-| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/NCC_2018.pdf){:target="_blank"}: V. Voleti, Carry-Free Implementations of Arithmetic Operations in FPGA", in _Proc. 24th National Conference on Communications_, 2018 | (under review)
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/NCC_2018.pdf){:target="_blank"}: V. Voleti, Carry-Free Implementations of Arithmetic Operations in FPGA", in _Proc. 24th National Conference on Communications_, 2018 | (under review)
 
 [Report](https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Report/KULeuven_Report.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Presentation/Implementation_of_Carry-Free_Arithmetic_Primitives_for_Prime_Field_Elliptic_Curve_Cryptography.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2013_KULeuven){:target="_blank"} repository containing report and presentation
 
