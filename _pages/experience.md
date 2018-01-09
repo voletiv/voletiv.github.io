@@ -7,6 +7,18 @@ permalink: /experience
 
 # WORK EXPERIENCE
 
+_January 2018 --- present_
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiith_o.png">](https://www.talentsprint.com/aiml.dpl){:target="_blank"}
+
+### [IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} & [Talent Sprint](https://www.talentsprint.com/){:target="_blank"}
+
+**Mentor --- Foundations of Artificial Intelligence and Machine Learning**, by [IIIT-Hyderabad Machine Learning Lab](https://cvit.iiit.ac.in){:target="_blank"} and [Talent Sprint](https://www.talentsprint.com/){:target="_blank"}, India
+
+This is a certificate program by IIIT-H Machine Learning Lab. I assist in creating tutorials on machine learning, and mentor participants during lab sessions.
+
+<br />
+
 _May 2017 --- present_
 
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiith.png">](https://cvit.iiit.ac.in){:target="_blank"}
