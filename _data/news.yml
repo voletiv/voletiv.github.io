@@ -1,0 +1,46 @@
+- date: February 26, 2018
+  news: Presented "Image de-fencing using RGB-D data" at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/" target="_blank">Max Planck Institute for Informatics</a>, Saarbrücken, Germany
+  pdf: Vikram_Voleti_MTP_Presentation_MPI.pdf
+
+- date: February 18, 2018
+  news: Presented "Mathematics in Sanskrit Poetry" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India
+  pdf: Vikram_Voleti_Mathematics_in_Sanskrit_Poetry.pdf
+
+- date: February 2, 2018
+  news: Presented "Intuition behind LSTMs" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India
+  pdf: Vikram_Voleti_Intuition_behind_LSTMs.pdf
+
+- date: January 10, 2018
+  news: Presented "A Multimodal Approach for Image De-fencing and Depth Inpainting" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India
+  url: https://github.com/voletiv/MTP_inPainting/blob/master/Sem_10_MTP_Presentation.pdf
+
+- date: January 5, 2017
+  news: Started work as "Mentor" for <a href="https://www.talentsprint.com/aiml.dpl" target="_blank">Foundations of Artificial Intelligence and Machine Learning</a>
+
+- date: December 29-31, 2017
+  news: Attended conference <a href="http://icide.org/2017.html" target="_blank">ICIDE 2017</a>, Dubai; presented "Simple Real-Time Pattern Recognition for Industrial Automation"
+  pdf: 2017_ICIDE_presentation.pdf
+
+- date: July 10-15, 2017
+  news: Attended IIIT Hyderabad's <a href="http://cvit.iiit.ac.in/mlsummerschool2017/" target="_blank">Summer School on Machine Learning</a>; ranked 4th among all participants
+  url: https://github.com/voletiv/2017-IIITH-summer-school-notes
+  display: notes
+
+- date: July 3-8, 2017
+  news: Attended IIIT Hyderabad's <a href="http://cvit.iiit.ac.in/cvsummerschool2017/" target="_blank">Summer School on Computer Vision</a>; ranked 3rd among all participants
+  url: https://github.com/voletiv/2017-IIITH-summer-school-notes
+  display: notes
+
+- date: August 9, 2017
+  news: Presented "Mathematics behind Back-propagation" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India
+  url: https://github.com/voletiv/myPythonNeuralNetwork
+
+- date: May 15, 2017
+  news: Joined <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India as a researcher under <a href="https://faculty.iiit.ac.in/~jawahar/" target="_blank">Prof. C. V. Jawahar</a>
+
+- date: April 9, 2017
+  news: Presented "Mathematics behind Back-propagation" at <a href="http://www.greyorange.com/" target="_blank">GreyOrange Robotics</a>, India
+  url: https://github.com/voletiv/myPythonNeuralNetwork
+
+
+
