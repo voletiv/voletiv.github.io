@@ -25,7 +25,7 @@ _May 2017 --- present_
 
 ### [International Institute of Information Techonology - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"}
 
-**Research Intern --- Applied Research Lab**, under [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, CVIT, IIIT-Hyderabad, India
+**Research Assistant --- Applied Research Lab**, under [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, CVIT, IIIT-Hyderabad, India
 
 My current work is on weakly supervised lipreading using deep neural networks. I am experimenting with convolutional and recurrent neural networks to achieve standard benchmarks in visual speech recognition, using datasets such as GRIDcorpus, Lip-Reading-in-the-Wild (LRW). The effect of key visual attributes such as head pose, facial landmarks on visual speech recognition, and self-learning are some of the possibilities I am exploring in this field.
 
@@ -39,11 +39,13 @@ _Feb 2016 --- May 2017_
 
 **Image Processing Engineer --- Embedded Systems team**
 
-GreyOrange Robotics is a multinational firm that designs, manufactures and deploys advanced robotics systems for automation at warehouses, distribution and fulfillment centres. My job was to developed a computer vision module to perform video processing in real time for warehouse automation. We made an "Empty Carriage Detection System" (ECDS) for the "Cross-Belt Sorter" (CBS) that detects in real time whether a carriage in a conveyor belt has a packet on it or not, and relays the information to the server and mechanical systems. I also helped develop the embedded vision module in automated guided robots for warehouses, called "Butlers".
+GreyOrange Robotics is a multinational firm that designs, manufactures and deploys advanced robotics systems for automation at warehouses, distribution and fulfillment centres.
 
-A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/ICIDE_2017.pdf){:target="_blank"} based on some of the work is under review at the International Conference on Industrial Design Engineering, [ICIDE 2017](http://www.icide.org/){:target="_blank"}.
+My job was to developed a computer vision module to perform video processing in real time for warehouse automation. We made an "Empty Carriage Detection System" (ECDS) for the "Cross-Belt Sorter" (CBS) that detects in real time whether a carriage in a conveyor belt has a packet on it or not, and relays the information to the server and mechanical systems. I also helped develop the embedded vision module in automated guided robots for warehouses, called "Butlers".
 
-| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/ICIDE_2017.pdf){:target="_blank"}: V. Voleti, P. Mohan, S. Gupta, J. Iqbal, Simple Real-Time Pattern Recognition for Industrial Automation," in _Proc. International Conference on Industrial Design Engineering_, 2017 | (accepted)
+A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/2017_ICIDE.pdf){:target="_blank"} based on some of the work has been accepted at the International Conference on Industrial Design Engineering, [ICIDE 2017](http://www.icide.org/){:target="_blank"}.
+
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/2017_ICIDE.pdf){:target="_blank"}: V. Voleti, P. Mohan, S. Gupta, J. Iqbal, "Simple Real-Time Pattern Recognition for Industrial Automation", in _Proc. International Conference on Industrial Design Engineering_, 2017 |
 
 <br />
 
@@ -55,7 +57,7 @@ _July 2014 --- Feb 2016_
 
 **Associate Engineer --- Avionics Software and Systems Testing group**
 
-Airbus is a commercial aircraft manufacturer, and the largest aeronautics & space company in Europe. I worked in the Bangalore (India) office as part of the Avionics Software and Systems Testing group. I was involved in development and validation of avionics systems in the Flight Warning Computer (FWC) for aircrafts in the long-range family.
+Airbus is a commercial aircraft manufacturer, and the largest aeronautics & space company in Europe. I worked in the Bangalore (India) office as part of the Avionics Software and Systems Testing group. I was involved in development and integration of avionics systems in the Flight Warning Computer (FWC) for aircrafts in the long-range family.
 
 My job was to simulate signal-level changes in the Flight Warning Computer, such as adding new signals for new functionalities, re-routing signals through different paths. This was followed by rigorous testing of the FWC for correct operation. We designed the re-routing paths, as well as the tests required to ensure all the functionalities of the FWC run correctly. For all development, standard avionics coding guidelines (DO-178B) were followed.
 
@@ -85,11 +87,11 @@ _2013 --- 2014_
 
 I worked on de-fencing of images using RGB-D data from Microsoft Kinect. We recorded images of scenes with fence-like occlusions and were successful in removing the fences from the scenes. We first recorded multpiple images of the same scene with slight spatial variation of the camera, and computed the approximate global shift among them. We then used loopy belief propagation to inpaint. A comparison of our technique and the erstwhile standards was made, and our method was demonstrated to be better.
 
-A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/ICAPR_2015.pdf){:target="_blank"} based on this work has been published in [IEEE Xplore](http://ieeexplore.ieee.org/document/7050696/){:target="_blank"} in proceedings of the International Conference on Advances in Pattern Recognition, [ICAPR 2015](http://www.isical.ac.in/~icapr15/AcceptedPapers.php){:target="_blank"}. A [journal paper](docs/publications/IJCV_2017.pdf){:target="_blank"} based on this work is under review at the International Journal of Computer Vision [(IJCV)](https://link.springer.com/journal/11263).
+A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/2015_ICAPR.pdf){:target="_blank"} based on this work has been published in [IEEE Xplore](http://ieeexplore.ieee.org/document/7050696/){:target="_blank"} in proceedings of the International Conference on Advances in Pattern Recognition, [ICAPR 2015](http://www.isical.ac.in/~icapr15/AcceptedPapers.php){:target="_blank"}. A [journal paper](docs/publications/IJCV_2017.pdf){:target="_blank"} based on this work is under review at the International Journal of Computer Vision [(IJCV)](https://link.springer.com/journal/11263).
 
-| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/ICAPR_2015.pdf){:target="_blank"}: S. Jonna, V. S. Voleti, R. R. Sahay, and M. S. Kankanhalli, A Multimodal Approach for Image De-fencing and Depth Inpainting," in _Proc. Int. Conf. Advances in Pattern Recognition_, 2015, pp. 1---6 |
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/2015_ICAPR.pdf){:target="_blank"}: S. Jonna, V. S. Voleti, R. R. Sahay, and M. S. Kankanhalli, "A Multimodal Approach for Image De-fencing and Depth Inpainting", in _Proc. Int. Conf. Advances in Pattern Recognition_, 2015, pp. 1---6 |
 
-| [**Journal paper**]({{site.url}}{{site.baseurl}}/docs/publications/IJCV_2017.pdf){:target="_blank"}: S. Jonna, S. Satapathy, V. S. Voleti, R. R. Sahay, Unveiling the scene: A Multimodal Framework for Simultaneous Image Disocclusion and Depth Map Completion using Computational Cameras," _International Journal of Computer Vision_, 2017 | (under review)
+| [**Journal paper**]({{site.url}}{{site.baseurl}}/docs/publications/2017_IJCV.pdf){:target="_blank"}: S. Jonna, S. Satapathy, V. S. Voleti, R. R. Sahay, "Unveiling the scene: A Multimodal Framework for Simultaneous Image Disocclusion and Depth Map Completion using Computational Cameras", _International Journal of Computer Vision_, 2017 | (under review)
 
 [THESIS](https://github.com/voletiv/MTP_inPainting/blob/master/Vikram_Voleti_Masters_Thesis_compressed.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/MTP_inPainting/blob/master/Sem_10_MTP_Presentation.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/MTP_inPainting){:target="_blank"} repository containing thesis, presentation, code files, and results
 
@@ -121,9 +123,9 @@ _Summer 2013_
 
 I worked on the carry-free implementations of arithmetic operations of addition, subtraction and multiplication. Binary numbers are first converted to a recoded digit format that eliminates carry propagation. I designed the truth tables for this conversion, as well as subsequent addition, subtraction and multiplication. I then simplified the circuits into Product-of-Sums form, and coded them in Verilog. The time taken by these circuits were compared with standard implementation.
 
-A [single-author research paper]({{site.url}}{{site.baseurl}}/docs/publications/NCC_2018.pdf){:target="_blank"} based on this work is under review at the 24th National Conference on Communications, [NCC 2018](https://www.iith.ac.in/~ncc2018/){:target="_blank"}.
+A [single-author research paper]({{site.url}}{{site.baseurl}}/docs/publications/2018_NCC.pdf){:target="_blank"} based on this work has been written.
 
-| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/NCC_2018.pdf){:target="_blank"}: V. Voleti, Carry-Free Implementations of Arithmetic Operations in FPGA", in _Proc. 24th National Conference on Communications_, 2018 | (under review)
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018_NCC.pdf){:target="_blank"}: V. Voleti, "Carry-Free Implementations of Arithmetic Operations in FPGA" |
 
 [Report](https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Report/KULeuven_Report.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Presentation/Implementation_of_Carry-Free_Arithmetic_Primitives_for_Prime_Field_Elliptic_Curve_Cryptography.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2013_KULeuven){:target="_blank"} repository containing report and presentation
 

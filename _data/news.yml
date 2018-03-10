@@ -21,6 +21,13 @@
   news: Attended conference <a href="http://icide.org/2017.html" target="_blank">ICIDE 2017</a>, Dubai; presented "Simple Real-Time Pattern Recognition for Industrial Automation"
   pdf: 2017_ICIDE_presentation.pdf
 
+- date: November 11-12, 2017
+  news: Won the SMS Classification challenge, participated in the Video Action Recognition challenge at <a href="https://t-hub.co/hack2innovate/" target="_blank">Hack2Innovate</a> hackathon in Bangalore, India
+
+- date: August 9, 2017
+  news: Presented "Mathematics behind Back-propagation" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India
+  url: https://github.com/voletiv/myPythonNeuralNetwork
+
 - date: July 10-15, 2017
   news: Attended IIIT Hyderabad's <a href="http://cvit.iiit.ac.in/mlsummerschool2017/" target="_blank">Summer School on Machine Learning</a>; ranked 4th among all participants
   url: https://github.com/voletiv/2017-IIITH-summer-school-notes
@@ -30,10 +37,6 @@
   news: Attended IIIT Hyderabad's <a href="http://cvit.iiit.ac.in/cvsummerschool2017/" target="_blank">Summer School on Computer Vision</a>; ranked 3rd among all participants
   url: https://github.com/voletiv/2017-IIITH-summer-school-notes
   display: notes
-
-- date: August 9, 2017
-  news: Presented "Mathematics behind Back-propagation" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India
-  url: https://github.com/voletiv/myPythonNeuralNetwork
 
 - date: May 15, 2017
   news: Joined <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India as a researcher under <a href="https://faculty.iiit.ac.in/~jawahar/" target="_blank">Prof. C. V. Jawahar</a>

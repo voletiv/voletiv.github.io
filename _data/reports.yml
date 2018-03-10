@@ -3,8 +3,8 @@
   description: <ul>
                <li>Elimination of fence-like occlusions, inpainting of images using RGB-D data</li>
                <li>Nominated for Best M.Tech. Project Award among three departments (Electrical, Electronics, CS)</li>
-               <li><a href="../docs/publications/ICAPR_2015.pdf" target="_blank">Research paper</a> based on project work is published in the proceedings of ICAPR 2015 by IEEE</li>
-               <li>Co-authored <a href="../docs/publications/IJCV_2017.pdf" target="_blank">journal paper</a> is under review at the International Journal of Computer Vision (IJCV)</li>
+               <li><a href="../docs/publications/2015_ICAPR.pdf" target="_blank">Research paper</a> based on project work is published in the proceedings of ICAPR 2015 by IEEE</li>
+               <li>Co-authored <a href="../docs/publications/2017_IJCV.pdf" target="_blank">journal paper</a> is under review at the International Journal of Computer Vision (IJCV)</li>
                </ul>
   venue: IIT Kharagpur
   number_link: 3
@@ -21,9 +21,9 @@
 - title: Implementation of Carry-Free Arithmetic Operations in FPGA (Summer 2013)
   image: leuven_summer.png
   description: <ul>
-               <li>Designed and implemented addition, subtraction, multiplication using Carry-Free Logic</li>
-               <li>Developed, tested and verified the modules in Verilog, simulated circuits in Xilinx, and compared with standard implementation</li>
-               <li>Developed, tested and verified the modules in Verilog, and simulated circuits in Xilinx</li>
+               <li>Designed and implemented addition, subtraction, multiplication in Product-of-Sums form using Carry-Free Logic</li>
+               <li>Developed, tested and verified the modules in Verilog, simulated circuits in Xilinx, and compared with standard implementations</li>
+               <li>Wrote <a href="../docs/publications/2018_NCC.pdf">research paper</a> on the work done</li>
                </ul>
   venue: KU Leuven, Belgium
   number_link: 3

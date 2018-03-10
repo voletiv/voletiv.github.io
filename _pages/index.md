@@ -13,23 +13,20 @@ I am currently a researcher under [Prof. C. V. Jawahar](https://faculty.iiit.ac.
 
 I am also a Mentor for the [Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl){:target="_blank"} certificate program by IIIT-H Machine Learning Lab. I assist in creating tutorials on machine learning, and mentor participants in lab sessions. 
 
-Previously, I worked at [GreyOrange Robotics](http://www.greyorange.com/){:target="_blank"} on computer vision modules for real time pattern recognition in videos for warehouse automation, and on autonomous robots; and at [Airbus, India](http://www.airbus.com/){:target="_blank"} on software development and validation.
+Previously, I worked at [GreyOrange Robotics](http://www.greyorange.com/){:target="_blank"} on computer vision modules for real time pattern recognition in videos for warehouse automation, and on autonomous robots; and at [Airbus, India](http://www.airbus.com/){:target="_blank"} on software development and integration.
 
 I graduated from [IIT Kharagpur, India](http://www.iitkgp.ac.in/){:target="_blank"}, in 2014 with a Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering, my Master's specialization was Instrumentation and Signal Processing.
 
 <br/>
 
-## Research Interests
-
-To work at the intersection of computer vision and machine learning, especially deep learning, towards artificial intelligence.
-
-<br/>
+<strong>Research interests</strong> - to work at the intersection of computer vision and machine learning, especially deep learning, towards artificial intelligence.
 
 ## News
 
+<ul>
 {% for article in site.data.news %}
 
 {% include news.html %}
 
 {% endfor %}
-
+</ul>
