@@ -7,9 +7,9 @@ permalink: /experience
 
 # WORK EXPERIENCE
 
-_January 2018 --- present_
-
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiith_o.png">](https://www.talentsprint.com/aiml.dpl){:target="_blank"}
+
+_January 2018 --- present_
 
 ### [IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} & [Talent Sprint](https://www.talentsprint.com/){:target="_blank"}
 
@@ -19,9 +19,9 @@ This is a certificate program by IIIT-H Machine Learning Lab. I assist in creati
 
 <br />
 
-_May 2017 --- present_
-
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiith.png">](https://cvit.iiit.ac.in){:target="_blank"}
+
+_May 2017 --- present_
 
 ### [International Institute of Information Techonology - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"}
 
@@ -31,9 +31,9 @@ My current work is on weakly supervised lipreading using deep neural networks. I
 
 <br />
 
-_Feb 2016 --- May 2017_
-
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/gor.png">](http://www.greyorange.com/){:target="_blank"}
+
+_Feb 2016 --- May 2017_
 
 ### [GreyOrange Robotics](http://www.greyorange.com/){:target="_blank"}
 
@@ -47,23 +47,25 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/ICIDE_2017.pdf
 
 <br />
 
-_July 2014 --- Feb 2016_
-
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/airbus.jpg">](http://www.airbus.com/){:target="_blank"}
+
+_July 2014 --- Feb 2016_
 
 ### [Airbus, India](http://www.airbus.com/){:target="_blank"}
 
 **Associate Engineer --- Avionics Software and Systems Testing group**
 
-Airbus is a commercial aircraft manufacturer, and the largest aeronautics & space company in Europe. I worked in the Bangalore (India) office as part of the Avionics Software and Systems Testing group. My job was to simulate signal-level changes in the Flight Warning Computer (FWC), such as adding new signals for new functionalities, re-routing signals through different paths. This was followed by rigorous testing of the FWC for correct operation. We designed the re-routing paths, as well as the tests required to ensure all the functionalities of the FWC run correctly. For all development, standard avionics coding guidelines (DO-178B) were followed.
+Airbus is a commercial aircraft manufacturer, and the largest aeronautics & space company in Europe. I worked in the Bangalore (India) office as part of the Avionics Software and Systems Testing group. I was involved in development and validation of avionics systems in the Flight Warning Computer (FWC) for aircrafts in the long-range family.
+
+My job was to simulate signal-level changes in the Flight Warning Computer, such as adding new signals for new functionalities, re-routing signals through different paths. This was followed by rigorous testing of the FWC for correct operation. We designed the re-routing paths, as well as the tests required to ensure all the functionalities of the FWC run correctly. For all development, standard avionics coding guidelines (DO-178B) were followed.
 
 <br />
 
 # EDUCATION
 
-_2009 --- 2014_
-
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
+
+_2009 --- 2014_
 
 ### [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/){:target="_blank"}, India
 
@@ -73,9 +75,9 @@ Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering,<br />with master'
 
 # RESEARCH PROJECTS
 
-_2013 --- 2014_
-
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
+
+_2013 --- 2014_
 
 ### Image De-fencing using Microsoft Kinect --- M.Tech. Thesis
 
@@ -93,9 +95,9 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/ICAPR_2015.pdf
 
 <br />
 
-_2012 --- 2013_
-
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
+
+_2012 --- 2013_
 
 ### Identification of Bilabial Consonants in Audio and Lip Closures in Video --- B.Tech. Thesis
 
@@ -109,9 +111,9 @@ I worked on the identification of bilabial consonants in video and audio. The go
 
 # RESEARCH INTERNSHIPS
 
-_Summer 2013_
-
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/leuven.png">](https://www.kuleuven.be/english/){:target="_blank"}
+
+_Summer 2013_
 
 ### Implementation of Carry-Free Arithmetic Operations in FPGA
 
@@ -127,9 +129,9 @@ A [single-author research paper]({{site.url}}{{site.baseurl}}/docs/publications/
 
 <br />
 
-_Summer 2012_
-
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
+
+_Summer 2012_
 
 ### Fingertip Gesture Recognizer using HMMs
 
@@ -141,9 +143,9 @@ I first implemented Hidden Markov Models (HMM) in MATLAB from scratch, and verif
 
 <br />
 
-_Summer 2011_
-
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/imperial.jpg">](https://www.imperial.ac.uk/){:target="_blank"}
+
+_Summer 2011_
 
 ### Measurement of Intra-die Power Variation in Sub-nm FPGA’s
 

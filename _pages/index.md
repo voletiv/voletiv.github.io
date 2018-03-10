@@ -9,11 +9,11 @@ permalink: /
 
 ## About Me
 
-I am currently a researcher under [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"} at the Applied Research Lab, [CVIT, IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} . My current work is on weakly supervised lipreading using deep neural networks. I am experimenting with convolutional and recurrent neural networks to achieve standard benchmarks in visual speech recognition.
+I am currently a researcher under [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"} at the Applied Research Lab, [CVIT, IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"}. I work on projects involving translation of videos to a different language using deep learning, with applications in movie dubbing and educational video dubbing. I also work on visual speech recognition, and semantic segmentation for urban scenes.
 
-I am also a Mentor for the "[Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl){:target="_blank"}" certificate program by IIIT-H Machine Learning Lab. I assist in creating tutorials on machine learning, and mentor participants during lab sessions. 
+I am also a Mentor for the [Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl){:target="_blank"} certificate program by IIIT-H Machine Learning Lab. I assist in creating tutorials on machine learning, and mentor participants in lab sessions. 
 
-Previously, I worked as an Image Processing Engineer at [GreyOrange Robotics](http://www.greyorange.com/){:target="_blank"} in the Embedded Systems team. I was involved in designing computer vision modules for real time video processing and pattern recognition for warehouse automation and autonomos robots. Before that, I worked in [Airbus, India](http://www.airbus.com/){:target="_blank"}, in the Avionics Software and Systems Testing group. I was involved in development and validation of avionics systems in the Flight Warning Computer for aircrafts in the long-range family.
+Previously, I worked at [GreyOrange Robotics](http://www.greyorange.com/){:target="_blank"} on computer vision modules for real time pattern recognition in videos for warehouse automation and on autonomous robots; and [Airbus, India](http://www.airbus.com/){:target="_blank"} on software development and validation.
 
 I graduated from [IIT Kharagpur, India](http://www.iitkgp.ac.in/){:target="_blank"}, in 2014 with a Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering, my Master's specialization being Instrumentation and Signal Processing. My Bachelor's and Master's thesis were in the areas of computer vision, image processing, machine learning.
 
@@ -23,4 +23,5 @@ I graduated from [IIT Kharagpur, India](http://www.iitkgp.ac.in/){:target="_blan
 
 To work at the intersection of computer vision and machine learning towards artificial intelligence; to understand and apply learning techniques such as deep neural networks to vision-related research.
 
+## News
 
