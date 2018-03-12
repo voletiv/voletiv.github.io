@@ -27,7 +27,18 @@ _May 2017 --- present_
 
 **Research Assistant --- Applied Research Lab**, under [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, CVIT, IIIT-Hyderabad, India
 
-My current work is on weakly supervised lipreading using deep neural networks. I am experimenting with convolutional and recurrent neural networks to achieve standard benchmarks in visual speech recognition, using datasets such as GRIDcorpus, Lip-Reading-in-the-Wild (LRW). The effect of key visual attributes such as head pose, facial landmarks on visual speech recognition, and self-learning are some of the possibilities I am exploring in this field.
+I experiment with convolutional and recurrent neural networks in computer vision tasks.
+
+- **Video Translation**
+    - To generate videos of movies and educational tutorials in Indian languages by morphing lip movement
+    -  Experimenting with GANs (Pix2Pix) to generate videos using original faces, new key facial landmarks, and dubbed audio
+
+- **Assessor for Lipreader**
+    - Build a visual speech recognizer (lipreader) to classify spoken words in videos, and an assessor by combining convolutional and recurrent neural networks to check if the lipreader’s output is correct
+    - Use the lipreader and assessor for self-training on unlabelled data, zero-shot learning on out-ofvocabulary words, and information retrieval
+
+- **Semantic Segmentation**
+    - Combine multiple datasets to train a deep neural network to achive state-of-the-art semantic segmentation for urban driving
 
 <br />
 
