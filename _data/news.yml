@@ -1,14 +1,26 @@
+- date: June 6, 2018
+  news: Presented "Linear Algebra - Groups, Vector Spaces, Matrix Transformations" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India, as part of the Linear Algebra course by Lovish Chum
+  pdf: 20180606_Linear_Algebra.pdf
+
+- date: May 25, 2018
+  news: Short paper "Lip-Synchronization for Dubbed Instructional Videos" accepted at <a href="http://cvpr2018.thecvf.com/program/workshops" target="_blank">CVPR 2018 Workshop</a> (<a href="http://fiver.eecs.umich.edu/"  target="_blank">FIVER</a>)
+  url: http://fiver.eecs.umich.edu/#abstracts
+
+- date: April 26, 2018
+  news: Presented "Lipreading in the Wild" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India
+  pdf: 20180426_IIITH_LRW.pdf
+
 - date: February 26, 2018
   news: Presented "Image de-fencing using RGB-D data" at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/" target="_blank">Max Planck Institute for Informatics</a>, Saarbrücken, Germany
-  pdf: Vikram_Voleti_MTP_Presentation_MPI.pdf
+  pdf: 20180226_Saarbrucken_MPI_Vikram_Voleti_MTP_Presentation.pdf
 
 - date: February 18, 2018
   news: Presented "Mathematics in Sanskrit Poetry" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India
-  pdf: Vikram_Voleti_Mathematics_in_Sanskrit_Poetry.pdf
+  pdf: 20180218_IIITH_Mathematics_in_Sanskrit_Poetry.pdf
 
 - date: February 2, 2018
   news: Presented "Intuition behind LSTMs" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India
-  pdf: Vikram_Voleti_Intuition_behind_LSTMs.pdf
+  pdf: 20180202_IIITH_Intuition_behind_LSTMs.pdf
 
 - date: January 10, 2018
   news: Presented "A Multimodal Approach for Image De-fencing and Depth Inpainting" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India
@@ -19,7 +31,7 @@
 
 - date: December 29-31, 2017
   news: Attended conference <a href="http://icide.org/2017.html" target="_blank">ICIDE 2017</a>, Dubai; presented "Simple Real-Time Pattern Recognition for Industrial Automation"
-  pdf: 2017_ICIDE_presentation.pdf
+  pdf: 20171230_Dubai_ICIDE_presentation.pdf
 
 - date: November 11-12, 2017
   news: Won the SMS Classification challenge, participated in the Video Action Recognition challenge at <a href="https://t-hub.co/hack2innovate/" target="_blank">Hack2Innovate</a> hackathon in Bangalore, India
