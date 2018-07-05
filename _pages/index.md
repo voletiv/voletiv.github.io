@@ -23,10 +23,10 @@ I graduated from [IIT Kharagpur, India](http://www.iitkgp.ac.in/){:target="_blan
 
 ## News
 
-<ul>
+<table>
 {% for article in site.data.news %}
-
+<tr>
 {% include news.html %}
-
+</tr>
 {% endfor %}
-</ul>
+</table>
