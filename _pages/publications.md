@@ -5,6 +5,17 @@ excerpt: Vikram Voleti's publications
 permalink: /publications
 ---
 
+## Conference papers
+
+{% for publication in site.data.conference_papers %}
+
+{% include publications.html %}
+
+{% endfor %}
+
+<p>&nbsp;</p>
+
+{% comment %}
 ## Journal papers
 
 {% for publication in site.data.journal_papers %}
@@ -16,16 +27,7 @@ permalink: /publications
 <p>&nbsp;</p>
 
 {% assign numOfJournals = loopindex %}
-
-## Conference papers
-
-{% for publication in site.data.conference_papers %}
-
-{% include publications.html %}
-
-{% endfor %}
-
-<p>&nbsp;</p>
+{% endcomment %}
 
 ## Thesis / Reports
 

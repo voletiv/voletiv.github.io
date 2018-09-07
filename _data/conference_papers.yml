@@ -1,18 +1,32 @@
-- title: Carry-Free Implementations of Arithmetic Operations in FPGA
-  image: leuven_2013.png
-  description: <ul><li>Design and implementation of addition, subtraction, multiplication using Carry-Free Logic</li>
-               <li>Developed, tested and verified the modules in Verilog, and simulated circuits in Xilinx</li></ul>
-  authors: V. Voleti
-  venue: 24th National Conference on Communications, NCC 2018 (under review)
-  number_link: 1
+- title: Lip-Synchronization for Dubbed Instructional Videos
+  image: 2018_CVPRW.png
+  description: <ul><li>Video translation to morph lip movements of speakers to match new audio</li></ul>
+  authors: Abhishek Jha, Vikram Voleti, Vinay P. Namboodiri, C. V. Jawahar
+  venue: CVPR Workshop (FIVER)
+  number_link: 2
   link1:
-    url: 2018_02_NCC.pdf
+    url: 2018_04_ICIDE.pdf
     display: pdf
+  link2:
+    url: http://fiver.eecs.umich.edu/#abstracts
+    display: url
+
+
+#- title: Carry-Free Implementations of Arithmetic Operations in FPGA
+#  image: 2013_leuven.png
+#  description: <ul><li>Design and implementation of addition, subtraction, multiplication using Carry-Free Logic</li>
+#               <li>Developed, tested and verified the modules in Verilog, and simulated circuits in Xilinx</li></ul>
+#  authors: V. Voleti
+#  venue: 24th National Conference on Communications, NCC 2018 (under review)
+#  number_link: 1
+#  link1:
+#    url: 2018_02_NCC.pdf
+#    display: pdf
 
 - title: Simple Real-Time Pattern Recognition for Industrial Automation
-  image: ecds.jpg
+  image: 2017_ICIDE.jpg
   description: <ul><li>Optimization and implemention of vision and learning algorithms for faster pattern recognition</li></ul>
-  authors: V. Voleti, P. Mohan, S. Gupta, and J. Iqbal
+  authors: V. Voleti, P. Mohan, S. Gupta, J. Iqbal
   venue: International Conference on Industrial Design Engineering, ICIDE 2017 (accepted)
   number_link: 1
   link1:
@@ -20,9 +34,9 @@
     display: pdf
 
 - title: A Multimodal Approach for Image De-fencing and Depth Inpainting
-  image: mtp_final_result.png
+  image: 2015_ICAPR.png
   description: <ul><li>Elimination of fence-like occlusions, inpainting of images using RGB-D data</li></ul>
-  authors: S. Jonna, V. S. Voleti and R. R. Sahay
+  authors: S. Jonna, V. S. Voleti, R. R. Sahay
   venue: International Conference on Advances in Pattern Recognition, ICAPR 2015
   number_link: 2
   link1:
