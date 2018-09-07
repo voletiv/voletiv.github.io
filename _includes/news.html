@@ -12,7 +12,7 @@
 {% if article.pdf contains '://' %}
 [<a href="{{ article.pdf }}" target="_blank">pdf</a>]
 {% else %}
-[<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ article.pdf }}" target="_blank">pdf</a>]
+[<a href="{{site.url}}{{site.baseurl}}/docs/{{ article.category }}/{{ article.pdf }}" target="_blank">pdf</a>]
 {% endif %}
 
 {% endif %}

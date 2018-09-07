@@ -1,38 +1,49 @@
+- date: September 4, 2018
+  news: Joined <a href="https://mila.quebec/en/">Mila</a> as a PhD student at the <a href="https://en.diro.umontreal.ca/home/">Department of Computer Science and Operations Research</a>, <a href="https://www.umontreal.ca/en/">University of Montreal</a>
+  url: https://mila.quebec/en/person/vikram-voleti/
+
 - date: June 6, 2018
   news: Presented "Linear Algebra - Groups, Vector Spaces, Matrix Transformations" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India, as part of the Linear Algebra course by Lovish Chum
   pdf: 20180606_Linear_Algebra.pdf
+  category: presentations
 
 - date: May 25, 2018
   news: Short paper "Lip-Synchronization for Dubbed Instructional Videos" accepted at <a href="http://cvpr2018.thecvf.com/program/workshops" target="_blank">CVPR 2018 Workshop</a> (<a href="http://fiver.eecs.umich.edu" target="_blank">FIVER</a>)
   url: http://fiver.eecs.umich.edu/#abstracts
   pdf: 2018_04_CVPRW.pdf
+  category: publications
 
 - date: April 26, 2018
   news: Presented "Lipreading in the Wild" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India
   pdf: 20180426_IIITH_LRW.pdf
+  category: presentations
 
 - date: February 26, 2018
   news: Presented "Image de-fencing using RGB-D data" at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/" target="_blank">Max Planck Institute for Informatics</a>, Saarbrücken, Germany
   pdf: 20180226_Saarbrucken_MPI_Vikram_Voleti_MTP_Presentation.pdf
+  category: presentations
 
 - date: February 18, 2018
   news: Presented "Mathematics in Sanskrit Poetry" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India
   pdf: 20180218_IIITH_Mathematics_in_Sanskrit_Poetry.pdf
+  category: presentations
 
 - date: February 2, 2018
   news: Presented "Intuition behind LSTMs" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India
   pdf: 20180202_IIITH_Intuition_behind_LSTMs.pdf
+  category: presentations
 
 - date: January 10, 2018
   news: Presented "A Multimodal Approach for Image De-fencing and Depth Inpainting" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India
   url: https://github.com/voletiv/MTP_inPainting/blob/master/Sem_10_MTP_Presentation.pdf
 
 - date: January 5, 2017
-  news: Started work as "Mentor" for <a href="https://www.talentsprint.com/aiml.dpl" target="_blank">Foundations of Artificial Intelligence and Machine Learning</a>
+  news: Started work as "Mentor" for <a href="https://www.talentsprint.com/aiml.dpl" target="_blank">Foundations of Artificial Intelligence and Machine Learning</a> by <a href="https://www.talentsprint.com" target="_blank">TalentSprint</a>
 
 - date: December 29-31, 2017
   news: Attended conference <a href="http://icide.org/2017.html" target="_blank">ICIDE 2017</a>, Dubai; presented "Simple Real-Time Pattern Recognition for Industrial Automation"
   pdf: 20171230_Dubai_ICIDE_presentation.pdf
+  category: presentations
 
 - date: November 11-12, 2017
   news: Won the SMS Classification challenge, participated in the Video Action Recognition challenge at <a href="https://t-hub.co/hack2innovate/" target="_blank">Hack2Innovate</a> hackathon in Bangalore, India

@@ -5,23 +5,21 @@ excerpt: All the companies and places Vikram Voleti has worked at, and the jobs
 permalink: /experience
 ---
 
-# WORK EXPERIENCE
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila.png">](https://mila.quebec/en/){:target="_blank"}
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/talent_sprint.png">](https://www.talentsprint.com/aiml.dpl){:target="_blank"}
+_September 2018 --- present_
 
-_January 2018 --- present_
+### [Mila, University of Montreal](https://mila.quebec/en/){:target="_blank"}
 
-### [IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} & [Talent Sprint](https://www.talentsprint.com/){:target="_blank"}
-
-**Mentor --- Foundations of Artificial Intelligence and Machine Learning**
-
-This is a certificate program by IIIT-H Machine Learning Lab. I assist in creating tutorials on machine learning, and mentor participants during lab sessions.
+**PhD**, under [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}
 
 <br />
 
+# WORK EXPERIENCE
+
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiith.png">](https://cvit.iiit.ac.in){:target="_blank"}
 
-_May 2017 --- present_
+_May 2017 --- August 2018_
 
 ### [International Institute of Information Techonology - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"}
 
@@ -37,10 +35,34 @@ I experiment with convolutional and recurrent neural networks in computer vision
     - Build a visual speech recognizer (lipreader) to classify spoken words in videos, and an assessor by combining convolutional and recurrent neural networks to check if the lipreader’s output is correct
     - Use the lipreader and assessor for self-training on unlabelled data, zero-shot learning on out-ofvocabulary words, and information retrieval
 
-- **Semantic Segmentation**
-    - Combine multiple datasets to train a deep neural network to achive state-of-the-art semantic segmentation for urban driving
+<br />
+
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/playment.jpg">](https://playment.io){:target="_blank"}
+
+_January 2018 --- June 2018_
+
+### [Playment](https://playment.io){:target="_blank"}
+
+**Computer Vision Consultant**
+
+I was a consultant for the computer vision work at Playment. We focused on making more exhaustive and comprehensive semantic segmentation for autonomous driving using deep learning. We also worked at using classical computer vison as well as deep learning to solve various industrial problems including facial recognition, facial landmark detection, pedestrian detection.
 
 <br />
+
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/talent_sprint.png">](https://www.talentsprint.com/aiml.dpl){:target="_blank"}
+
+_January 2018 --- May 2018_
+
+### [IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} & [Talent Sprint](https://www.talentsprint.com/){:target="_blank"}
+
+**Mentor --- Foundations of Artificial Intelligence and Machine Learning**
+
+This is a certificate program by IIIT-H Machine Learning Lab. I assist in creating tutorials on machine learning, and mentor participants during lab sessions.
+
+<br />
+
 
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/gor.png">](http://www.greyorange.com/){:target="_blank"}
 
@@ -60,6 +82,7 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/2017_ICIDE.pdf
 
 <br />
 
+
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/airbus.jpg">](http://www.airbus.com/){:target="_blank"}
 
 _July 2014 --- Feb 2016_
@@ -74,6 +97,7 @@ My job was to simulate signal-level changes in the Flight Warning Computer, such
 
 <br />
 
+
 # EDUCATION
 
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
@@ -85,6 +109,7 @@ _2009 --- 2014_
 Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering,<br />with master's specialization in Instrumentation and Signal Processing.
 
 <br />
+
 
 # RESEARCH PROJECTS
 
