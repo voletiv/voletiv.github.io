@@ -11,7 +11,7 @@ _September 2018 --- present_
 
 ### [Mila, University of Montreal](https://mila.quebec/en/){:target="_blank"}
 
-**PhD**, under [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}
+**PhD**, supervisor: [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}
 
 <br />
 
@@ -34,6 +34,9 @@ I experiment with convolutional and recurrent neural networks in computer vision
 - **Assessor for Lipreader**
     - Build a visual speech recognizer (lipreader) to classify spoken words in videos, and an assessor by combining convolutional and recurrent neural networks to check if the lipreader’s output is correct
     - Use the lipreader and assessor for self-training on unlabelled data, zero-shot learning on out-ofvocabulary words, and information retrieval
+
+
+| [**Workshop paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018_04_CVPRW.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "", in _[CVPR Workshop (FIVER)](http://fiver.eecs.umich.edu/#abstracts){:target="_blank"}_, 2018 |
 
 <br />
 

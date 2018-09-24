@@ -1,10 +1,15 @@
+- date: September 24, 2018
+  news: Presented "Visualizing the Loss Landscapes of Neural Nets" at <a href="https://mila.quebec/en/">Mila</a>
+  pdf: 20180924_Mila_Visualizing_Loss_Functions.pdf
+  category: presentations
+
 - date: September 4, 2018
   news: Joined <a href="https://mila.quebec/en/">Mila</a> as a PhD student at the <a href="https://en.diro.umontreal.ca/home/">Department of Computer Science and Operations Research</a>, <a href="https://www.umontreal.ca/en/">University of Montreal</a>
   url: https://mila.quebec/en/person/vikram-voleti/
 
 - date: June 6, 2018
   news: Presented "Linear Algebra - Groups, Vector Spaces, Matrix Transformations" at <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India, as part of the Linear Algebra course by Lovish Chum
-  pdf: 20180606_Linear_Algebra.pdf
+  pdf: 20180606_IIITH_Linear_Algebra.pdf
   category: presentations
 
 - date: May 25, 2018
