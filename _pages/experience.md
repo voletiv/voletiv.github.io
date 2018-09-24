@@ -36,7 +36,7 @@ I experiment with convolutional and recurrent neural networks in computer vision
     - Use the lipreader and assessor for self-training on unlabelled data, zero-shot learning on out-ofvocabulary words, and information retrieval
 
 
-| [**Workshop paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018_04_CVPRW.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "", in _[CVPR Workshop (FIVER)](http://fiver.eecs.umich.edu/#abstracts){:target="_blank"}_, 2018 |
+| [**Workshop paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018_04_CVPRW.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Lip-Synchronization for Dubbed Instructional Videos", in _[CVPR Workshop (FIVER)](http://fiver.eecs.umich.edu/#abstracts){:target="_blank"}_, 2018 |
 
 <br />
 
