@@ -1,10 +1,9 @@
-<td width="140">
-
+<td width="150">
 <em>{{ article.date }}</em>
 </td>
+
 <td>
 {{ article.news }}
-
 
 {% if article.pdf %}
 &nbsp;&nbsp;
@@ -17,11 +16,9 @@
 
 {% endif %}
 
-
 {% if article.url %}
 [<a href="{{ article.url }}" target="_blank">{% if article.display %}{{ article.display }}{% else %}url{% endif %}</a>]
 {% endif %}
-
 
 </td>
 
