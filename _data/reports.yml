@@ -18,25 +18,6 @@
     url: https://github.com/voletiv/MTP_inPainting
     display: GitHub
 
-- title: Implementation of Carry-Free Arithmetic Operations in FPGA (Summer 2013)
-  image: leuven_summer.png
-  description: <ul>
-               <li>Designed and implemented addition, subtraction, multiplication in Product-of-Sums form using Carry-Free Logic</li>
-               <li>Developed, tested and verified the modules in Verilog, simulated circuits in Xilinx, and compared with standard implementations</li>
-               <li>Wrote <a href="../docs/publications/2018_NCC.pdf">research paper</a> on the work done</li>
-               </ul>
-  venue: KU Leuven, Belgium
-  number_link: 3
-  link1:
-    url: https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Report/KULeuven_Report.pdf
-    display: Report
-  link2:
-    url: https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Presentation/Implementation_of_Carry-Free_Arithmetic_Primitives_for_Prime_Field_Elliptic_Curve_Cryptography.pdf
-    display: Presentation
-  link3:
-    url: https://github.com/voletiv/summer_2013_KULeuven
-    display: GitHub
-
 - title: Determination of Time Offset between Audio and Video (B.Tech. Thesis)
   image: btp.png
   description: <ul>
@@ -54,6 +35,25 @@
     display: Presentation
   link3:
     url: https://github.com/voletiv/BTP_GMM_lipClosure
+    display: GitHub
+
+- title: Implementation of Carry-Free Arithmetic Operations in FPGA (Summer 2013)
+  image: leuven_summer.png
+  description: <ul>
+               <li>Designed and implemented addition, subtraction, multiplication in Product-of-Sums form using Carry-Free Logic</li>
+               <li>Developed, tested and verified the modules in Verilog, simulated circuits in Xilinx, and compared with standard implementations</li>
+               <li>Wrote <a href="../docs/publications/2018_NCC.pdf">research paper</a> on the work done</li>
+               </ul>
+  venue: KU Leuven, Belgium
+  number_link: 3
+  link1:
+    url: https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Report/KULeuven_Report.pdf
+    display: Report
+  link2:
+    url: https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Presentation/Implementation_of_Carry-Free_Arithmetic_Primitives_for_Prime_Field_Elliptic_Curve_Cryptography.pdf
+    display: Presentation
+  link3:
+    url: https://github.com/voletiv/summer_2013_KULeuven
     display: GitHub
 
 - title: Fingertip Gesture Recognizer using HMMs (Summer 2012)

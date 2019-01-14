@@ -7,11 +7,19 @@ permalink: /experience
 
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila.png">](https://mila.quebec/en/){:target="_blank"}
 
+# CURRENT AFFILIATION
+
 _September 2018 --- present_
 
 ### [Mila, University of Montreal](https://mila.quebec/en/){:target="_blank"}
 
 **PhD**, supervisor: [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}
+
+I work on:
+
+- Generative models for 3D sculptures
+- Language Grounding in Visual Reasoning: integrating NLP into GANs
+- Text-to-Video: lip generation from text and audio
 
 <br />
 
@@ -28,12 +36,12 @@ _May 2017 --- August 2018_
 I experiment with convolutional and recurrent neural networks in computer vision tasks.
 
 - **Video Translation**
-    - To generate videos of movies and educational tutorials in Indian languages by morphing lip movement
-    -  Experimenting with GANs (Pix2Pix) to generate videos using original faces, new key facial landmarks, and dubbed audio
+    - Generated videos of movies and educational tutorials of Andrew Ng in Indian languages by morphing lip movement
+    - Experimenting with GANs (Pix2Pix) to generate videos using original faces, new lip landmarks, and dubbed audio
 
 - **Assessor for Lipreader**
-    - Build a visual speech recognizer (lipreader) to classify spoken words in videos, and an assessor by combining convolutional and recurrent neural networks to check if the lipreader’s output is correct
-    - Use the lipreader and assessor for self-training on unlabelled data, zero-shot learning on out-ofvocabulary words, and information retrieval
+    - Built a visual speech recognizer (lipreader) to classify spoken words in videos, and an assessor to check if the lipreader’s output is correct by combining convolutional and recurrent neural networks
+    - Used the lipreader and assessor for self-training on unlabelled data, zero-shot learning on out-of-vocabulary words, and information retrieval
 
 
 | [**Workshop paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018_04_CVPRW.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Lip-Synchronization for Dubbed Instructional Videos", in _[CVPR Workshop (FIVER)](http://fiver.eecs.umich.edu/#abstracts){:target="_blank"}_, 2018 |
