@@ -5,9 +5,9 @@ excerpt: All the companies and places Vikram Voleti has worked at, and the jobs
 permalink: /experience
 ---
 
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila.png">](https://mila.quebec/en/){:target="_blank"}
-
 # CURRENT AFFILIATION
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila.png">](https://mila.quebec/en/){:target="_blank"}
 
 _September 2018 --- present_
 
