@@ -1,5 +1,5 @@
 - date: February 01, 2019
-  news: Paper accepted at ICASSP 2019! "Cross-Language Speech Dependent Lip-Synchronization" - Abhishek Jha, Vikram Voleti, Vinay P. Namboodiri, C. V. Jawahar
+  news: Paper accepted at <a href="https://2019.ieeeicassp.org/">ICASSP 2019</a>! "Cross-Language Speech Dependent Lip-Synchronization" - Abhishek Jha, <u>Vikram Voleti</u>, Vinay P. Namboodiri, C. V. Jawahar
 
 - date: January 16, 2019
   news: Released code of Self-Attention GAN in PyTorch on GitHub
