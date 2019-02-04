@@ -1,3 +1,10 @@
+- date: February 01, 2019
+  news: Paper accepted at ICASSP 2019! "Cross-Language Speech Dependent Lip-Synchronization" - Abhishek Jha, Vikram Voleti, Vinay P. Namboodiri, C. V. Jawahar
+
+- date: January 16, 2019
+  news: Released code of Self-Attention GAN in PyTorch on GitHub
+  url: https://github.com/voletiv/self-attention-GAN-pytorch
+
 - date: December 02-08, 2018
   news: Attended <a href="https://neurips.cc/">NeurIPS 2018</a>, Montreal, Canada
 
