@@ -44,7 +44,9 @@ I experiment with convolutional and recurrent neural networks in computer vision
     - Used the lipreader and assessor for self-training on unlabelled data, zero-shot learning on out-of-vocabulary words, and information retrieval
 
 
-| [**Workshop paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018_04_CVPRW.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Lip-Synchronization for Dubbed Instructional Videos", in _[CVPR Workshop (FIVER)](http://fiver.eecs.umich.edu/#abstracts){:target="_blank"}_, 2018 |
+| [**Conference paper**]({{site.url}}{{site.baseurl}}/docs/publications/2019_02_ICASSP.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Cross-Language Speech Dependent Lip-Synchronization", in _[ICASSP 2019](https://2019.ieeeicassp.org/){:target="_blank"}_ |
+
+| [**Workshop paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018_04_CVPRW.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Lip-Synchronization for Dubbed Instructional Videos", in _[CVPR Workshop (FIVER), 2018](http://fiver.eecs.umich.edu/#abstracts){:target="_blank"}_ |
 
 <br />
 
