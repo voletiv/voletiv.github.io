@@ -1,11 +1,10 @@
 - date: May 12-17, 2019
-  news: Attended <a href="https://2019.ieeeicassp.org/">ICASSP 2019</a>, Brighton, UK; presented "Cross-Language Speech Dependent Lip-Synchronization"
-  url: https://ieeexplore.ieee.org/document/8682275
-  pdf: 2019_02_ICASSP.pdf
-  category: publications
+  news: Attended <a href="https://2019.ieeeicassp.org/">ICASSP 2019</a>, Brighton, UK; presented "Cross-Language Speech Dependent Lip-Synchronization"; [<a href="https://ieeexplore.ieee.org/document/8682275">IEEE</a>], [<a href="https://voletiv.github.io/docs/publications/2019_02_ICASSP.pdf">paper</a>], [<a href="https://voletiv.github.io/docs/presentations/20190517_Brighton_ICASSP_Cross_Language_Speech_Dependent_Lip_Synchronization.pdf">poster</a>]
 
 - date: February 01, 2019
   news: Paper accepted at <a href="https://2019.ieeeicassp.org/">ICASSP 2019</a>! "Cross-Language Speech Dependent Lip-Synchronization" - Abhishek Jha, <u>Vikram Voleti</u>, Vinay P. Namboodiri, C. V. Jawahar
+  pdf: 2019_02_ICASSP.pdf
+  category: publications
 
 - date: January 16, 2019
   news: Released code of Self-Attention GAN in PyTorch on GitHub
