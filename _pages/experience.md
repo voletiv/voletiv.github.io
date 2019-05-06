@@ -17,13 +17,26 @@ _September 2018 --- present_
 
 I work on:
 
-- Generative models for 3D sculptures
 - Language Grounding in Visual Reasoning: integrating NLP into GANs
-- Text-to-Video: lip generation from text and audio
+- Generalizability in deep neural networks
+- Integrating geometry into image generation
 
 <br />
 
 # WORK EXPERIENCE
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/nextai.png">](https://www.nextcanada.com/next-ai){:target="_blank"}
+
+_April 2019 --- present_
+
+### [NextAI, Montreal](https://www.nextcanada.com/next-ai){:target="_blank"}
+
+**Scientist in Residence**
+
+I am a mentor/consultant for 6 startups at NextAI. I assist them in integrating artificial intelligence and machine learning into their product pipeline, and with long-term strategies in technology.
+
+<br />
+
 
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiith.png">](https://cvit.iiit.ac.in){:target="_blank"}
 
@@ -44,7 +57,7 @@ I experiment with convolutional and recurrent neural networks in computer vision
     - Used the lipreader and assessor for self-training on unlabelled data, zero-shot learning on out-of-vocabulary words, and information retrieval
 
 
-| [**Conference paper**]({{site.url}}{{site.baseurl}}/docs/publications/2019_02_ICASSP.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Cross-Language Speech Dependent Lip-Synchronization", in _[ICASSP 2019](https://2019.ieeeicassp.org/){:target="_blank"}_ |
+| [**Conference paper**]({{site.url}}{{site.baseurl}}/docs/publications/2019_02_ICASSP.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Cross-Language Speech Dependent Lip-Synchronization", in _[ICASSP 2019](https://2019.ieeeicassp.org/){:target="_blank"}_ [[IEEE](https://ieeexplore.ieee.org/document/8682275){:target="_blank"}] |
 
 | [**Workshop paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018_04_CVPRW.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Lip-Synchronization for Dubbed Instructional Videos", in _[CVPR Workshop (FIVER), 2018](http://fiver.eecs.umich.edu/#abstracts){:target="_blank"}_ |
 
@@ -140,7 +153,7 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/2015_ICAPR.pdf
 
 | [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/2015_ICAPR.pdf){:target="_blank"}: S. Jonna, V. S. Voleti, R. R. Sahay, and M. S. Kankanhalli, "A Multimodal Approach for Image De-fencing and Depth Inpainting", in _Proc. Int. Conf. Advances in Pattern Recognition_, 2015, pp. 1---6 |
 
-| [**Journal paper**]({{site.url}}{{site.baseurl}}/docs/publications/2017_IJCV.pdf){:target="_blank"}: S. Jonna, S. Satapathy, V. S. Voleti, R. R. Sahay, "Unveiling the scene: A Multimodal Framework for Simultaneous Image Disocclusion and Depth Map Completion using Computational Cameras", _International Journal of Computer Vision_, 2017 | (under review)
+| [**Journal paper**]({{site.url}}{{site.baseurl}}/docs/publications/2017_IJCV.pdf){:target="_blank"}: S. Jonna, S. Satapathy, V. S. Voleti, R. R. Sahay, "Unveiling the scene: A Multimodal Framework for Simultaneous Image Disocclusion and Depth Map Completion using Computational Cameras", _International Journal of Computer Vision_, 2017 | (rejected)
 
 [THESIS](https://github.com/voletiv/MTP_inPainting/blob/master/Vikram_Voleti_Masters_Thesis_compressed.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/MTP_inPainting/blob/master/Sem_10_MTP_Presentation.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/MTP_inPainting){:target="_blank"} repository containing thesis, presentation, code files, and results
 
