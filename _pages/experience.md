@@ -46,11 +46,11 @@ _May 2017 --- August 2018_
 
 **Research Assistant --- Applied Research Lab**, under [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, CVIT, IIIT-Hyderabad, India
 
-I experiment with convolutional and recurrent neural networks in computer vision tasks.
+I experimented with convolutional and recurrent neural networks in computer vision tasks.
 
 - **Video Translation**
     - Generated videos of movies and educational tutorials of Andrew Ng in Indian languages by morphing lip movement
-    - Experimenting with GANs (Pix2Pix) to generate videos using original faces, new lip landmarks, and dubbed audio
+    - Experimented with GANs (Pix2Pix) to generate videos using original faces, new lip landmarks, and dubbed audio
 
 - **Assessor for Lipreader**
     - Built a visual speech recognizer (lipreader) to classify spoken words in videos, and an assessor to check if the lipreader’s output is correct by combining convolutional and recurrent neural networks
@@ -72,6 +72,8 @@ _January 2018 --- June 2018_
 
 **Computer Vision Consultant**
 
+Playment is a startup that offers annotation services for various computer vision tasks.
+
 I was a consultant for the computer vision work at Playment. We focused on making more exhaustive and comprehensive semantic segmentation for autonomous driving using deep learning. We also worked at using classical computer vison as well as deep learning to solve various industrial problems including facial recognition, facial landmark detection, pedestrian detection.
 
 <br />
@@ -85,7 +87,7 @@ _January 2018 --- May 2018_
 
 **Mentor --- Foundations of Artificial Intelligence and Machine Learning**
 
-This is a certificate program by IIIT-H Machine Learning Lab. I assist in creating tutorials on machine learning, and mentor participants during lab sessions.
+This is a certificate program by IIIT-H Machine Learning Lab. I assisted in creating tutorials on machine learning, and mentor participants during lab sessions.
 
 <br />
 
