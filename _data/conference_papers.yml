@@ -2,7 +2,7 @@
   image: 2019a_ICMLW.png
   description: <ul><li>Comparing the performance of conditional generative models with different normalization techniques</li></ul>
   authors: Vincent Michalski, Vikram Voleti, Samira Kahou, Anthony Ortiz, Pascal Vincent, Chris Pal, Doina Precup
-  venue: ICML 2019 Workshop on Understanding and Improving Generalization in Deep Learning
+  venue: <a href="https://icml.cc/Conferences/2019">ICML 2019</a> Workshop on <a href="https://sites.google.com/view/icml2019-generalization">Understanding and Improving Generalization in Deep Learning</a>
   number_link: 2
   link1:
     url: 2019a_ICMLW_CGN_CBN.pdf
@@ -15,7 +15,7 @@
   image: 2019_ICASSP.png
   description: <ul><li>Video generation to morph lip movements of speakers to match new audio</li></ul>
   authors: Abhishek Jha, Vikram Voleti, Vinay P. Namboodiri, C. V. Jawahar
-  venue: ICASSP 2019
+  venue: <a href="https://2019.ieeeicassp.org/">ICASSP 2019</a>
   number_link: 1
   link1:
     url: 2019_02_ICASSP.pdf
@@ -28,7 +28,7 @@
   image: 2018_CVPRW.png
   description: <ul><li>Video generation to morph lip movements of speakers to match new audio</li></ul>
   authors: Abhishek Jha, Vikram Voleti, Vinay P. Namboodiri, C. V. Jawahar
-  venue: CVPR Workshop (FIVER) 2018
+  venue: <a href="http://cvpr2018.thecvf.com/program/workshops" target="_blank">CVPR 2018</a> Workshop (<a href="http://fiver.eecs.umich.edu" target="_blank">FIVER</a>)
   number_link: 2
   link1:
     url: 2018_04_CVPRW.pdf
