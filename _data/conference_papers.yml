@@ -1,3 +1,16 @@
+- title: Comparing Normalization in Conditional Computation Tasks
+  image: 2019a_ICMLW.png
+  description: <ul><li>Comparing the performance of conditional generative models with different normalization techniques</li></ul>
+  authors: Vincent Michalski, Vikram Voleti, Samira Kahou, Anthony Ortiz, Pascal Vincent, Chris Pal, Doina Precup
+  venue: ICML 2019 Workshop on Understanding and Improving Generalization in Deep Learning
+  number_link: 2
+  link1:
+    url: 2019a_ICMLW_CGN_CBN.pdf
+    display: paper
+  link2:
+    url: ../presentations/20190614_LongBeach_ICML_Workshop_CGN.pdf
+    display: poster
+
 - title: Cross-Language Speech Dependent Lip-Synchronization
   image: 2019_ICASSP.png
   description: <ul><li>Video generation to morph lip movements of speakers to match new audio</li></ul>
@@ -6,7 +19,10 @@
   number_link: 1
   link1:
     url: 2019_02_ICASSP.pdf
-    display: pdf
+    display: paper
+  link2:
+    url: ../presentations/20190517_Brighton_ICASSP_Cross_Language_Speech_Dependent_Lip_Synchronization.pdf
+    display: poster
 
 - title: Lip-Synchronization for Dubbed Instructional Videos
   image: 2018_CVPRW.png
