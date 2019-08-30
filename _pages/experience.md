@@ -23,17 +23,17 @@ I work on:
 
 <br />
 
-# WORK EXPERIENCE
+# EXPERIENCE
 
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/nextai.png">](https://www.nextcanada.com/next-ai){:target="_blank"}
 
-_April 2019 --- present_
+_April 2019 --- August 2019_
 
 ### [NextAI, Montreal](https://www.nextcanada.com/next-ai){:target="_blank"}
 
 **Scientist in Residence**
 
-I am a mentor/consultant for 6 startups at NextAI. I assist them in integrating artificial intelligence and machine learning into their product pipeline, and with long-term strategies in technology.
+I was a mentor/consultant for 6 startups at NextAI. I assisted them in integrating artificial intelligence and machine learning into their product pipeline, and with long-term strategies in technology.
 
 <br />
 
@@ -44,7 +44,7 @@ _May 2017 --- August 2018_
 
 ### [International Institute of Information Techonology - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"}
 
-**Research Assistant --- Applied Research Lab**, under [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, CVIT, IIIT-Hyderabad, India
+**Research Fellow**, with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, Centre for Visual Information Technology, IIIT-Hyderabad, India
 
 I experimented with convolutional and recurrent neural networks in computer vision tasks.
 
@@ -139,7 +139,7 @@ Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering,<br />with master'
 <br />
 
 
-# RESEARCH PROJECTS
+# THESIS PROJECTS
 
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
 
@@ -175,7 +175,7 @@ I worked on the identification of bilabial consonants in video and audio. The go
 
 <br />
 
-# RESEARCH INTERNSHIPS
+# PAST INTERNSHIPS
 
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/leuven.png">](https://www.kuleuven.be/english/){:target="_blank"}
 

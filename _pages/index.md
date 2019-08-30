@@ -19,8 +19,6 @@ Prior to that, I worked at [GreyOrange Robotics](http://www.greyorange.com/){:ta
 
 I graduated from [IIT Kharagpur, India](http://www.iitkgp.ac.in/){:target="_blank"}, in 2014 with a Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering, my Master's specialization was Instrumentation and Signal Processing.
 
-<br/>
-
 ## News
 
 <table>
