@@ -1,29 +1,29 @@
 - date: September 9-13, 2019
-  news: Teaching Assistant at the <a href="https://ivado.ca/en/events/ecole-ivado-mila-en-apprentissage-profond-4e-edition-en-anglais/">4th IVADO / Mila Deep Learning Summer School</a>, Montreal, Canada
+  news: Teaching Assistant at the <a href="https://ivado.ca/en/events/ecole-ivado-mila-en-apprentissage-profond-4e-edition-en-anglais/" target="_blank">4th IVADO / Mila Deep Learning Summer School</a>, Montreal, Canada
 
 - date: September - December, 2019
-  news: Teaching Assistant for the <a href="http://mitliagkas.github.io/ift6390-ml-class-2019/">Fundamentals of Machine Learning</a> (IFT 6390) course by <a href="http://mitliagkas.github.io/">Ioannis Mitliagkas</a> at the University of Montreal, Montreal, Canada
+  news: Teaching Assistant for the <a href="http://mitliagkas.github.io/ift6390-ml-class-2019/" target="_blank">Fundamentals of Machine Learning (IFT 6390)</a> course by <a href="http://mitliagkas.github.io/" target="_blank">Ioannis Mitliagkas</a> at the University of Montreal, Montreal, Canada
 
 - date: July 7-10, 2019
-  news: Attended <a href="http://rldm.org/">RLDM 2019</a>, Montreal, Canada
+  news: Attended <a href="http://rldm.org/" target="_blank">RLDM 2019</a>, Montreal, Canada
 
 - date: June 16-20, 2019
-  news: Attended <a href="http://cvpr2019.thecvf.com/">CVPR 2019</a>, Long Beach, California
+  news: Attended <a href="http://cvpr2019.thecvf.com/" target="_blank">CVPR 2019</a>, Long Beach, California
 
 - date: June 9-15, 2019
-  news: Attended <a href="https://icml.cc/Conferences/2019">ICML 2019</a>, Long Beach, California; presented "Comparing normalization in conditional computation tasks" in the Workshop on <a href="https://sites.google.com/view/icml2019-generalization">Understanding and Improving Generalization in Deep Learning</a>!   [<a href="https://voletiv.github.io/docs/publications/2019b_ICMLW_CGN_CBN.pdf">paper</a>, <a href="https://voletiv.github.io/docs/presentations/20190614_LongBeach_ICML_Workshop_CGN.pdf">poster</a>]
+  news: Attended <a href="https://icml.cc/Conferences/2019" target="_blank">ICML 2019</a>, Long Beach, California; presented "Comparing normalization in conditional computation tasks" in the Workshop on <a href="https://sites.google.com/view/icml2019-generalization" target="_blank">Understanding and Improving Generalization in Deep Learning</a>!   [<a href="https://voletiv.github.io/docs/publications/2019b_ICMLW_CGN_CBN.pdf" target="_blank">paper</a>, <a href="https://voletiv.github.io/docs/presentations/20190614_LongBeach_ICML_Workshop_CGN.pdf" target="_blank">poster</a>]
 
 - date: May 31, 2019
-  news: Paper accepted at <a href="https://icml.cc/Conferences/2019">ICML 2019</a> Workshop on <a href="https://sites.google.com/view/icml2019-generalization">Understanding and Improving Generalization in Deep Learning</a>! Paper title - "Comparing normalization in conditional computation tasks"  [<a href="https://voletiv.github.io/docs/publications/2019b_ICMLW_CGN_CBN.pdf">pdf</a>]
+  news: Paper accepted at <a href="https://icml.cc/Conferences/2019" target="_blank">ICML 2019</a> Workshop on <a href="https://sites.google.com/view/icml2019-generalization" target="_blank">Understanding and Improving Generalization in Deep Learning</a>! Paper title - "Comparing normalization in conditional computation tasks"  [<a href="https://voletiv.github.io/docs/publications/2019b_ICMLW_CGN_CBN.pdf" target="_blank">pdf</a>]
 
 - date: May 30, 2019
-  news: Gave a tutorial on "GANs" at the <a href="https://www.aiforsocialgood.ca/speakers-and-mentors">AI for Social Good Summer Lab</a> (AI4Good)! Followed these excellent slides (not mine) - [<a href="http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf">pdf</a>]
+  news: Gave a tutorial on "GANs" at the <a href="https://www.aiforsocialgood.ca/speakers-and-mentors" target="_blank">AI for Social Good Summer Lab</a> (AI4Good)! Followed these excellent slides (not mine) - [<a href="http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf" target="_blank">pdf</a>]
 
 - date: May 12-17, 2019
-  news: Attended <a href="https://2019.ieeeicassp.org/">ICASSP 2019</a>, Brighton, UK; presented "Cross-Language Speech Dependent Lip-Synchronization"; [<a href="https://ieeexplore.ieee.org/document/8682275">IEEE</a>], [<a href="https://voletiv.github.io/docs/publications/2019_02_ICASSP.pdf">paper</a>], [<a href="https://voletiv.github.io/docs/presentations/20190517_Brighton_ICASSP_Cross_Language_Speech_Dependent_Lip_Synchronization.pdf">poster</a>]
+  news: Attended <a href="https://2019.ieeeicassp.org/" target="_blank">ICASSP 2019</a>, Brighton, UK; presented "Cross-Language Speech Dependent Lip-Synchronization"; [<a href="https://ieeexplore.ieee.org/document/8682275" target="_blank">IEEE</a>], [<a href="https://voletiv.github.io/docs/publications/2019_02_ICASSP.pdf" target="_blank">paper</a>], [<a href="https://voletiv.github.io/docs/presentations/20190517_Brighton_ICASSP_Cross_Language_Speech_Dependent_Lip_Synchronization.pdf" target="_blank">poster</a>]
 
 - date: February 01, 2019
-  news: Paper accepted at <a href="https://2019.ieeeicassp.org/">ICASSP 2019</a>! "Cross-Language Speech Dependent Lip-Synchronization" - Abhishek Jha, <u>Vikram Voleti</u>, Vinay P. Namboodiri, C. V. Jawahar
+  news: Paper accepted at <a href="https://2019.ieeeicassp.org/" target="_blank">ICASSP 2019</a>! "Cross-Language Speech Dependent Lip-Synchronization" - Abhishek Jha, <u>Vikram Voleti</u>, Vinay P. Namboodiri, C. V. Jawahar
   pdf: 2019_02_ICASSP.pdf
   category: publications
 
@@ -32,20 +32,20 @@
   url: https://github.com/voletiv/self-attention-GAN-pytorch
 
 - date: December 02-08, 2018
-  news: Attended <a href="https://neurips.cc/">NeurIPS 2018</a>, Montreal, Canada
+  news: Attended <a href="https://neurips.cc/" target="_blank">NeurIPS 2018</a>, Montreal, Canada
 
 - date: October 30, 2018
-  news: Presented "(BigGAN) Large Scale GAN Training for High Fidelity Natural Image Synthesis" at <a href="https://mila.quebec/en/">Mila</a>, <a href="https://www.umontreal.ca/en/">University of Montreal</a>, Canada
+  news: Presented "(BigGAN) Large Scale GAN Training for High Fidelity Natural Image Synthesis" at <a href="https://mila.quebec/en/" target="_blank">Mila</a>, <a href="https://www.umontreal.ca/en/" target="_blank">University of Montreal</a>, Canada
   pdf: 20181030_Mila_BigGAN.pdf
   category: presentations
 
 - date: September 24, 2018
-  news: Presented "Visualizing the Loss Landscapes of Neural Nets" at <a href="https://mila.quebec/en/">Mila</a>, <a href="https://www.umontreal.ca/en/">University of Montreal</a>, Canada
+  news: Presented "Visualizing the Loss Landscapes of Neural Nets" at <a href="https://mila.quebec/en/" target="_blank">Mila</a>, <a href="https://www.umontreal.ca/en/" target="_blank">University of Montreal</a>, Canada
   pdf: 20180924_Mila_Visualizing_Loss_Functions.pdf
   category: presentations
 
 - date: September 4, 2018
-  news: Joined <a href="https://mila.quebec/en/">Mila</a> as a PhD student at the <a href="https://en.diro.umontreal.ca/home/">Department of Computer Science and Operations Research</a>, <a href="https://www.umontreal.ca/en/">University of Montreal</a>
+  news: Joined <a href="https://mila.quebec/en/" target="_blank">Mila</a> as a PhD student at the <a href="https://en.diro.umontreal.ca/home/" target="_blank">Department of Computer Science and Operations Research</a>, <a href="https://www.umontreal.ca/en/" target="_blank">University of Montreal</a>
   url: https://mila.quebec/en/person/vikram-voleti/
 
 - date: June 6, 2018
