@@ -17,21 +17,40 @@ _September 2018 --- present_
 
 I work on:
 
+- Large-scale video reconstruction and generation
 - Language Grounding in Visual Reasoning: integrating NLP into GANs
-- Generalizability in deep neural networks
-- Integrating geometry into image generation
+- 3D generative models
 
 <br />
 
 # EXPERIENCE
 
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/IVADO.png">](https://ivado.ca/en/trainings/schools/deep-learning-school-4th-and-5th-edition/){:target="_blank"}
+
+_September 9-13, 2019_
+
+### Teaching Assistant, [4th IVADO / Mila Deep Learning School](http://mitliagkas.github.io/ift6390-ml-class-2019/){:target="_blank"}
+**Montreal, Canada** 
+
+<br />
+
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/UdeM.jpg">](https://www.umontreal.ca/){:target="_blank"}
+
+_September 2019 --- December 2019_
+
+### Teaching Assistant, [Fundamentals of Machine Learning (IFT 6390)](http://mitliagkas.github.io/ift6390-ml-class-2019/){:target="_blank"}, by [Ioannis Mitliagkas](http://mitliagkas.github.io/)
+**University of Montreal, Montreal, Canada**
+
+<br />
+
+
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/nextai.png">](https://www.nextcanada.com/next-ai){:target="_blank"}
 
 _April 2019 --- August 2019_
 
-### [NextAI, Montreal](https://www.nextcanada.com/next-ai){:target="_blank"}
-
-**Scientist in Residence**
+### Scientist in Residence, [NextAI, Montreal](https://www.nextcanada.com/next-ai){:target="_blank"}
+**Montreal, Canada**
 
 I was a mentor/consultant for 6 startups at NextAI. I assisted them in integrating artificial intelligence and machine learning into their product pipeline, and with long-term strategies in technology.
 
@@ -42,9 +61,8 @@ I was a mentor/consultant for 6 startups at NextAI. I assisted them in integrati
 
 _May 2017 --- August 2018_
 
-### [International Institute of Information Techonology - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"}
-
-**Research Fellow**, with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, Centre for Visual Information Technology, IIIT-Hyderabad, India
+### Research Fellow, [International Institute of Information Techonology - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"}
+**Hyderabad, India --- Research Fellow with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, Centre for Visual Information Technology, IIIT-Hyderabad**
 
 I experimented with convolutional and recurrent neural networks in computer vision tasks.
 
@@ -68,9 +86,8 @@ I experimented with convolutional and recurrent neural networks in computer visi
 
 _January 2018 --- June 2018_
 
-### [Playment](https://playment.io){:target="_blank"}
-
-**Computer Vision Consultant**
+### Computer Vision Consultant, [Playment](https://playment.io){:target="_blank"}
+**Bengaluru, India**
 
 Playment is a startup that offers annotation services for various computer vision tasks.
 
@@ -83,11 +100,10 @@ I was a consultant for the computer vision work at Playment. We focused on makin
 
 _January 2018 --- May 2018_
 
-### [IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} & [Talent Sprint](https://www.talentsprint.com/){:target="_blank"}
+### Mentor, [IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} & [Talent Sprint](https://www.talentsprint.com/){:target="_blank"}
+**Hyderabad, India**
 
-**Mentor --- Foundations of Artificial Intelligence and Machine Learning**
-
-This is a certificate program by IIIT-H Machine Learning Lab. I assisted in creating tutorials on machine learning, and mentor participants during lab sessions.
+I was a Mentor for the **Foundations of Artificial Intelligence and Machine Learning** certificate program by IIIT-H Machine Learning Lab and TalentSprint. I assisted in creating tutorials on machine learning, and mentor participants during lab sessions.
 
 <br />
 
@@ -96,13 +112,13 @@ This is a certificate program by IIIT-H Machine Learning Lab. I assisted in crea
 
 _Feb 2016 --- May 2017_
 
-### [GreyOrange Robotics](http://www.greyorange.com/){:target="_blank"}
+### Image Processing Engineer, [GreyOrange Robotics](http://www.greyorange.com/){:target="_blank"}
 
-**Image Processing Engineer --- Embedded Systems team**
+**Gurgaon, India**
 
 GreyOrange Robotics is a multinational firm that designs, manufactures and deploys advanced robotics systems for automation at warehouses, distribution and fulfillment centres.
 
-My job was to developed a computer vision module to perform video processing in real time for warehouse automation. We made an "Empty Carriage Detection System" (ECDS) for the "Cross-Belt Sorter" (CBS) that detects in real time whether a carriage in a conveyor belt has a packet on it or not, and relays the information to the server and mechanical systems. I also helped develop the embedded vision module in automated guided robots for warehouses, called "Butlers".
+I was part of the Embedded Systems team. My job was to developed a computer vision module to perform video processing in real time for warehouse automation. We made an "Empty Carriage Detection System" (ECDS) for the "Cross-Belt Sorter" (CBS) that detects in real time whether a carriage in a conveyor belt has a packet on it or not, and relays the information to the server and mechanical systems. I also helped develop the embedded vision module in automated guided robots for warehouses, called "Butlers".
 
 A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/2017_ICIDE.pdf){:target="_blank"} based on some of the work has been accepted at the International Conference on Industrial Design Engineering, [ICIDE 2017](http://www.icide.org/){:target="_blank"}.
 
@@ -115,13 +131,13 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/2017_ICIDE.pdf
 
 _July 2014 --- Feb 2016_
 
-### [Airbus, India](http://www.airbus.com/){:target="_blank"}
+### Associate Engineer, [Airbus, India](http://www.airbus.com/){:target="_blank"}
 
-**Associate Engineer --- Avionics Software and Systems Testing group**
+**Bengaluru, India**
 
 Airbus is a commercial aircraft manufacturer, and the largest aeronautics & space company in Europe. I worked in the Bangalore (India) office as part of the Avionics Software and Systems Testing group. I was involved in development and integration of avionics systems in the Flight Warning Computer (FWC) for aircrafts in the long-range family.
 
-My job was to simulate signal-level changes in the Flight Warning Computer, such as adding new signals for new functionalities, re-routing signals through different paths. This was followed by rigorous testing of the FWC for correct operation. We designed the re-routing paths, as well as the tests required to ensure all the functionalities of the FWC run correctly. For all development, standard avionics coding guidelines (DO-178B) were followed.
+I was part of the Avionics Software and Systems Testing group. My job was to simulate signal-level changes in the Flight Warning Computer, such as adding new signals for new functionalities, re-routing signals through different paths. This was followed by rigorous testing of the FWC for correct operation. We designed the re-routing paths, as well as the tests required to ensure all the functionalities of the FWC run correctly. For all development, standard avionics coding guidelines (DO-178B) were followed.
 
 <br />
 
