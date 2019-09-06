@@ -126,7 +126,8 @@ ul li span {
     // padding-bottom: 10px;
     margin-bottom: 30px;
     background-color: #ffffff;
-    border: 1px solid darken(#ffffff, 30%);
+    border: 1px solid darken(#ffffff, 80%);
+    box-shadow: 2px 2px 5px gray;
     blockquote {
         border-color: #ddd;
         border-color: rgba(0,0,0,.15);
