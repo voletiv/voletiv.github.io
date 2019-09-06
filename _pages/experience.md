@@ -23,6 +23,20 @@ I work on:
 
 <br />
 
+
+# EDUCATION
+
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
+
+_2009 --- 2014_
+
+### [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/){:target="_blank"}, India
+
+Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering,<br />with master's specialization in Instrumentation and Signal Processing.
+
+<br />
+
+
 # EXPERIENCE
 
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/IVADO.png">](https://ivado.ca/en/trainings/schools/deep-learning-school-4th-and-5th-edition/){:target="_blank"}
@@ -138,19 +152,6 @@ _July 2014 --- Feb 2016_
 Airbus is a commercial aircraft manufacturer, and the largest aeronautics & space company in Europe. I worked in the Bangalore (India) office as part of the Avionics Software and Systems Testing group. I was involved in development and integration of avionics systems in the Flight Warning Computer (FWC) for aircrafts in the long-range family.
 
 I was part of the Avionics Software and Systems Testing group. My job was to simulate signal-level changes in the Flight Warning Computer, such as adding new signals for new functionalities, re-routing signals through different paths. This was followed by rigorous testing of the FWC for correct operation. We designed the re-routing paths, as well as the tests required to ensure all the functionalities of the FWC run correctly. For all development, standard avionics coding guidelines (DO-178B) were followed.
-
-<br />
-
-
-# EDUCATION
-
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
-
-_2009 --- 2014_
-
-### [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/){:target="_blank"}, India
-
-Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering,<br />with master's specialization in Instrumentation and Signal Processing.
 
 <br />
 
