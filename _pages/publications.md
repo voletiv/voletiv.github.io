@@ -5,7 +5,7 @@ excerpt: Vikram Voleti's publications
 permalink: /publications
 ---
 
-## CONFERENCE PAPERS
+# CONFERENCE PAPERS
 
 {% for publication in site.data.conference_papers %}
 
@@ -16,7 +16,7 @@ permalink: /publications
 <p>&nbsp;</p>
 
 {% comment %}
-## JOURNAL PAPERS
+# JOURNAL PAPERS
 
 {% for publication in site.data.journal_papers %}
 
@@ -29,7 +29,7 @@ permalink: /publications
 {% assign numOfJournals = loopindex %}
 {% endcomment %}
 
-## THESIS / REPORTS
+# THESIS / REPORTS
 
 {% for publication in site.data.reports %}
 
