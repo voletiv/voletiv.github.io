@@ -7,6 +7,7 @@ permalink: /experience
 
 # CURRENT AFFILIATION
 
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila.png">](https://mila.quebec/en/){:target="_blank"}
 
 _September 2018 --- present_
@@ -19,25 +20,30 @@ I work on:
 
 - Large-scale video reconstruction and generation
 - Language Grounding in Visual Reasoning: integrating NLP into GANs
-- 3D generative models
+- Generative models for images, video, 3D
+</div>
 
 <br />
 
 
 # EDUCATION
 
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
 
 _2009 --- 2014_
 
 ### [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/){:target="_blank"}, India
 
-Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering,<br />with master's specialization in Instrumentation and Signal Processing.
+**Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering**<br />with master's specialization in Instrumentation and Signal Processing
+</div>
 
 <br />
 
 
 # EXPERIENCE
+
+<div class="experience-box" markdown="1">
 
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/IVADO.png">](https://ivado.ca/en/trainings/schools/deep-learning-school-4th-and-5th-edition/){:target="_blank"}
 
@@ -45,20 +51,19 @@ _September 9-13, 2019_
 
 ### Teaching Assistant, [4th IVADO / Mila Deep Learning School](http://mitliagkas.github.io/ift6390-ml-class-2019/){:target="_blank"}
 **Montreal, Canada** 
+</div>
 
-<br />
-
-
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/UdeM.jpg">](https://www.umontreal.ca/){:target="_blank"}
 
 _September 2019 --- December 2019_
 
 ### Teaching Assistant, [Fundamentals of Machine Learning (IFT 6390)](http://mitliagkas.github.io/ift6390-ml-class-2019/){:target="_blank"}, by [Ioannis Mitliagkas](http://mitliagkas.github.io/)
 **University of Montreal, Montreal, Canada**
+</div>
 
-<br />
 
-
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/nextai.png">](https://www.nextcanada.com/next-ai){:target="_blank"}
 
 _April 2019 --- August 2019_
@@ -67,10 +72,10 @@ _April 2019 --- August 2019_
 **Montreal, Canada**
 
 I was a mentor/consultant for 6 startups at NextAI. I assisted them in integrating artificial intelligence and machine learning into their product pipeline, and with long-term strategies in technology.
+</div>
 
-<br />
 
-
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiith.png">](https://cvit.iiit.ac.in){:target="_blank"}
 
 _May 2017 --- August 2018_
@@ -93,9 +98,10 @@ I experimented with convolutional and recurrent neural networks in computer visi
 
 | [**Workshop paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018_04_CVPRW.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Lip-Synchronization for Dubbed Instructional Videos", in _[CVPR Workshop (FIVER), 2018](http://fiver.eecs.umich.edu/#abstracts){:target="_blank"}_ |
 
-<br />
+</div>
 
 
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/playment.jpg">](https://playment.io){:target="_blank"}
 
 _January 2018 --- June 2018_
@@ -106,10 +112,10 @@ _January 2018 --- June 2018_
 Playment is a startup that offers annotation services for various computer vision tasks.
 
 I was a consultant for the computer vision work at Playment. We focused on making more exhaustive and comprehensive semantic segmentation for autonomous driving using deep learning. We also worked at using classical computer vison as well as deep learning to solve various industrial problems including facial recognition, facial landmark detection, pedestrian detection.
+</div>
 
-<br />
 
-
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/talent_sprint.png">](https://www.talentsprint.com/aiml.dpl){:target="_blank"}
 
 _January 2018 --- May 2018_
@@ -118,10 +124,10 @@ _January 2018 --- May 2018_
 **Hyderabad, India**
 
 I was a Mentor for the **Foundations of Artificial Intelligence and Machine Learning** certificate program by IIIT-H Machine Learning Lab and TalentSprint. I assisted in creating tutorials on machine learning, and mentor participants during lab sessions.
+</div>
 
-<br />
 
-
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/gor.png">](http://www.greyorange.com/){:target="_blank"}
 
 _Feb 2016 --- May 2017_
@@ -138,9 +144,10 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/2017_ICIDE.pdf
 
 | [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/2017_ICIDE.pdf){:target="_blank"}: V. Voleti, P. Mohan, S. Gupta, J. Iqbal, "Simple Real-Time Pattern Recognition for Industrial Automation", in _Proc. International Conference on Industrial Design Engineering_, 2017 |
 
-<br />
+</div>
 
 
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/airbus.jpg">](http://www.airbus.com/){:target="_blank"}
 
 _July 2014 --- Feb 2016_
@@ -152,12 +159,15 @@ _July 2014 --- Feb 2016_
 Airbus is a commercial aircraft manufacturer, and the largest aeronautics & space company in Europe. I worked in the Bangalore (India) office as part of the Avionics Software and Systems Testing group. I was involved in development and integration of avionics systems in the Flight Warning Computer (FWC) for aircrafts in the long-range family.
 
 I was part of the Avionics Software and Systems Testing group. My job was to simulate signal-level changes in the Flight Warning Computer, such as adding new signals for new functionalities, re-routing signals through different paths. This was followed by rigorous testing of the FWC for correct operation. We designed the re-routing paths, as well as the tests required to ensure all the functionalities of the FWC run correctly. For all development, standard avionics coding guidelines (DO-178B) were followed.
+</div>
+
 
 <br />
 
 
 # THESIS PROJECTS
 
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
 
 _2013 --- 2014_
@@ -176,8 +186,10 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/2015_ICAPR.pdf
 
 [THESIS](https://github.com/voletiv/MTP_inPainting/blob/master/Vikram_Voleti_Masters_Thesis_compressed.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/MTP_inPainting/blob/master/Sem_10_MTP_Presentation.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/MTP_inPainting){:target="_blank"} repository containing thesis, presentation, code files, and results
 
-<br />
+</div>
 
+
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
 
 _2012 --- 2013_
@@ -190,10 +202,13 @@ I worked on the identification of bilabial consonants in video and audio. The go
 
 [THESIS](https://github.com/voletiv/BTP_GMM_lipClosure/blob/master/Bachelors_Thesis.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/BTP_GMM_lipClosure/blob/master/Vikram_Voleti_\%5B09EE3501\%5D_BTP_Presentation.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/BTP_GMM_lipClosure){:target="_blank"} repository containing thesis, presentation, code files, and results
 
+</div>
+
 <br />
 
 # PAST INTERNSHIPS
 
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/leuven.png">](https://www.kuleuven.be/english/){:target="_blank"}
 
 _Summer 2013_
@@ -210,8 +225,10 @@ A [single-author research paper]({{site.url}}{{site.baseurl}}/docs/publications/
 
 [Report](https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Report/KULeuven_Report.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Presentation/Implementation_of_Carry-Free_Arithmetic_Primitives_for_Prime_Field_Elliptic_Curve_Cryptography.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2013_KULeuven){:target="_blank"} repository containing report and presentation
 
-<br />
+</div>
 
+
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
 
 _Summer 2012_
@@ -224,7 +241,10 @@ I first implemented Hidden Markov Models (HMM) in MATLAB from scratch, and verif
 
 [Report](https://github.com/voletiv/summer_2012_HMM_FingerTipGestureRecognition/blob/master/Vikram\%20Voleti\%20\%5B09EE3501\%5D\%20Summer\%202012\%20Internship\%20Report.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/summer_2012_HMM_FingerTipGestureRecognition/blob/master/Ppt.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2012_HMM_FingerTipGestureRecognition){:target="_blank"} repository containing report, presentation, code files, and results
 
-<br />
+</div>
+
+
+<div class="experience-box" markdown="1">
 
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/imperial.jpg">](https://www.imperial.ac.uk/){:target="_blank"}
 
@@ -238,4 +258,5 @@ I experimented with an FPGA, and measured the power consumption among the LookUp
 
 [Presentation](https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London/blob/master/An Automated Flow for Intra-Die Power Variation Measurement.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London){:target="_blank"} repository containing presentation, certificate, and recommendation letter from Prof. Peter Cheung
 
+</div>
 

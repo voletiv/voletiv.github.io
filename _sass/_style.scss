@@ -126,7 +126,7 @@ ul li span {
     // padding-bottom: 10px;
     margin-bottom: 30px;
     background-color: #ffffff;
-    border: 1px solid darken(#ffffff, 80%);
+    border: 1px solid darken(#ffffff, 50%);
     box-shadow: 2px 2px 5px gray;
     blockquote {
         border-color: #ddd;
@@ -135,7 +135,7 @@ ul li span {
 }
 
 .publication-title {
-    margin: 20px 20px 10px 20px;
+    margin: 20px 20px 20px 20px;
     // margin-bottom: 10px;
     font-size: $publication-title-font-size;
     font-weight: bold;
@@ -155,12 +155,27 @@ ul li span {
 
 .publication-text {
     // margin-left: 24%;
-    margin: 0px 0px 20px 25%;
+    margin: 0px 20px 20px 25%;
 }
 
 // .publication-links {
 //     margin: 0px 0px 5px 0px;
 // }
+
+/* Experience */
+
+.experience-box {
+    width: 100%;
+    padding: 0px 10px 0px 10px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border: 1px solid darken(#ffffff, 50%);
+    box-shadow: 2px 2px 5px gray;
+    blockquote {
+        border-color: #ddd;
+        border-color: rgba(0,0,0,.15);
+      }
+}
 
 /* Social */
 
