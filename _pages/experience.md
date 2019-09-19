@@ -51,7 +51,10 @@ _September 9-13, 2019_
 
 ### Teaching Assistant, [4th IVADO / Mila Deep Learning School](http://mitliagkas.github.io/ift6390-ml-class-2019/){:target="_blank"}
 **Montreal, Canada** 
+
+[Resources](https://github.com/mila-iqia/ivado-mila-dl-school-2019)
 </div>
+
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/UdeM.jpg">](https://www.umontreal.ca/){:target="_blank"}
