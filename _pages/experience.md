@@ -12,7 +12,8 @@ permalink: /experience
 
 _September 2019 --- present_
 
-### [Google](https://ai.google/research/teams/perception/){:target="_blank"}, Mountain View, California, USA
+### [Research Intern, Google](https://ai.google/research/teams/perception/){:target="_blank"}
+**Mountain View, California, USA**
 
 I work in the [Google AI Perception](https://ai.google/research/teams/perception/){:target="_blank"} team on deep models for large-scale video analysis for speaker activity detection with [Bryan Seybold](https://ai.google/research/people/105552/){:target="_blank"} and [Sourish Chaudhuri](https://ai.google/research/people/SourishChaudhuri/){:target="_blank"}.
 
@@ -23,12 +24,11 @@ I work in the [Google AI Perception](https://ai.google/research/teams/perception
 
 _September 2018 --- present_
 
-### [Mila, University of Montreal](https://mila.quebec/en/){:target="_blank"}
+### [PhD student, Mila, University of Montreal](https://mila.quebec/en/){:target="_blank"}
 
-**PhD student**, supervisor: [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}
+**Supervisor: [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}**
 
 I work on:
-
 - Large-scale video reconstruction and generation using latent dynamics
 - Generative models for images, video, 3D
 </div>
@@ -89,7 +89,7 @@ I was a mentor/consultant for 6 startups at NextAI. I assisted them in integrati
 _May 2017 --- August 2018_
 
 ### Research Fellow, [International Institute of Information Techonology - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"}
-**Hyderabad, India --- Research Fellow with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, Centre for Visual Information Technology, IIIT-Hyderabad**
+**Hyderabad, India --- Research Fellow with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, Centre for Visual Information Technology**
 
 I experimented with convolutional and recurrent neural networks in computer vision tasks.
 
