@@ -5,7 +5,7 @@ excerpt: All the companies and places Vikram Voleti has worked at, and the jobs
 permalink: /experience
 ---
 
-# CURRENT AFFILIATION
+# CURRENT
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/Google__G__Logo.svg">](https://ai.google/research/teams/perception/){:target="_blank"}
