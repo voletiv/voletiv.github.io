@@ -89,7 +89,8 @@ I was a mentor/consultant for 6 startups at NextAI. I assisted them in integrati
 _May 2017 --- August 2018_
 
 ### Research Fellow, [International Institute of Information Techonology - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"}
-**Hyderabad, India --- Research Fellow with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, Centre for Visual Information Technology**
+**Hyderabad, India**
+**Research Fellow with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, Centre for Visual Information Technology, IIIT Hyderabad**
 
 I experimented with convolutional and recurrent neural networks in computer vision tasks.
 
