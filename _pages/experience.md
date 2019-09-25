@@ -12,7 +12,7 @@ permalink: /experience
 
 _September 2019 --- present_
 
-### [Research Intern, Google](https://ai.google/research/teams/perception/){:target="_blank"}
+### Research Intern, [Google](https://ai.google/research/teams/perception/){:target="_blank"}
 **Mountain View, California, USA**
 
 I work in the [Google AI Perception](https://ai.google/research/teams/perception/){:target="_blank"} team on deep models for large-scale video analysis for speaker activity detection with [Bryan Seybold](https://ai.google/research/people/105552/){:target="_blank"} and [Sourish Chaudhuri](https://ai.google/research/people/SourishChaudhuri/){:target="_blank"}.
