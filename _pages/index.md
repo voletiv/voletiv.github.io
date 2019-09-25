@@ -9,7 +9,7 @@ permalink: /
 
 <img class="profile-picture" src="{{site.url}}{{site.baseurl}}/images/profile-picture/profile_picture.jpg">
 
-I am a PhD student at [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"} with [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"} as my supervisor.
+I am a PhD student at [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"} with [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"} as my supervisor. Currently, I am a Research Intern at [Google](https://ai.google/research/teams/perception/){:target="_blank"}, in the [Google AI Perception](https://ai.google/research/teams/perception/){:target="_blank"} team.
 
 Previously, I worked as a Research Fellow with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"} at the Applied Research Lab, [CVIT, IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"}. I worked on projects involving automatic translation of videos into different languages, with applications in educational video dubbing.
 
