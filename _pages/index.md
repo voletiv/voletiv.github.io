@@ -11,13 +11,13 @@ permalink: /
 
 I am a PhD student at [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"} with [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"} as my supervisor. Currently, I am a Research Intern at [Google](https://ai.google/research/teams/perception/){:target="_blank"}, Mountain View in the [Google AI Perception](https://ai.google/research/teams/perception/){:target="_blank"} team.
 
-Previously, I worked as a Research Fellow with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"} at the Applied Research Lab, [CVIT, IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"}. I worked on projects involving automatic translation of videos into different languages, with applications in educational video dubbing.
+Previously, I worked as a Research Fellow with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"} at [CVIT, IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} on automated lip synthesis for translation of a video into a different languages.
 
-I was also a Mentor for the [Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl){:target="_blank"} certificate program by IIIT-H Machine Learning Lab. I designed tutorials and lab sessions, and mentored industry professionals. I also worked as a Computer Vision consultant for [Playment](https://playment.io){:target="_blank"} on semantic segmentation for autonomous driving.
+I have also worked as a Teaching Assistant for the IVADO/Mila Deep Learning School, and for a month for the Fundamentals of Machine Learning course at the Universiy of Montreal. I also worked as a Mentor for the [Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl){:target="_blank"} certificate program by IIIT-H Machine Learning Lab. I designed tutorials and lab sessions, and mentored industry professionals. I was also as a Computer Vision consultant for [Playment](https://playment.io){:target="_blank"} on semantic segmentation for autonomous driving.
 
 Prior to that, I worked at [GreyOrange Robotics](http://www.greyorange.com/){:target="_blank"} on computer vision modules in embedded systems for real time pattern recognition in videos for warehouse automation, and on autonomous robots; and at [Airbus, India](http://www.airbus.com/){:target="_blank"} on software development and integration.
 
-I graduated from [IIT Kharagpur, India](http://www.iitkgp.ac.in/){:target="_blank"}, in 2014 with a Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering, my Master's specialization was Instrumentation and Signal Processing.
+I graduated from the [Indian Institute of Technology (IIT), Kharagpur, India](http://www.iitkgp.ac.in/){:target="_blank"}, in 2014 with a Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering, my Master's specialization was Instrumentation and Signal Processing.
 
 ## News
 

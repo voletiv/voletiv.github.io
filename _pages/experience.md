@@ -64,7 +64,7 @@ _September 9-13, 2019_
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/UdeM.jpg">](https://www.umontreal.ca/){:target="_blank"}
 
-_September 2019 --- December 2019_
+_September 2019_
 
 ### Teaching Assistant, [Fundamentals of Machine Learning (IFT 6390)](http://mitliagkas.github.io/ift6390-ml-class-2019/){:target="_blank"}, by [Ioannis Mitliagkas](http://mitliagkas.github.io/){:target="_blank"}
 **University of Montreal, Montreal, Canada**
@@ -89,10 +89,7 @@ I was a mentor/consultant for 6 startups at NextAI. I assisted them in integrati
 _May 2017 --- August 2018_
 
 ### Research Fellow, [International Institute of Information Techonology - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"}
-**Hyderabad, India**
-**Research Fellow with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, Centre for Visual Information Technology, IIIT Hyderabad**
-
-I experimented with convolutional and recurrent neural networks in computer vision tasks.
+**Hyderabad, India** --- with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, Centre for Visual Information Technology, IIIT Hyderabad**
 
 - **Video Translation**
     - Generated videos of movies and educational tutorials of Andrew Ng in Indian languages by morphing lip movement
@@ -102,10 +99,9 @@ I experimented with convolutional and recurrent neural networks in computer visi
     - Built a visual speech recognizer (lipreader) to classify spoken words in videos, and an assessor to check if the lipreader’s output is correct by combining convolutional and recurrent neural networks
     - Used the lipreader and assessor for self-training on unlabelled data, zero-shot learning on out-of-vocabulary words, and information retrieval
 
+| [**Conference paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018d_ICASSP.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Cross-Language Speech Dependent Lip-Synchronization", in _[ICASSP 2019](https://2019.ieeeicassp.org/){:target="_blank"}_ [[IEEE](https://ieeexplore.ieee.org/document/8682275){:target="_blank"}] |
 
-| [**Conference paper**]({{site.url}}{{site.baseurl}}/docs/publications/2019_02_ICASSP.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Cross-Language Speech Dependent Lip-Synchronization", in _[ICASSP 2019](https://2019.ieeeicassp.org/){:target="_blank"}_ [[IEEE](https://ieeexplore.ieee.org/document/8682275){:target="_blank"}] |
-
-| [**Workshop paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018_04_CVPRW.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Lip-Synchronization for Dubbed Instructional Videos", in _[CVPR Workshop (FIVER), 2018](http://fiver.eecs.umich.edu/#abstracts){:target="_blank"}_ |
+| [**Workshop paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018b_CVPRW.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Lip-Synchronization for Dubbed Instructional Videos", in _[CVPR Workshop (FIVER), 2018](http://fiver.eecs.umich.edu/#abstracts){:target="_blank"}_ |
 
 </div>
 
@@ -225,9 +221,9 @@ _Summer 2013_
 
 I worked on the carry-free implementations of arithmetic operations of addition, subtraction and multiplication. Binary numbers are first converted to a recoded digit format that eliminates carry propagation. I designed the truth tables for this conversion, as well as subsequent addition, subtraction and multiplication. I then simplified the circuits into Product-of-Sums form, and coded them in Verilog. The time taken by these circuits were compared with standard implementation.
 
-A [single-author research paper]({{site.url}}{{site.baseurl}}/docs/publications/2018_NCC.pdf){:target="_blank"} based on this work has been written.
+A [single-author research paper]({{site.url}}{{site.baseurl}}/docs/publications/2018a_NCC.pdf){:target="_blank"} based on this work has been written.
 
-| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018_NCC.pdf){:target="_blank"}: V. Voleti, "Carry-Free Implementations of Arithmetic Operations in FPGA" |
+| [**Research paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018a_NCC.pdf){:target="_blank"}: V. Voleti, "Carry-Free Implementations of Arithmetic Operations in FPGA" |
 
 [Report](https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Report/KULeuven_Report.pdf){:target="_blank"} | [Presentation](https://github.com/voletiv/summer_2013_KULeuven/blob/master/Leuven_Presentation/Implementation_of_Carry-Free_Arithmetic_Primitives_for_Prime_Field_Elliptic_Curve_Cryptography.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2013_KULeuven){:target="_blank"} repository containing report and presentation
 

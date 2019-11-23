@@ -1,52 +1,95 @@
+- title: Simple Video Generation using Neural ODEs
+  image: 2019e_NeurIPSW_EncODEDec.png
+  description: <ul><li>Using NeuralODEs to model latent dynamics for video generation</li></ul>
+  authors: Vikram Voleti, David Kanaa, Samira Kahou, Chris Pal
+  venue: <a href="https://neurips.cc/Conferences/2018">NeurIPS 2019</a> Workshop on <a href="https://sites.google.com/view/neurips2019lire/home?authuser=0">Learning with Rich Experience</a>
+  number_link: 1
+  link1:
+    url: 2019e_NeurIPSW_EncODEDec.pdf
+    display: paper
+#   link2:
+#     url: ../presentations/20191213_Vancouver_NeurIPS_Workshop_EncODEDec.pdf
+#     display: poster
+
+# - title: Conditional Group Normalization: An Empirical Study
+#   image: 2019a_ICMLW_CGN.png
+#   description: <ul><li>Comparing the performance of conditional generative models with different normalization techniques</li></ul>
+#   authors: Vincent Michalski, Vikram Voleti, Samira Kahou, Anthony Ortiz, Pascal Vincent, Chris Pal, Doina Precup
+#   venue: <a href="https://aaai.org/Conferences/AAAI-20/">AAAI 2020</a>
+#   number_link: 1
+#   link1:
+#     url: 2019d_AAAI_CGN.pdf
+#     display: paper
+
+# - title: Conditional Group Normalization: An Empirical Study
+#   image: 2019a_ICMLW_CGN.png
+#   description: <ul><li>Comparing the performance of conditional generative models with different normalization techniques</li></ul>
+#   authors: Vincent Michalski, Vikram Voleti, Samira Kahou, Anthony Ortiz, Pascal Vincent, Chris Pal, Doina Precup
+#   venue: <a href="https://neurips.cc/Conferences/2018">NeurIPS 2019</a>
+#   number_link: 1
+#   link1:
+#     url: 2019b_NeurIPS_CGN.pdf
+#     display: paper
+
 - title: Comparing Normalization in Conditional Computation Tasks
-  image: 2019a_ICMLW.png
+  image: 2019a_ICMLW_CGN.png
   description: <ul><li>Comparing the performance of conditional generative models with different normalization techniques</li></ul>
   authors: Vincent Michalski, Vikram Voleti, Samira Kahou, Anthony Ortiz, Pascal Vincent, Chris Pal, Doina Precup
   venue: <a href="https://icml.cc/Conferences/2019">ICML 2019</a> Workshop on <a href="https://sites.google.com/view/icml2019-generalization">Understanding and Improving Generalization in Deep Learning</a>
   number_link: 2
   link1:
-    url: 2019a_ICMLW_CGN_CBN.pdf
+    url: 2019a_ICMLW_CGN.pdf
     display: paper
   link2:
     url: ../presentations/20190614_LongBeach_ICML_Workshop_CGN.pdf
     display: poster
 
 - title: Cross-Language Speech Dependent Lip-Synchronization
-  image: 2019_ICASSP.png
+  image: 2018d_ICASSP.png
   description: <ul><li>Video generation to morph lip movements of speakers to match new audio</li></ul>
   authors: Abhishek Jha, Vikram Voleti, Vinay P. Namboodiri, C. V. Jawahar
   venue: <a href="https://2019.ieeeicassp.org/">ICASSP 2019</a>
   number_link: 2
   link1:
-    url: 2019_02_ICASSP.pdf
+    url: 2018d_ICASSP.pdf
     display: paper
   link2:
     url: ../presentations/20190517_Brighton_ICASSP_Cross_Language_Speech_Dependent_Lip_Synchronization.pdf
     display: poster
 
+# - title: Cross-Language Speech Dependent Lip-Synchronization
+#   image: 2018b_CVPRW.png
+#   description: <ul><li>Video generation to morph lip movements of speakers to match new audio</li></ul>
+#   authors: Abhishek Jha, Vikram Voleti, Vinay P. Namboodiri, C. V. Jawahar
+#   venue: <a href="https://wacv19.wacv.net/" target="_blank">WACV 2019</a>
+#   number_link: 1
+#   link1:
+#     url: 2018c_WACV_.pdf
+#     display: pdf
+
 - title: Lip-Synchronization for Dubbed Instructional Videos
-  image: 2018_CVPRW.png
+  image: 2018b_CVPRW.png
   description: <ul><li>Video generation to morph lip movements of speakers to match new audio</li></ul>
   authors: Abhishek Jha, Vikram Voleti, Vinay P. Namboodiri, C. V. Jawahar
   venue: <a href="http://cvpr2018.thecvf.com/program/workshops" target="_blank">CVPR 2018</a> Workshop (<a href="http://fiver.eecs.umich.edu" target="_blank">FIVER</a>)
   number_link: 2
   link1:
-    url: 2018_04_CVPRW.pdf
+    url: 2018b_CVPRW.pdf
     display: pdf
   link2:
     url: http://fiver.eecs.umich.edu/#abstracts
     display: url
 
-#- title: Carry-Free Implementations of Arithmetic Operations in FPGA
-#  image: 2013_leuven.png
-#  description: <ul><li>Design and implementation of addition, subtraction, multiplication using Carry-Free Logic</li>
-#               <li>Developed, tested and verified the modules in Verilog, and simulated circuits in Xilinx</li></ul>
-#  authors: V. Voleti
-#  venue: 24th National Conference on Communications, NCC 2018 (under review)
-#  number_link: 1
-#  link1:
-#    url: 2018_02_NCC.pdf
-#    display: pdf
+# - title: Carry-Free Implementations of Arithmetic Operations in FPGA
+#   image: 2013_leuven.png
+#   description: <ul><li>Design and implementation of addition, subtraction, multiplication using Carry-Free Logic</li>
+#                <li>Developed, tested and verified the modules in Verilog, and simulated circuits in Xilinx</li></ul>
+#   authors: V. Voleti
+#   venue: 24th National Conference on Communications, NCC 2018 (under review)
+#   number_link: 1
+#   link1:
+#     url: 2018a_NCC.pdf
+#     display: pdf
 
 - title: Simple Real-Time Pattern Recognition for Industrial Automation
   image: 2017_ICIDE.jpg
