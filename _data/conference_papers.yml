@@ -51,7 +51,7 @@
   venue: <a href="https://2019.ieeeicassp.org/" target="_blank">ICASSP 2019</a>
   number_link: 2
   link1:
-    url: 2018d_ICASSP.pdf
+    url: 2018d_ICASSP_VisDub.pdf
     display: paper
   link2:
     url: ../presentations/20190517_Brighton_ICASSP_Cross_Language_Speech_Dependent_Lip_Synchronization.pdf
@@ -64,7 +64,7 @@
 #   venue: <a href="https://wacv19.wacv.net/ target="_blank"" target="_blank">WACV 2019</a>
 #   number_link: 1
 #   link1:
-#     url: 2018c_WACV_.pdf
+#     url: 2018c_WACV_VisDub.pdf
 #     display: paper
 
 - title: Lip-Synchronization for Dubbed Instructional Videos
@@ -74,7 +74,7 @@
   venue: <a href="http://cvpr2018.thecvf.com/program/workshops" target="_blank">CVPR 2018</a> Workshop (<a href="http://fiver.eecs.umich.edu" target="_blank">FIVER</a>)
   number_link: 2
   link1:
-    url: 2018b_CVPRW.pdf
+    url: 2018b_CVPRW_VisDub.pdf
     display: paper
   link2:
     url: http://fiver.eecs.umich.edu/#abstracts
