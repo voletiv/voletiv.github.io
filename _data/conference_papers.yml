@@ -3,13 +3,13 @@
   description: <ul><li>Using NeuralODEs to model latent dynamics for video generation</li></ul>
   authors: Vikram Voleti, David Kanaa, Samira Kahou, Chris Pal
   venue: <a href="https://neurips.cc/Conferences/2019" target="_blank">NeurIPS 2019</a> Workshop on <a href="https://sites.google.com/view/neurips2019lire/home?authuser=0" target="_blank">Learning with Rich Experience</a>
-  number_link: 1
+  number_link: 2
   link1:
     url: 2019e_NeurIPSW_EncODEDec.pdf
     display: paper
-#   link2:
-#     url: ../presentations/20191213_Vancouver_NeurIPS_Workshop_EncODEDec.pdf
-#     display: poster
+  link2:
+    url: ../presentations/20191213_Vancouver_NeurIPSW_EncODEDec.pdf
+    display: poster
 
 # - title: Conditional Group Normalization: An Empirical Study
 #   image: 2019a_ICMLW_CGN.png
