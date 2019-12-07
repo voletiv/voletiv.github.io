@@ -8,18 +8,6 @@ permalink: /experience
 # CURRENT
 
 <div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/Google__G__Logo.svg">](https://ai.google/research/teams/perception/){:target="_blank"}
-
-_September 2019 --- present_
-
-### Research Intern, [Google](https://ai.google/research/teams/perception/){:target="_blank"}
-**Mountain View, California, USA**
-
-I work in the [Google AI Perception](https://ai.google/research/teams/perception/){:target="_blank"} team on deep models for large-scale video analysis for speaker activity detection with [Bryan Seybold](https://ai.google/research/people/105552/){:target="_blank"} and [Sourish Chaudhuri](https://ai.google/research/people/SourishChaudhuri/){:target="_blank"}.
-
-</div>
-
-<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila.png">](https://mila.quebec/en/){:target="_blank"}
 
 _September 2018 --- present_
@@ -31,6 +19,19 @@ _September 2018 --- present_
 I work on:
 - Large-scale video reconstruction and generation using latent dynamics
 - Generative models for images, video, 3D
+</div>
+
+
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/guelph.png">](https://www.uoguelph.ca/engineering/){:target="_blank"}
+
+_September 2019 --- present_
+
+### Visiting Ressearch Associate, [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}, [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"}
+**Guelph, Ontario, Canada**
+
+I work in [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}'s lab on computer vision and deep learning.
+
 </div>
 
 # EDUCATION
@@ -47,6 +48,19 @@ _2009 --- 2014_
 
 
 # EXPERIENCE
+
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/Google__G__Logo.svg">](https://ai.google/research/teams/perception/){:target="_blank"}
+
+_September 2019 --- December 2019_
+
+### Research Intern, [Google](https://ai.google/research/teams/perception/){:target="_blank"}
+**Mountain View, California, USA**
+
+I work in the [Google AI Perception](https://ai.google/research/teams/perception/){:target="_blank"} team on deep models for large-scale video analysis for speaker activity detection with [Bryan Seybold](https://ai.google/research/people/105552/){:target="_blank"} and [Sourish Chaudhuri](https://ai.google/research/people/SourishChaudhuri/){:target="_blank"}.
+
+</div>
+
 
 <div class="experience-box" markdown="1">
 
