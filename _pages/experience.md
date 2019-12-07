@@ -12,7 +12,7 @@ permalink: /experience
 
 _September 2018 --- present_
 
-### [PhD student, Mila, University of Montreal](https://mila.quebec/en/){:target="_blank"}
+### PhD student, [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}
 
 **Supervisor: [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}**
 
@@ -27,7 +27,7 @@ I work on:
 
 _September 2019 --- present_
 
-### Visiting Ressearch Associate, [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}, [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"}
+### Visiting Ressearch Associate with [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}, [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"}
 **Guelph, Ontario, Canada**
 
 I work in [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}'s lab on computer vision and deep learning.
