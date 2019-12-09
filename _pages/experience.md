@@ -25,7 +25,7 @@ I work on:
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/guelph.png">](https://www.uoguelph.ca/engineering/){:target="_blank"}
 
-_September 2019 --- present_
+_January 2020 --- present_
 
 ### Visiting Research Associate with [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}, [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"}
 **Guelph, Ontario, Canada**
