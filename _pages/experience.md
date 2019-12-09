@@ -27,7 +27,7 @@ I work on:
 
 _September 2019 --- present_
 
-### Visiting Ressearch Associate with [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}, [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"}
+### Visiting Research Associate with [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}, [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"}
 **Guelph, Ontario, Canada**
 
 I work in [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}'s lab on computer vision and deep learning.
