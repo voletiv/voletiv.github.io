@@ -1,8 +1,11 @@
+- date: December 15, 2019
+  news: Joined <a href="https://www.gwtaylor.ca/" target="_blank">Prof. Graham Taylor</a>'s lab as a Visiting Researcher at the <a href="https://www.uoguelph.ca/engineering/" target="_blank">University of Guelph</a>, Canada.
+
 - date: December 9-14, 2019
   news: Attended <a href="https://neurips.cc/Conferences/2019" target="_blank">NeurIPS 2019</a>, Vancouver, Canada; presented "Simple Video Generation using Neural ODEs" in the Workshop on <a href="https://sites.google.com/view/neurips2019lire/home?authuser=0" target="_blank">Learning with Rich Experience</a>!   [<a href="https://voletiv.github.io/docs/publications/2019e_NeurIPSW_EncODEDec.pdf" target="_blank">paper</a>, <a href="https://voletiv.github.io/docs/presentations/20191213_Vancouver_NeurIPSW_EncODEDec.pdf" target="_blank">poster</a>]
 
-# - date: December 9, 2019
-#   news: Attended <a href="https://events.cifar.ca/aican19" target="_blank">AICan 2019</a>, the second annual meeting of the Pan-Canadian AI Strategy
+- date: December 9, 2019
+  news: Attended <a href="https://events.cifar.ca/aican19" target="_blank">AICan 2019</a>, the second annual meeting of the Pan-Canadian AI Strategy; presented "Simple Video Generation using Neural ODEs" [<a href="https://voletiv.github.io/docs/publications/2019e_NeurIPSW_EncODEDec.pdf" target="_blank">paper</a>]
 
 - date: September 16, 2019 - December 6, 2019
   news: Research Intern at Google, Mountain View in the <a href="https://ai.google/research/teams/perception/" target="_blank">Google AI Perception</a> team, with Bryan Seybold and Sourish Chaudhuri. Worked on Semi-supervised Active Speaker Detection in videos.
