@@ -14,9 +14,11 @@ permalink: /contact
 
 ---
 
-[<i class="fa fa-github"></i> GitHub](https://github.com/{{ site.github_username }}){:target="_blank"}
+[<i class="ai ai-google-scholar-square"></i> Google Scholar]({{ site.google_scholar_url }}){:target="_blank"}
 
 [<i class="fa fa-linkedin"></i> LinkedIn](https://linkedin.com/in/{{ site.linkedin_username }}){:target="_blank"}
+
+[<i class="fa fa-github"></i> GitHub](https://github.com/{{ site.github_username }}){:target="_blank"}
 
 [<i class="fa fa-quora"></i> Quora](https://www.quora.com/profile/{{ site.quora_username }}){:target="_blank"}
 

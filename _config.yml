@@ -15,6 +15,7 @@ sass:
 
 include: ["_pages"]
 
+google_scholar_url:   https://scholar.google.com/citations?hl=en&user=PPCRqZUAAAAJ&view_op=list_works&sortby=pubdate
 github_username:      voletiv
 linkedin_username:    vikram-voleti-45372222
 quora_username:       Vikram-Voleti
