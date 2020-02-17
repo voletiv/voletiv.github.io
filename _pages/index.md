@@ -13,11 +13,11 @@ permalink: /
 
 I am a PhD student at [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"} with [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"} as my supervisor. Currently, I am a Visiting Research Associate at the [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"} with [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}.
 
-I was a Research Intern at [Google](https://ai.google/research/teams/perception/){:target="_blank"}, Mountain View in the [Google AI Perception](https://ai.google/research/teams/perception/){:target="_blank"} team in the fall of 2019. I worked with Bryan Seybold on Semi-supervised Active Speaker Detection in videos.
+I was a Research Intern at [Google](https://ai.google/research/teams/perception/){:target="_blank"}, Mountain View in the [Google AI Perception](https://ai.google/research/teams/perception/){:target="_blank"} team in the fall of 2019. I had the good fortune of working with Bryan Seybold & Sourish Chaudhuri on Semi-supervised Active Speaker Detection in videos.
 
-Previously, I worked as a Research Fellow with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"} at [CVIT, IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} on automated lip synthesis for translation of a video into a different languages.
+In 2019, I was also an AI Scientist in Residence for NextAI, Montreal, and a teaching assistant for the IVADO/Mila Deep Learning School.
 
-I also worked as a Mentor for the [Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl){:target="_blank"} certificate program by IIIT-H Machine Learning Lab. I designed tutorials and lab sessions, and mentored industry professionals. I was also a Computer Vision consultant for [Playment](https://playment.io){:target="_blank"}, I worked on semantic segmentation for autonomous driving.
+Previously, I worked as a Research Fellow with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"} at [CVIT, IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} on automated lip synthesis for translation of a video into a different languages. I was also a Mentor for the first [Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl){:target="_blank"} certificate program for industry professionals by IIIT-H Machine Learning Lab. I also worked on semantic segmentation for autonomous driving with [Playment](https://playment.io){:target="_blank"}.
 
 Prior to that, I worked at [GreyOrange Robotics](http://www.greyorange.com/){:target="_blank"} on real time embedded vision in videos for warehouse automation, and autonomous robots; and at [Airbus, India](http://www.airbus.com/){:target="_blank"} on software development and integration.
 
