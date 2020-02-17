@@ -64,7 +64,7 @@ p {
 .navbar {
     width: 100%;
     height: 20px;
-    background-color: #ffdb58;
+    background-color: #ffcc13;
     margin: 0;
     padding: 25px 0px 15px 0px;
     border-bottom: 2px solid darken(#ffffff, 20%);
@@ -79,6 +79,7 @@ p {
 }
 .alignable {
     display: inline-block;
+    font-weight: bold;
 }
 .pull-left {
     @extend .alignable;
