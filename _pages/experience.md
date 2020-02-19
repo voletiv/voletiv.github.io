@@ -90,7 +90,7 @@ _September 2019_
 
 _April 2019 --- August 2019_
 
-### Scientist in Residence, [NextAI, Montreal](https://www.nextcanada.com/next-ai){:target="_blank"}
+### AI Scientist in Residence, [NextAI, Montreal](https://www.nextcanada.com/next-ai){:target="_blank"}
 **Montreal, Canada**
 
 I was a mentor/consultant for 6 startups at NextAI. I assisted them in integrating artificial intelligence and machine learning into their product pipeline, and with long-term strategies in technology.
