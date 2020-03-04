@@ -12,13 +12,11 @@ permalink: /experience
 
 _September 2018 --- present_
 
-### PhD student, [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}
+### [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}
 
-**Supervisor: [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}**
+**PhD student, Supervisor: [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}**
 
-I work on:
-- Large-scale video reconstruction and generation using latent dynamics
-- Generative models for images, video, 3D
+My research interests are broadly in generative models for images, video, 3D. I work on large-scale video reconstruction and generation using latent dynamics
 </div>
 
 
@@ -41,7 +39,7 @@ I work in [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}'s la
 
 _2009 --- 2014_
 
-### [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/){:target="_blank"}, India
+### [Indian Institute of Technology (IIT), Kharagpur](http://www.iitkgp.ac.in/){:target="_blank"}, India
 
 **Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering**<br />with master's specialization in Instrumentation and Signal Processing
 </div>
@@ -241,9 +239,11 @@ I worked on the identification of bilabial consonants in video and audio. The go
 
 _Summer 2013_
 
-### Implementation of Carry-Free Arithmetic Operations in FPGA
+### [KU Leuven](https://www.kuleuven.be/english/){:target="_blank"}, Belgium
 
-[**KU Leuven, Belgium**](https://www.kuleuven.be/english/){:target="_blank"} --- under [Prof. Ingrid Verbauwhede](https://www.kuleuven.be/wieiswie/en/person/00018159){:target="_blank"}, Computer Security & Industrial Applications, ESAT
+Supervisor: [Prof. Ingrid Verbauwhede](https://www.kuleuven.be/wieiswie/en/person/00018159){:target="_blank"}, Computer Security & Industrial Applications, ESAT
+
+**Implementation of Carry-Free Arithmetic Operations in FPGA**
 
 I worked on the carry-free implementations of arithmetic operations of addition, subtraction and multiplication. Binary numbers are first converted to a recoded digit format that eliminates carry propagation. I designed the truth tables for this conversion, as well as subsequent addition, subtraction and multiplication. I then simplified the circuits into Product-of-Sums form, and coded them in Verilog. The time taken by these circuits were compared with standard implementation.
 
@@ -261,9 +261,11 @@ A [single-author research paper]({{site.url}}{{site.baseurl}}/docs/publications/
 
 _Summer 2012_
 
-### Fingertip Gesture Recognizer using HMMs
+### [IIT Kharagpur](http://www.iitkgp.ac.in/){:target="_blank"}, India
 
-[**IIT Kharagpur, India**](http://www.iitkgp.ac.in/){:target="_blank"} --- under [Prof. Aurobinda Routray](http://www.aroutray.org/){:target="_blank"}, Electrical Engineering
+Supervisor: [Prof. Aurobinda Routray](http://www.aroutray.org/){:target="_blank"}, Electrical Engineering
+
+**Fingertip Gesture Recognizer using HMMs**
 
 I first implemented Hidden Markov Models (HMM) in MATLAB from scratch, and verified the implementation outputs with those of standard implementation. I then made a simple gesture recognizer in MATLAB using HMMs.
 
@@ -278,9 +280,11 @@ I first implemented Hidden Markov Models (HMM) in MATLAB from scratch, and verif
 
 _Summer 2011_
 
-### Measurement of Intra-die Power Variation in Sub-nm FPGA’s
+### [Imperial College](https://www.imperial.ac.uk/){:target="_blank"}, London, UK
 
-[**Imperial College, London**](https://www.imperial.ac.uk/){:target="_blank"} --- under [Prof. Peter Cheung](http://www.imperial.ac.uk/people/p.cheung){:target="_blank"}, Electrical and Electronic Engineering
+Supervisor: [Prof. Peter Cheung](http://www.imperial.ac.uk/people/p.cheung){:target="_blank"}, Electrical and Electronic Engineering
+
+**Measurement of Intra-die Power Variation in Sub-nm FPGA’s**
 
 I experimented with an FPGA, and measured the power consumption among the LookUp Tables (LUTs) within it. An automated workflow for the measurement of power across the FPGA was made, by first implementing a circuit in each LUT, measuring the power on an oscilloscope using the JTAG terminals on the FPGA, recording the oscilloscope's readings in MATLAB, and plotting graphs from MATLAB.
 
