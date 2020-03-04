@@ -27,8 +27,8 @@ I work on:
 
 _January 2020 --- present_
 
-### Visiting Research Associate with [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}, [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"}
-**Guelph, Ontario, Canada**
+### Visiting Researcher - [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}, [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"}
+**Guelph, Canada**
 
 I work in [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}'s lab on computer vision and deep learning.
 
@@ -54,7 +54,7 @@ _2009 --- 2014_
 
 _March 2020 --- September 2020_
 
-### AI Scientist in Residence, [NextAI, Montreal](https://www.nextcanada.com/next-ai){:target="_blank"}
+### [NextAI](https://www.nextcanada.com/next-ai){:target="_blank"}, Toronto - AI Scientist in Residence
 **Toronto, Canada**
 
 I was a mentor/consultant for multiple startups at NextAI. I assisted them in integrating artificial intelligence and machine learning into their product pipeline, and with long-term strategies in technology.
@@ -66,7 +66,7 @@ I was a mentor/consultant for multiple startups at NextAI. I assisted them in in
 
 _September 2019 --- December 2019_
 
-### Research Intern, [Google](https://ai.google/research/teams/perception/){:target="_blank"}
+### [Google](https://ai.google/research/teams/perception/){:target="_blank"} - Research Intern
 **Mountain View, California, USA**
 
 I worked with the [Google AI Perception](https://ai.google/research/teams/perception/){:target="_blank"} team on deep models for large-scale video analysis for active speaker detection with [Bryan Seybold](https://ai.google/research/people/105552/){:target="_blank"} and [Sourish Chaudhuri](https://ai.google/research/people/SourishChaudhuri/){:target="_blank"}.
@@ -80,7 +80,7 @@ I worked with the [Google AI Perception](https://ai.google/research/teams/percep
 
 _September 9-13, 2019_
 
-### Teaching Assistant, [4th IVADO / Mila Deep Learning School](http://mitliagkas.github.io/ift6390-ml-class-2019/){:target="_blank"}
+### [4th IVADO / Mila Deep Learning School](http://mitliagkas.github.io/ift6390-ml-class-2019/){:target="_blank"} - Teaching Assistant
 **Montreal, Canada** 
 
 [Resources](https://github.com/mila-iqia/ivado-mila-dl-school-2019){:target="_blank"}
@@ -92,7 +92,7 @@ _September 9-13, 2019_
 
 _September 2019_
 
-### Teaching Assistant, [Fundamentals of Machine Learning (IFT 6390)](http://mitliagkas.github.io/ift6390-ml-class-2019/){:target="_blank"}, by [Ioannis Mitliagkas](http://mitliagkas.github.io/){:target="_blank"}
+### [Fundamentals of Machine Learning (IFT 6390)](http://mitliagkas.github.io/ift6390-ml-class-2019/){:target="_blank"}, by [Ioannis Mitliagkas](http://mitliagkas.github.io/){:target="_blank"} - Teaching Assistant
 **University of Montreal, Montreal, Canada**
 </div>
 
@@ -102,7 +102,7 @@ _September 2019_
 
 _April 2019 --- August 2019_
 
-### AI Scientist in Residence, [NextAI, Montreal](https://www.nextcanada.com/next-ai){:target="_blank"}
+### [NextAI](https://www.nextcanada.com/next-ai){:target="_blank"}, Montreal - AI Scientist in Residence
 **Montreal, Canada**
 
 I was a mentor/consultant for 6 startups at NextAI. I assisted them in integrating artificial intelligence and machine learning into their product pipeline, and with long-term strategies in technology.
@@ -114,7 +114,7 @@ I was a mentor/consultant for 6 startups at NextAI. I assisted them in integrati
 
 _May 2017 --- August 2018_
 
-### Research Fellow, [International Institute of Information Techonology - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"}
+### [International Institute of Information Techonology (IIIT) - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} - Research Fellow
 **Hyderabad, India** --- with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, Centre for Visual Information Technology, IIIT Hyderabad**
 
 - **Video Translation**
@@ -137,7 +137,7 @@ _May 2017 --- August 2018_
 
 _January 2018 --- June 2018_
 
-### Computer Vision Consultant, [Playment](https://playment.io){:target="_blank"}
+### [Playment](https://playment.io){:target="_blank"} - Computer Vision Consultant
 **Bengaluru, India**
 
 Playment is a startup that offers annotation services for various computer vision tasks.
@@ -151,7 +151,7 @@ I was a consultant for the computer vision work at Playment. We focused on makin
 
 _January 2018 --- May 2018_
 
-### Mentor, [IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} & [Talent Sprint](https://www.talentsprint.com/){:target="_blank"}
+### [IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} & [Talent Sprint](https://www.talentsprint.com/){:target="_blank"} - Mentor for Fundamentals of AI/ML
 **Hyderabad, India**
 
 I was a Mentor for the **Foundations of Artificial Intelligence and Machine Learning** certificate program by IIIT-H Machine Learning Lab and TalentSprint. I assisted in creating tutorials on machine learning, and mentor participants during lab sessions.
@@ -163,7 +163,7 @@ I was a Mentor for the **Foundations of Artificial Intelligence and Machine Lear
 
 _Feb 2016 --- May 2017_
 
-### Image Processing Engineer, [GreyOrange Robotics](http://www.greyorange.com/){:target="_blank"}
+### [GreyOrange Robotics](http://www.greyorange.com/){:target="_blank"} - Image Processing Engineer
 
 **Gurgaon, India**
 
@@ -183,7 +183,7 @@ A [research paper]({{site.url}}{{site.baseurl}}/docs/publications/2017_ICIDE.pdf
 
 _July 2014 --- Feb 2016_
 
-### Associate Engineer, [Airbus, India](http://www.airbus.com/){:target="_blank"}
+### [Airbus, India](http://www.airbus.com/){:target="_blank"} - Associate Engineer
 
 **Bengaluru, India**
 
