@@ -50,6 +50,18 @@ _2009 --- 2014_
 # EXPERIENCE
 
 <div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/nextai.png">](https://www.nextcanada.com/next-ai){:target="_blank"}
+
+_March 2020 --- September 2020_
+
+### AI Scientist in Residence, [NextAI, Montreal](https://www.nextcanada.com/next-ai){:target="_blank"}
+**Toronto, Canada**
+
+I was a mentor/consultant for multiple startups at NextAI. I assisted them in integrating artificial intelligence and machine learning into their product pipeline, and with long-term strategies in technology.
+</div>
+
+
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/Google__G__Logo.svg">](https://ai.google/research/teams/perception/){:target="_blank"}
 
 _September 2019 --- December 2019_
