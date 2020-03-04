@@ -17,7 +17,7 @@ I was a Research Intern at [Google](https://ai.google/research/teams/perception/
 
 I am also an AI Scientist in Residence at [NextAI](https://www.nextcanada.com/next-ai/), Toronto in 2020, and was in Montreal in 2019. I was also a teaching assistant for the IVADO/Mila Deep Learning School in 2019.
 
-Previously, I worked as a Research Fellow with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"} at [CVIT, IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} on automated lip synthesis for translation of a video into a different languages. I was also a Mentor for the first [Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl){:target="_blank"} certificate program for industry professionals by IIIT-H Machine Learning Lab.
+Previously, I worked as a Research Fellow with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"} at [IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} on automated lip synthesis for translation of a video into a different languages. I was also a Mentor for the first [Foundations of AI/ML](https://www.talentsprint.com/aiml.dpl){:target="_blank"} certificate program for industry professionals by IIIT-H Machine Learning Lab.
 
 <!---
 I also worked on semantic segmentation for autonomous driving with [Playment](https://playment.io){:target="_blank"}.
