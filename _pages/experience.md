@@ -48,7 +48,7 @@ _2009 --- 2014_
 # EXPERIENCE
 
 <div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/nextai.png">](https://www.nextcanada.com/next-ai){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/nextai.jpg">](https://www.nextcanada.com/next-ai){:target="_blank"}
 
 _March 2020 --- September 2020_
 
