@@ -55,7 +55,7 @@ _March 2020 --- September 2020_
 ### [NextAI](https://www.nextcanada.com/next-ai){:target="_blank"}, Toronto - AI Scientist in Residence
 **Toronto, Canada**
 
-I was a mentor/consultant for multiple startups at NextAI. I assisted them in integrating artificial intelligence and machine learning into their product pipeline, and with long-term strategies in technology.
+I am a mentor/consultant for multiple startups at NextAI. I assist them in integrating artificial intelligence and machine learning into their product pipeline, and with long-term strategies in technology.
 </div>
 
 

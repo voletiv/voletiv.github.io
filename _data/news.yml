@@ -1,7 +1,10 @@
-- date: March 24th, 2020
+- date: April 2, 2020
+  news: Gave a tutorial on the "Mathematics of Neural ODEs" at the at the <a href="https://www.uoguelph.ca/engineering/" target="_blank">University of Guelph</a>, Canada - [<a href="https://voletiv.github.io/docs/publications/20200402_Guelph_Neural_ODEs_tutorial.pdf" target="_blank">slides</a>]
+
+- date: March 24, 2020
   news: AI Scientist in Residence at <a href="https://www.nextcanada.com/next-ai/" target="_blank">NextAI</a>, Toronto, Canada; consultant for multiple startups
 
-- date: January 7th, 2020
+- date: January 7, 2020
   news: Gave a talk on "Simple Video Generation using Neural ODEs" at <a href="http://cvit.iiit.ac.in/" target="_blank">IIIT Hyderabad</a>, India
   pdf: 20200107_IIITH_Simple_Video_Generation_using_Neural_ODEs.pdf
   category: presentations
