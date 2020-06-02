@@ -1,5 +1,5 @@
 - date: June 2, 2020
-  news: Paper accepted at <a href="https://icml.cc/Conferences/2020" target="_blank">ICML 2020</a>! Sarthak Mittal, Alex Lamb, Anirudh Goyal, \underline{Vikram Voleti}, Murray Shanahan, Guillaume Lajoie, Michael Mozer, Yoshua Bengio, ``Learning to Combine Top-Down and Bottom-Up Signals in Recurrent Neural Networks with Attention over Modules''
+  news: Paper accepted at <a href="https://icml.cc/Conferences/2020" target="_blank">ICML 2020</a>! Sarthak Mittal, Alex Lamb, Anirudh Goyal, <em>Vikram Voleti</em>, Murray Shanahan, Guillaume Lajoie, Michael Mozer, Yoshua Bengio, ``Learning to Combine Top-Down and Bottom-Up Signals in Recurrent Neural Networks with Attention over Modules''
 
 - date: April 2, 2020
   news: Gave a tutorial on the "Mathematics of Neural ODEs" at the <a href="https://www.uoguelph.ca/engineering/" target="_blank">University of Guelph</a>, Canada [<a href="https://voletiv.github.io/docs/presentations/20200402_Guelph_Neural_ODEs_tutorial.pdf" target="_blank">slides</a>]
