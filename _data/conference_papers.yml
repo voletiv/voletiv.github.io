@@ -1,6 +1,6 @@
 - title: Learning to Combine Top-Down and Bottom-Up Signals in Recurrent Neural Networks with Attention over Modules
   image: 2020a_ICML2020_BRIM.png
-  description: <ul><li>Exploration of deep recurrent neural net architectures in which bottom-up and top-down signals are dynamically combined using attention</li></ul>
+#   description: <ul><li>Exploration of deep recurrent neural net architectures in which bottom-up and top-down signals are dynamically combined using attention</li></ul>
   authors: Sarthak Mittal, Alex Lamb, Anirudh Goyal, Vikram Voleti, Murray Shanahan, Guillaume Lajoie, Michael Mozer, Yoshua Bengio
   venue: <a href="https://icml.cc/Conferences/2020" target="_blank">ICML 2020</a>
   number_link: 1
@@ -10,7 +10,7 @@
 
 - title: Simple Video Generation using Neural ODEs
   image: 2019e_NeurIPSW_EncODEDec.png
-  description: <ul><li>Using NeuralODEs to model latent dynamics for video generation</li></ul>
+#   description: <ul><li>Using NeuralODEs to model latent dynamics for video generation</li></ul>
   authors: Vikram Voleti, David Kanaa, Samira Kahou, Chris Pal
   venue: <a href="https://neurips.cc/Conferences/2019" target="_blank">NeurIPS 2019</a> Workshop on <a href="https://sites.google.com/view/neurips2019lire/home?authuser=0" target="_blank">Learning with Rich Experience</a>
   number_link: 2
@@ -33,7 +33,7 @@
 
 - title: Comparing Normalization in Conditional Computation Tasks
   image: 2019a_ICMLW_CGN.png
-  description: <ul><li>Comparing the performance of conditional generative models with different normalization techniques</li></ul>
+#   description: <ul><li>Comparing the performance of conditional generative models with different normalization techniques</li></ul>
   authors: Vincent Michalski, Vikram Voleti, Samira Kahou, Anthony Ortiz, Pascal Vincent, Chris Pal, Doina Precup
   venue: <a href="https://icml.cc/Conferences/2019" target="_blank">ICML 2019</a> Workshop on <a href="https://sites.google.com/view/icml2019-generalization" target="_blank">Understanding and Improving Generalization in Deep Learning</a>
   number_link: 2
