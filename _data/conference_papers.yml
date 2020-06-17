@@ -1,3 +1,13 @@
+- title: Learning to Combine Top-Down and Bottom-Up Signals in Recurrent Neural Networks with Attention over Modules
+  image: 2020a_ICML2020_BRIM.png
+  description: <ul><li>Exploration of deep recurrent neural net architectures in which bottom-up and top-down signals are dynamically combined using attention</li></ul>
+  authors: Sarthak Mittal, Alex Lamb, Anirudh Goyal, Vikram Voleti, Murray Shanahan, Guillaume Lajoie, Michael Mozer, Yoshua Bengio
+  venue: <a href="https://icml.cc/Conferences/2020" target="_blank">ICML 2020</a>
+  number_link: 1
+  link1:
+    url: 2020a_ICML2020_BRIM.pdf
+    display: paper
+
 - title: Simple Video Generation using Neural ODEs
   image: 2019e_NeurIPSW_EncODEDec.png
   description: <ul><li>Using NeuralODEs to model latent dynamics for video generation</li></ul>
@@ -10,16 +20,6 @@
   link2:
     url: ../presentations/20191213_Vancouver_NeurIPSW_EncODEDec.pdf
     display: poster
-
-# - title: Conditional Group Normalization: An Empirical Study
-#   image: 2019a_ICMLW_CGN.png
-#   description: <ul><li>Comparing the performance of conditional generative models with different normalization techniques</li></ul>
-#   authors: Vincent Michalski, Vikram Voleti, Samira Kahou, Anthony Ortiz, Pascal Vincent, Chris Pal, Doina Precup
-#   venue: <a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI 2020</a>
-#   number_link: 1
-#   link1:
-#     url: 2019d_AAAI_CGN.pdf
-#     display: paper
 
 # - title: Conditional Group Normalization: An Empirical Study
 #   image: 2019a_ICMLW_CGN.png
