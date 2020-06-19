@@ -5,7 +5,7 @@ excerpt: All the companies and places Vikram Voleti has worked at, and the jobs
 permalink: /experience
 ---
 
-<img src="{{site.url}}{{site.baseurl}}/images/experience/experience.png">
+<img class="experience-main" src="{{site.url}}{{site.baseurl}}/images/experience/experience.png">
 
 # CURRENT
 

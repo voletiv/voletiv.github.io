@@ -86,4 +86,17 @@
         text-align: center;
         width: 100%;
     }
+    .experience-main {
+        // height: $image-size;
+        width: 90%;
+        position: relative;
+        float: center;
+        padding: 2px;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        @media (max-width: $max-width) {
+        }
+    }
 }
