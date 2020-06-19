@@ -10,7 +10,7 @@ permalink: /experience
 # CURRENT
 
 <div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila.png">](https://mila.quebec/en/){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila_purple.png">](https://mila.quebec/en/){:target="_blank"}
 
 _September 2018 --- present_
 
