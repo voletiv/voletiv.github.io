@@ -5,6 +5,8 @@ excerpt: All the companies and places Vikram Voleti has worked at, and the jobs
 permalink: /experience
 ---
 
+<img src="{{site.url}}{{site.baseurl}}/images/experience/experience.png">
+
 # CURRENT
 
 <div class="experience-box" markdown="1">
@@ -16,7 +18,7 @@ _September 2018 --- present_
 
 **PhD, Computer Science; Supervisor: [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}**
 
-My research interests are broadly in generative models for images, video, 3D. I work on large-scale video generation using latent dynamics
+My research interests are broadly in generative models for images, video, 3D. I work on large-scale image and video generation using latent dynamics.
 </div>
 
 
