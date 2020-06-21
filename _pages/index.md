@@ -11,7 +11,7 @@ permalink: /
 
 <img class="profile-picture" src="{{site.url}}{{site.baseurl}}/images/profile-picture/profile_picture.jpg" />
 
-I am a PhD student at [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}, I am supervised by [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}. Currently, I am a Visiting Researcher with [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"} at the [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"}.
+I am a PhD student at [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}, I am supervised by [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}. Currently, I am a Visiting Researcher with [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"} at the [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"}.
 
 I was a Research Intern at [Google](https://ai.google/research/teams/perception/){:target="_blank"}, Mountain View in the [Google AI Perception](https://ai.google/research/teams/perception/){:target="_blank"} team in the fall of 2019. I had the good fortune of working with Bryan Seybold & Sourish Chaudhuri on Semi-supervised Active Speaker Detection in videos.
 

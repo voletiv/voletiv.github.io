@@ -16,7 +16,7 @@ _September 2018 --- present_
 
 ### [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}
 
-**PhD, Computer Science; Supervisor: [Prof. Chris Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}**
+**PhD, Computer Science; Supervisor: [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}**
 
 My research interests are broadly in generative models for images, video, 3D. I work on large-scale image and video generation using latent dynamics.
 </div>
