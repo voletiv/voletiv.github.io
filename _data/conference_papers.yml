@@ -3,8 +3,11 @@
 #   description: <ul><li>Exploration of deep recurrent neural net architectures in which bottom-up and top-down signals are dynamically combined using attention</li></ul>
   authors: Sarthak Mittal, Alex Lamb, Anirudh Goyal, Vikram Voleti, Murray Shanahan, Guillaume Lajoie, Michael Mozer, Yoshua Bengio
   venue: <a href="https://icml.cc/Conferences/2020" target="_blank">ICML 2020</a>
-  number_link: 1
+  number_link: 2
   link1:
+    url: https://arxiv.org/abs/2006.16981
+    display: arxiv
+  link2:
     url: 2020a_ICML2020_BRIM.pdf
     display: paper
 
