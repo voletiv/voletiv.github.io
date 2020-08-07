@@ -1,3 +1,8 @@
+- date: September 11, 2020
+  news: Short paper "Introducing GradSim - Differentiable Simulation for Self-Supervised Parameter Estimation from Video" at the <a href="http://montrealaisymposium.com/" target="_blank">Montreal AI Symposium</a> 2020, Canada
+  pdf: 2020f_MAIS2020_Gradsim.pdf
+  category: publications
+
 - date: July 25, 2020
   news: Presented "GANs - the story so far" at the <a href="https://sites.google.com/view/aisymposium2020/" target="_blank">Summer Symposium on AI Research</a>, India [<a href="https://voletiv.github.io/docs/presentations/20200725_India_GANs_Vikram_Voleti.pdf" target="_blank">slides</a>] [<a href="https://www.youtube.com/watch?v=r4mfI7PKsPo" target="_blank">video</a>]
 
