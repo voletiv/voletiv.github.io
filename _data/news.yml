@@ -1,3 +1,6 @@
+- date: October 1, 2020
+  news: Started working as an AI Advisor to <a href="https://bluelionlabs.com/" target="_blank">Blue Lion Labs</a>
+
 - date: September 11, 2020
   news: Short paper "Introducing GradSim - Differentiable Simulation for Self-Supervised Parameter Estimation from Video" accepted at the <a href="http://montrealaisymposium.com/" target="_blank">Montreal AI Symposium</a> 2020, Canada
   pdf: 2020f_MAIS2020_Gradsim.pdf
@@ -24,7 +27,7 @@
 - date: April 2, 2020
   news: Gave a tutorial on the "Mathematics of Neural ODEs" at the <a href="https://www.uoguelph.ca/engineering/" target="_blank">University of Guelph</a>, Canada [<a href="https://voletiv.github.io/docs/presentations/20200402_Guelph_Neural_ODEs_tutorial.pdf" target="_blank">slides</a>]
 
-- date: March 24, 2020
+- date: March 24, 2020 - September 30, 2020
   news: AI Scientist in Residence at <a href="https://www.nextcanada.com/next-ai/" target="_blank">NextAI</a>, Toronto, Canada; consultant for multiple startups
 
 - date: January 7, 2020

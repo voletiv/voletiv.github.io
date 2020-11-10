@@ -34,6 +34,19 @@ I work in [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}'s la
 
 </div>
 
+
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/bluelion.jpeg">](https://bluelionlabs.com/){:target="_blank"}
+
+_October 2020 --- present_
+
+### AI Advisor - [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}
+**Waterloo, Canada**
+
+I advise [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}, an early-stage startup that provides technology to automatically monitor different organisms in water using machine learning.
+
+</div>
+
 # EDUCATION
 
 <div class="experience-box" markdown="1">
