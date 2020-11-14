@@ -14,7 +14,7 @@ permalink: /experience
 
 _September 2018 --- present_
 
-### [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}
+### [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"} - PhD candidate
 
 **PhD, Computer Science; Supervisor: [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}**
 
@@ -27,7 +27,7 @@ My research interests are broadly in generative models for images, video, 3D. I 
 
 _January 2020 --- present_
 
-### Visiting Researcher - [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}, [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"}
+### [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}, [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"} - Visiting Researcher
 **Guelph, Canada**
 
 I work in [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}'s lab on computer vision and deep learning.
@@ -40,7 +40,7 @@ I work in [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}'s la
 
 _October 2020 --- present_
 
-### AI Advisor - [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}
+### [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"} - AI Advisor
 **Waterloo, Canada**
 
 I advise [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}, an early-stage startup that provides technology to automatically monitor different organisms in water using machine learning.
