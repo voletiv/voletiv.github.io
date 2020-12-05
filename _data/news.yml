@@ -1,5 +1,14 @@
+- date: Dec 10-11, 2020
+  news: Organized <a href="https://graphquon.github.io/" target="_blank">GRAPHQUON 2020</a> (formerly MOTOGRAPH)
+
+- date: Dec 6-12, 2020
+  news: Attended <a href="https://neurips.cc/Conferences/2020" target="_blank">NeurIPS 2020</a> (virtually)
+
 - date: October 1, 2020
   news: Started working as an AI Advisor to <a href="https://bluelionlabs.com/" target="_blank">Blue Lion Labs</a>
+
+- date: September 1, 2020
+  news: Presented "Continuous Normalizing Flows" at <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada [<a href="https://voletiv.github.io/docs/presentations/20200901_Mila_CNF_Vikram_Voleti.pdf" target="_blank">slides</a>]
 
 - date: September 11, 2020
   news: Short paper "Introducing GradSim - Differentiable Simulation for Self-Supervised Parameter Estimation from Video" accepted at the <a href="http://montrealaisymposium.com/" target="_blank">Montreal AI Symposium</a> 2020, Canada
