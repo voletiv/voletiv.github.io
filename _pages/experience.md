@@ -63,6 +63,18 @@ _2009 --- 2014_
 # EXPERIENCE
 
 <div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/graphquon.png">](https://graphquon.github.io){:target="_blank"}
+
+_October 2020 --- December 2020_
+
+### [GRAPHQUON 2020](https://graphquon.github.io){:target="_blank"}, Canada - Organizer
+**Canada**
+
+I was part of the organizing committee of GRAPHQUON 2020 (formerly MOTOGRAPH).
+</div>
+
+
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/nextai.jpg">](https://www.nextcanada.com/next-ai){:target="_blank"}
 
 _March 2020 --- September 2020_
@@ -70,7 +82,7 @@ _March 2020 --- September 2020_
 ### [NextAI](https://www.nextcanada.com/next-ai){:target="_blank"}, Toronto - AI Scientist in Residence
 **Toronto, Canada**
 
-I am a mentor/consultant for multiple startups at NextAI. I assist them in integrating artificial intelligence and machine learning into their product pipeline, and with long-term strategies in technology.
+I was a mentor/consultant for multiple startups at NextAI. I assisted them in integrating artificial intelligence and machine learning into their product pipeline, and with long-term strategies in technology.
 </div>
 
 
