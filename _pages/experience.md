@@ -75,6 +75,16 @@ I was part of the organizing committee of GRAPHQUON 2020 (formerly MOTOGRAPH).
 
 
 <div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/UdeM.jpg">](https://www.umontreal.ca/){:target="_blank"}
+
+_September 2020_
+
+### [Fundamentals of Machine Learning (IFT 6390)](http://mitliagkas.github.io/ift6390-ml-class/){:target="_blank"}, by [Ioannis Mitliagkas](http://mitliagkas.github.io/){:target="_blank"} - Teaching Assistant
+**University of Montreal, Montreal, Canada**
+</div>
+
+
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/nextai.jpg">](https://www.nextcanada.com/next-ai){:target="_blank"}
 
 _March 2020 --- September 2020_
@@ -109,16 +119,6 @@ _September 9-13, 2019_
 **Montreal, Canada** 
 
 [Resources](https://github.com/mila-iqia/ivado-mila-dl-school-2019){:target="_blank"}
-</div>
-
-
-<div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/UdeM.jpg">](https://www.umontreal.ca/){:target="_blank"}
-
-_September 2019_
-
-### [Fundamentals of Machine Learning (IFT 6390)](http://mitliagkas.github.io/ift6390-ml-class-2019/){:target="_blank"}, by [Ioannis Mitliagkas](http://mitliagkas.github.io/){:target="_blank"} - Teaching Assistant
-**University of Montreal, Montreal, Canada**
 </div>
 
 
