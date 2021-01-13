@@ -1,14 +1,18 @@
-<div class="presentations">
+<div class="publications">
 
-<div class="publication-title">{{ talk.title }}</div>
+{% if publication.link1.url contains '://' %}
+<a href="{{ publication.link1.url }}" target="_blank"><div class="publication-title">{{ publication.title }}</div></a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ publication.link1.url }}" target="_blank"><div class="publication-title">{{ publication.title }}</div></a>
+{% endif %}
 
-<img class="publication-picture" src="{{site.url}}{{site.baseurl}}/images/presentations/{{ talk.image }}" alt="NOT FOUND" />
+{% if publication.link1.url contains '://' %}
+<a href="{{ publication.link1.url }}" target="_blank"><img class="publication-picture" src="{{site.url}}{{site.baseurl}}/images/presentations/{{ publication.image }}" alt="NOT FOUND" /></a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ publication.link1.url }}" target="_blank"><img class="publication-picture" src="{{site.url}}{{site.baseurl}}/images/presentations/{{ publication.image }}" alt="NOT FOUND" /></a>
+{% endif %}
 
 <div class="publication-text">
-
-{% if talk.description %}
-<p>{{ talk.description }}</p>
-{% endif %}
 
 {% if talk.venue %}
 <p>{{ talk.venue }}</p>

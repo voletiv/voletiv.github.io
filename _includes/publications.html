@@ -1,6 +1,10 @@
 <div class="publications">
 
-<div class="publication-title">{{ publication.title }}</div>
+{% if publication.link1.url contains '://' %}
+<a href="{{ publication.link1.url }}" target="_blank"><div class="publication-title">{{ publication.title }}</div></a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ publication.link1.url }}" target="_blank"><div class="publication-title">{{ publication.title }}</div></a>
+{% endif %}
 
 {% if publication.link1.url contains '://' %}
 <a href="{{ publication.link1.url }}" target="_blank"><img class="publication-picture" src="{{site.url}}{{site.baseurl}}/images/publications/{{ publication.image }}" alt="NOT FOUND" /></a>
