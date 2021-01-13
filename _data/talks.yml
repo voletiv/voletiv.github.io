@@ -1,0 +1,57 @@
+
+- title: Visualizing the Loss Landscapes of Neural Nets
+  image: 20180924_Mila_Visualizing_Loss_Functions.png
+  venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada - Sep 24, 2018
+  number_link: 1
+  link1:
+    url: 20180924_Mila_Visualizing_Loss_Functions.pdf
+    display: pdf
+
+- title: Lip-reading in the Wild
+  image: 20180606_IIITH_Linear_Algebra.png
+  venue: <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India - Jun 06, 2018
+  number_link: 1
+  link1:
+    url: 20180606_IIITH_Linear_Algebra.pdf
+    display: pdf
+
+- title: Lip-reading in the Wild
+  image: 20180426_IIITH_LRW.png
+  venue: <a href="http://cvit.iiit.ac.in/" target="_blank">CVIT, IIIT Hyderabad</a>, India - Apr 26, 2018
+  number_link: 1
+  link1:
+    url: 20180426_IIITH_LRW.pdf
+    display: pdf
+
+- title: Image de-fencing usng RGB-D data
+  image: 20180226_Saarbrucken_MPI_Vikram_Voleti_MTP_Presentation.png
+  venue: <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/" target="_blank">Max Planck Institute for Informatics</a>, Saarbrücken, Germany - Feb 26, 2018
+  number_link: 1
+  link1:
+    url: 20180226_Saarbrucken_MPI_Vikram_Voleti_MTP_Presentation.pdf
+    display: pdf
+
+- title: Mathematics in Sanskrit Poetry
+  image: 20180218_IIITH_Mathematics_in_Sanskrit_Poetry.png
+  venue: <a href="http://cvit.iiit.ac.in/" target="_blank">IIIT Hyderabad</a>, India - Feb 18, 2018
+  number_link: 1
+  link1:
+    url: 20180218_IIITH_Mathematics_in_Sanskrit_Poetry.pdf
+    display: pdf
+
+- title: Intuition behind LSTMs
+  image: 20180202_IIITH_Intuition_behind_LSTMs.png
+  venue: <a href="http://cvit.iiit.ac.in/" target="_blank">IIIT Hyderabad</a>, India - Feb 2, 2018
+  number_link: 1
+  link1:
+    url: 20180202_IIITH_Intuition_behind_LSTMs.pdf
+    display: pdf
+
+- title: Mathematics behind Backpropagation
+  image: 20170908_IIITH_Mathematics_behind_Backpropagation.png
+  venue: <a href="http://cvit.iiit.ac.in/" target="_blank">IIIT Hyderabad</a>, India - Aug 9, 2017
+  number_link: 1
+  link1:
+    url: https://github.com/voletiv/myPythonNeuralNetwork
+    display: GitHub
+

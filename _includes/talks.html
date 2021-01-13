@@ -1,0 +1,130 @@
+<div class="presentations">
+
+<div class="talk-title">{{ talk.title }}</div>
+
+<img class="talk-picture" src="{{site.url}}{{site.baseurl}}/images/presentations/{{ talk.image }}" alt="NOT FOUND" />
+
+<div class="talk-text">
+
+{% if talk.description %}
+<p>{{ talk.description }}</p>
+{% endif %}
+
+{% if talk.venue %}
+<p>{{ talk.venue }}</p>
+{% endif %}
+
+{% if talk.number_link == 1 %}
+<p>
+{% if talk.link1.url contains '://' %}
+<a href="{{ talk.link1.url }}" target="_blank">{{ talk.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link1.url }}" target="_blank">{{ talk.link1.display }}</a>
+{% endif %}
+</p>
+{% endif %}
+
+{% if talk.number_link == 2 %}
+<p>
+{% if talk.link1.url contains '://' %}
+<a href="{{ talk.link1.url }}" target="_blank">{{ talk.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link1.url }}" target="_blank">{{ talk.link1.display }}</a>
+{% endif %}
+|
+{% if talk.link2.url contains '://' %}
+<a href="{{ talk.link2.url }}" target="_blank">{{ talk.link2.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link2.url }}" target="_blank">{{ talk.link2.display }}</a>
+{% endif %}
+</p>
+{% endif %}
+
+{% if talk.number_link == 3 %}
+<p>
+{% if talk.link1.url contains '://' %}
+<a href="{{ talk.link1.url }}" target="_blank">{{ talk.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link1.url }}" target="_blank">{{ talk.link1.display }}</a>
+{% endif %}
+|
+{% if talk.link2.url contains '://' %}
+<a href="{{ talk.link2.url }}" target="_blank">{{ talk.link2.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link2.url }}" target="_blank">{{ talk.link2.display }}</a>
+{% endif %}
+|
+{% if talk.link3.url contains '://' %}
+<a href="{{ talk.link3.url }}" target="_blank">{{ talk.link3.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link3.url }}" target="_blank">{{ talk.link3.display }}</a>
+{% endif %}
+</p>
+{% endif %}
+
+{% if talk.number_link == 4 %}
+<p>
+{% if talk.link1.url contains '://' %}
+<a href="{{ talk.link1.url }}" target="_blank">{{ talk.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link1.url }}" target="_blank">{{ talk.link1.display }}</a>
+{% endif %}
+|
+{% if talk.link2.url contains '://' %}
+<a href="{{ talk.link2.url }}" target="_blank">{{ talk.link2.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link2.url }}" target="_blank">{{ talk.link2.display }}</a>
+{% endif %}
+|
+{% if talk.link3.url contains '://' %}
+<a href="{{ talk.link3.url }}" target="_blank">{{ talk.link3.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link3.url }}" target="_blank">{{ talk.link3.display }}</a>
+{% endif %}
+|
+{% if talk.link4.url contains '://' %}
+<a href="{{ talk.link4.url }}" target="_blank">{{ talk.link4.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link4.url }}" target="_blank">{{ talk.link4.display }}</a>
+{% endif %}
+</p>
+{% endif %}
+
+{% if talk.number_link == 5 %}
+<p>
+{% if talk.link1.url contains '://' %}
+<a href="{{ talk.link1.url }}" target="_blank">{{ talk.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link1.url }}" target="_blank">{{ talk.link1.display }}</a>
+{% endif %}
+|
+{% if talk.link2.url contains '://' %}
+<a href="{{ talk.link2.url }}" target="_blank">{{ talk.link2.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link2.url }}" target="_blank">{{ talk.link2.display }}</a>
+{% endif %}
+|
+{% if talk.link3.url contains '://' %}
+<a href="{{ talk.link3.url }}" target="_blank">{{ talk.link3.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link3.url }}" target="_blank">{{ talk.link3.display }}</a>
+{% endif %}
+|
+{% if talk.link4.url contains '://' %}
+<a href="{{ talk.link4.url }}" target="_blank">{{ talk.link4.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link4.url }}" target="_blank">{{ talk.link4.display }}</a>
+{% endif %}
+|
+{% if talk.link5.url contains '://' %}
+<a href="{{ talk.link5.url }}" target="_blank">{{ talk.link5.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link5.url }}" target="_blank">{{ talk.link5.display }}</a>
+{% endif %}
+</p>
+{% endif %}
+
+</div>
+
+</div>
+

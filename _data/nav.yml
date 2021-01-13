@@ -7,6 +7,9 @@
 - name: "EXPERIENCE"
   link: "/experience"
 
+- name: "TALKS"
+  link: "/talks"
+
 - name: "PUBLICATIONS"
   link: "/publications"
 

@@ -118,7 +118,7 @@
   category: presentations
 
 - date: May 25, 2018
-  news: Short paper "Lip-Synchronization for Dubbed Instructional Videos" accepted at <a href="http://cvpr2018.thecvf.com/program/workshops" target="_blank">CVPR 2018 Workshop</a> (<a href="http://fiver.eecs.umich.edu" target="_blank">FIVER</a>)
+  news: Short paper accepted at <a href="http://cvpr2018.thecvf.com/program/workshops" target="_blank">CVPR 2018 Workshop</a> (<a href="http://fiver.eecs.umich.edu" target="_blank">FIVER</a>)! "Lip-Synchronization for Dubbed Instructional Videos"
   url: http://fiver.eecs.umich.edu/#abstracts
   pdf: 2018b_CVPRW_VisDub.pdf
   category: publications
