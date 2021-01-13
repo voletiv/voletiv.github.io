@@ -1,7 +1,7 @@
 <div class="publications">
 
 {% if talk.link1.url contains '://' %}
-<a href="{{ publication.link1.url }}" target="_blank"><div class="publication-title">{{ talk.title }}</div></a>
+<a href="{{ talk.link1.url }}" target="_blank"><div class="publication-title">{{ talk.title }}</div></a>
 {% else %}
 <a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ publication.link1.url }}" target="_blank"><div class="publication-title">{{ talk.title }}</div></a>
 {% endif %}
@@ -9,7 +9,7 @@
 {% if talk.link1.url contains '://' %}
 <a href="{{ talk.link1.url }}" target="_blank"><img class="publication-picture" src="{{site.url}}{{site.baseurl}}/images/presentations/{{ talk.image }}" alt="NOT FOUND" /></a>
 {% else %}
-<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link1.url }}" target="_blank"><img class="publication-picture" src="{{site.url}}{{site.baseurl}}/images/presentations/{{ publication.image }}" alt="NOT FOUND" /></a>
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link1.url }}" target="_blank"><img class="publication-picture" src="{{site.url}}{{site.baseurl}}/images/presentations/{{ talk.image }}" alt="NOT FOUND" /></a>
 {% endif %}
 
 <div class="publication-text">

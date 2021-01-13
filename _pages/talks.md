@@ -7,9 +7,9 @@ permalink: /talks
 
 # TALKS
 
-{% for publication in site.data.talks %}
+{% for talk in site.data.talks %}
 
-{% include publications.html %}
+{% include talks.html %}
 
 {% endfor %}
 
