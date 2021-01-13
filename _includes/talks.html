@@ -14,6 +14,10 @@
 
 <div class="publication-text">
 
+{% if talk.date %}
+<p>{{ talk.date }}</p>
+{% endif %}
+
 {% if talk.venue %}
 <p>{{ talk.venue }}</p>
 {% endif %}
