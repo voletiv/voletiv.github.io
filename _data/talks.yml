@@ -1,4 +1,31 @@
 
+- title: Simple Video Generation using Neural ODEs
+  image: 20200107_IIITH_Simple_Video_Generation_using_Neural_ODEs.png
+  date: Jan 07, 2020
+  venue: <a href="http://cvit.iiit.ac.in/" target="_blank">IIIT Hyderabad</a>, India
+  number_link: 1
+  link1:
+    url: 20200107_IIITH_Simple_Video_Generation_using_Neural_ODEs.pdf
+    display: pdf
+
+- title: Tutorial on GANs
+  image: 20190530_GANs.png
+  date: May 30, 2019
+  venue: <a href="https://www.aiforsocialgood.ca/speakers-and-mentors" target="_blank">AI for Social Good Summer Lab</a> (AI4Good), Montreal, Canada
+  number_link: 1
+  link1:
+    url: http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf
+    display: Slides (not mine)
+
+- title: (BigGAN) Large Scale GAN Training for High Fidelity Natural Image Synthesis
+  image: 20181030_Mila_BigGAN.png
+  date: Oct 30, 2018
+  venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
+  number_link: 1
+  link1:
+    url: 20181030_Mila_BigGAN.pdf
+    display: pdf
+
 - title: Visualizing the Loss Landscapes of Neural Nets
   image: 20180924_Mila_Visualizing_Loss_Functions.png
   date: Sep 24, 2018
