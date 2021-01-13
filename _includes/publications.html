@@ -2,7 +2,11 @@
 
 <div class="publication-title">{{ publication.title }}</div>
 
-<img class="publication-picture" src="{{site.url}}{{site.baseurl}}/images/publications/{{ publication.image }}" alt="NOT FOUND" />
+{% if publication.link1.url contains '://' %}
+<a href="{{ publication.link1.url }}" target="_blank"><img class="publication-picture" src="{{site.url}}{{site.baseurl}}/images/publications/{{ publication.image }}" alt="NOT FOUND" /></a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ publication.link1.url }}" target="_blank"><img class="publication-picture" src="{{site.url}}{{site.baseurl}}/images/publications/{{ publication.image }}" alt="NOT FOUND" /></a>
+{% endif %}
 
 <div class="publication-text">
 
