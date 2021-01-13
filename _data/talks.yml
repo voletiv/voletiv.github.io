@@ -1,4 +1,46 @@
 
+- title: Continuous Normalizing Flows
+  image: 20200901_Mila_CNF_Vikram_Voleti.png
+  date: September 01, 2020
+  venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
+  number_link: 1
+  link1:
+    url: 20200901_Mila_CNF_Vikram_Voleti.pdf
+    display: pdf
+
+- title: GANs - the story so far
+  image: 20200725_India_GANs_Vikram_Voleti.png
+  date: July 25, 2020
+  venue: <a href="https://sites.google.com/view/aisymposium2020/" target="_blank">Summer Symposium on AI Research</a>, India
+  number_link: 2
+  link1:
+    url: 20200725_India_GANs_Vikram_Voleti.pdf
+    display: pdf
+  link2:
+    url: https://www.youtube.com/watch?v=r4mfI7PKsPo
+    display: video
+
+- title: A brief tutorial on Neural ODEs
+  image: 20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti.png
+  date: July 10, 2020
+  venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
+  number_link: 2
+  link1:
+    url: 20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti.pdf
+    display: pdf
+  link2:
+    url: https://drive.google.com/file/d/13o6wibXd5JmV4dZTV-ufmrARq1LIe02Y/view
+    display: video
+
+- title: Mathematics of Neural ODEs
+  image: 20200402_Guelph_Neural_ODEs_tutorial.png
+  date: Apr 02, 2020
+  venue: <a href="https://www.uoguelph.ca/engineering/" target="_blank">University of Guelph</a>, Canada
+  number_link: 1
+  link1:
+    url: 20200402_Guelph_Neural_ODEs_tutorial.pdf
+    display: pdf
+
 - title: Simple Video Generation using Neural ODEs
   image: 20200107_IIITH_Simple_Video_Generation_using_Neural_ODEs.png
   date: Jan 07, 2020
