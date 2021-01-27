@@ -3,7 +3,7 @@
 {% if talk.link1.url contains '://' %}
 <a href="{{ talk.link1.url }}" target="_blank"><div class="publication-title">{{ talk.title }}</div></a>
 {% else %}
-<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ publication.link1.url }}" target="_blank"><div class="publication-title">{{ talk.title }}</div></a>
+<a href="{{site.url}}{{site.baseurl}}/docs/presentations/{{ talk.link1.url }}" target="_blank"><div class="publication-title">{{ talk.title }}</div></a>
 {% endif %}
 
 {% if talk.link1.url contains '://' %}
