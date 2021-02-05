@@ -1,4 +1,4 @@
-- title: gradSim - Differentiablesimulation for system identification and visuomotor control
+- title: gradSim - Differentiable simulation for system identification and visuomotor control
   image: 2021a_ICML2021_gradSim.png
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
   authors: Krishna Murthy Jatavallabhula, Miles Macklin, Florian Golemo, Vikram Voleti, Linda Petrini, Martin Weiss, Breandan Considine, Jérôme Parent-Lévesque, Kevin Xie, Kenny Erleben, Liam Paull, Florian Shkurti, Derek Nowrouzezahrai, Sanja Fidler
