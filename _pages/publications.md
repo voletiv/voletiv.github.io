@@ -5,7 +5,7 @@ excerpt: Vikram Voleti's publications
 permalink: /publications
 ---
 
-<a href="{{ site.google_scholar_url }}" target="_blank" style="text-align:center; display:block"><i class="ai ai-google-scholar-square ai-3x"></i></a>
+| <a href="{{ site.google_scholar_url }}" target="_blank" style="text-align:center; display:block"><i class="ai ai-google-scholar-square ai-3x"></i></a> |
 
 # CONFERENCE PAPERS
 
