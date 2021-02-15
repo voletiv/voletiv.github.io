@@ -1,4 +1,13 @@
 
+- title: Score-based Generative Models using SDEs
+  image: 20200901_Mila_CNF_Vikram_Voleti.png
+  date: September 01, 2020
+  venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
+  number_link: 1
+  link1:
+    url: 20200901_Mila_CNF_Vikram_Voleti.pdf
+    display: pdf
+
 - title: Continuous Normalizing Flows
   image: 20200901_Mila_CNF_Vikram_Voleti.png
   date: September 01, 2020
