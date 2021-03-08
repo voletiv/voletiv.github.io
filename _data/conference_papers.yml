@@ -8,15 +8,15 @@
     url: https://openreview.net/forum?id=c_E8kFWfhp0
     display: OpenReview
 
-# - title: Accounting for Variance in Machine Learning Benchmarks
-#   image: 2021a_MLSys2021_Variance_in_ML_Benchmarks.png
-# #   description: <ul><li>Exhaustive case study on variance in ML benchmarks</li></ul>
-#   authors: Xavier Bouthillier, Pierre Delaunay, Mirko Bronzi, Assya Trofimov, Brennan Nichyporuk, Justin Szeto, Naz Sepah, Edward Raff, Kanika Madan, Vikram Voleti, Samira Ebrahimi Kahou, Vincent Michalski, Dmitriy Serdyuk, Tal Arbel, Chris Pal, Gaël Varoquaux, Pascal Vincent
-#   venue: <a href="https://mlsys.org/Conferences/2021" target="_blank">MLSys 2021</a>
-#   number_link: 1
-#   link1:
-#     url: 2021a_MLSys2021_Variance_in_ML_Benchmarks.pdf
-#     display: paper
+- title: Accounting for Variance in Machine Learning Benchmarks
+  image: 2021a_MLSys2021_Variance_in_ML_Benchmarks.png
+#   description: <ul><li>Exhaustive case study on variance in ML benchmarks</li></ul>
+  authors: Xavier Bouthillier, Pierre Delaunay, Mirko Bronzi, Assya Trofimov, Brennan Nichyporuk, Justin Szeto, Naz Sepah, Edward Raff, Kanika Madan, Vikram Voleti, Samira Ebrahimi Kahou, Vincent Michalski, Dmitriy Serdyuk, Tal Arbel, Chris Pal, Gaël Varoquaux, Pascal Vincent
+  venue: <a href="https://mlsys.org/Conferences/2021" target="_blank">MLSys 2021</a>
+  number_link: 1
+  link1:
+    url: 2021a_MLSys2021_Variance_in_ML_Benchmarks.pdf
+    display: paper
 
 - title: Learning to Combine Top-Down and Bottom-Up Signals in Recurrent Neural Networks with Attention over Modules
   image: 2020a_ICML2020_BRIM.png
