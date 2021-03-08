@@ -7,6 +7,9 @@
   link1:
     url: https://openreview.net/forum?id=c_E8kFWfhp0
     display: OpenReview
+  link2:
+    url: 2020f_MAIS2020_Gradsim.pdf
+    display: pdf
 
 - title: Accounting for Variance in Machine Learning Benchmarks
   image: 2021a_MLSys2021_Variance_in_ML_Benchmarks.png
@@ -15,8 +18,11 @@
   venue: <a href="https://mlsys.org/Conferences/2021" target="_blank">MLSys 2021</a>
   number_link: 1
   link1:
+    url: https://arxiv.org/abs/2103.03098
+    display: arXiv
+  link2:
     url: 2021a_MLSys2021_Variance_in_ML_Benchmarks.pdf
-    display: paper
+    display: pdf
 
 - title: Learning to Combine Top-Down and Bottom-Up Signals in Recurrent Neural Networks with Attention over Modules
   image: 2020a_ICML2020_BRIM.png
@@ -26,10 +32,10 @@
   number_link: 2
   link1:
     url: https://arxiv.org/abs/2006.16981
-    display: arxiv
+    display: arXiv
   link2:
     url: 2020a_ICML2020_BRIM.pdf
-    display: paper
+    display: pdf
 
 - title: Simple Video Generation using Neural ODEs
   image: 2019e_NeurIPSW_EncODEDec.png
@@ -39,7 +45,7 @@
   number_link: 2
   link1:
     url: 2019e_NeurIPSW_EncODEDec.pdf
-    display: paper
+    display: pdf
   link2:
     url: ../presentations/20191213_Vancouver_NeurIPSW_EncODEDec.pdf
     display: poster
@@ -62,7 +68,7 @@
   number_link: 2
   link1:
     url: 2019a_ICMLW_CGN.pdf
-    display: paper
+    display: pdf
   link2:
     url: ../presentations/20190614_LongBeach_ICML_Workshop_CGN.pdf
     display: poster
@@ -75,7 +81,7 @@
   number_link: 2
   link1:
     url: 2018d_ICASSP_VisDub.pdf
-    display: paper
+    display: pdf
   link2:
     url: ../presentations/20190517_Brighton_ICASSP_Cross_Language_Speech_Dependent_Lip_Synchronization.pdf
     display: poster
@@ -88,7 +94,7 @@
 #   number_link: 1
 #   link1:
 #     url: 2018c_WACV_VisDub.pdf
-#     display: paper
+#     display: pdf
 
 - title: Lip-Synchronization for Dubbed Instructional Videos
   image: 2018b_CVPRW.png
@@ -98,7 +104,7 @@
   number_link: 2
   link1:
     url: 2018b_CVPRW_VisDub.pdf
-    display: paper
+    display: pdf
   link2:
     url: http://fiver.eecs.umich.edu/#abstracts
     display: url
@@ -112,7 +118,7 @@
 #   number_link: 1
 #   link1:
 #     url: 2018a_NCC.pdf
-#     display: paper
+#     display: pdf
 
 - title: Simple Real-Time Pattern Recognition for Industrial Automation
   image: 2017_ICIDE.jpg
@@ -122,7 +128,7 @@
   number_link: 1
   link1:
     url: 2017_ICIDE.pdf
-    display: paper
+    display: pdf
 
 - title: A Multimodal Approach for Image De-fencing and Depth Inpainting
   image: 2015_ICAPR.png
@@ -132,7 +138,7 @@
   number_link: 2
   link1:
     url: 2015_ICAPR.pdf
-    display: paper
+    display: pdf
   link2:
     url: http://ieeexplore.ieee.org/document/7050696/
     display: IEEE page
