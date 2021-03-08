@@ -1,9 +1,9 @@
 - title: gradSim - Differentiable simulation for system identification and visuomotor control
   image: 2021b_ICML2021_gradSim.png
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
-  authors: Krishna Murthy Jatavallabhula, Miles Macklin, Florian Golemo, Vikram Voleti, Linda Petrini, Martin Weiss, Breandan Considine, Jérôme Parent-Lévesque, Kevin Xie, Kenny Erleben, Liam Paull, Florian Shkurti, Derek Nowrouzezahrai, Sanja Fidler
+  authors: Krishna Murthy Jatavallabhula, Miles Macklin, Florian Golemo, <b>Vikram Voleti</b>, Linda Petrini, Martin Weiss, Breandan Considine, Jérôme Parent-Lévesque, Kevin Xie, Kenny Erleben, Liam Paull, Florian Shkurti, Derek Nowrouzezahrai, Sanja Fidler
   venue: <a href="https://iclr.cc/Conferences/2021" target="_blank">ICLR 2021</a>
-  number_link: 1
+  number_link: 2
   link1:
     url: https://openreview.net/forum?id=c_E8kFWfhp0
     display: OpenReview
@@ -14,9 +14,9 @@
 - title: Accounting for Variance in Machine Learning Benchmarks
   image: 2021a_MLSys2021_Variance_in_ML_Benchmarks.png
 #   description: <ul><li>Exhaustive case study on variance in ML benchmarks</li></ul>
-  authors: Xavier Bouthillier, Pierre Delaunay, Mirko Bronzi, Assya Trofimov, Brennan Nichyporuk, Justin Szeto, Naz Sepah, Edward Raff, Kanika Madan, Vikram Voleti, Samira Ebrahimi Kahou, Vincent Michalski, Dmitriy Serdyuk, Tal Arbel, Chris Pal, Gaël Varoquaux, Pascal Vincent
+  authors: Xavier Bouthillier, Pierre Delaunay, Mirko Bronzi, Assya Trofimov, Brennan Nichyporuk, Justin Szeto, Naz Sepah, Edward Raff, Kanika Madan, <b>Vikram Voleti</b>, Samira Ebrahimi Kahou, Vincent Michalski, Dmitriy Serdyuk, Tal Arbel, Chris Pal, Gaël Varoquaux, Pascal Vincent
   venue: <a href="https://mlsys.org/Conferences/2021" target="_blank">MLSys 2021</a>
-  number_link: 1
+  number_link: 2
   link1:
     url: https://arxiv.org/abs/2103.03098
     display: arXiv
@@ -27,7 +27,7 @@
 - title: Learning to Combine Top-Down and Bottom-Up Signals in Recurrent Neural Networks with Attention over Modules
   image: 2020a_ICML2020_BRIM.png
 #   description: <ul><li>Exploration of deep recurrent neural net architectures in which bottom-up and top-down signals are dynamically combined using attention</li></ul>
-  authors: Sarthak Mittal, Alex Lamb, Anirudh Goyal, Vikram Voleti, Murray Shanahan, Guillaume Lajoie, Michael Mozer, Yoshua Bengio
+  authors: Sarthak Mittal, Alex Lamb, Anirudh Goyal, <b>Vikram Voleti</b>, Murray Shanahan, Guillaume Lajoie, Michael Mozer, Yoshua Bengio
   venue: <a href="https://icml.cc/Conferences/2020" target="_blank">ICML 2020</a>
   number_link: 2
   link1:
@@ -40,7 +40,7 @@
 - title: Simple Video Generation using Neural ODEs
   image: 2019e_NeurIPSW_EncODEDec.png
 #   description: <ul><li>Using NeuralODEs to model latent dynamics for video generation</li></ul>
-  authors: Vikram Voleti, David Kanaa, Samira Kahou, Christopher Pal
+  authors: <b>Vikram Voleti</b>, David Kanaa, Samira Kahou, Christopher Pal
   venue: <a href="https://neurips.cc/Conferences/2019" target="_blank">NeurIPS 2019</a> Workshop on <a href="https://sites.google.com/view/neurips2019lire/home?authuser=0" target="_blank">Learning with Rich Experience</a>
   number_link: 2
   link1:
@@ -63,7 +63,7 @@
 - title: Comparing Normalization in Conditional Computation Tasks
   image: 2019a_ICMLW_CGN.png
 #   description: <ul><li>Comparing the performance of conditional generative models with different normalization techniques</li></ul>
-  authors: Vincent Michalski, Vikram Voleti, Samira Kahou, Anthony Ortiz, Pascal Vincent, Christopher Pal, Doina Precup
+  authors: Vincent Michalski, <b>Vikram Voleti</b>, Samira Kahou, Anthony Ortiz, Pascal Vincent, Christopher Pal, Doina Precup
   venue: <a href="https://icml.cc/Conferences/2019" target="_blank">ICML 2019</a> Workshop on <a href="https://sites.google.com/view/icml2019-generalization" target="_blank">Understanding and Improving Generalization in Deep Learning</a>
   number_link: 2
   link1:
@@ -76,7 +76,7 @@
 - title: Cross-Language Speech Dependent Lip-Synchronization
   image: 2018d_ICASSP.png
   description: <ul><li>Video generation to morph lip movements of speakers to match new audio</li></ul>
-  authors: Abhishek Jha, Vikram Voleti, Vinay P. Namboodiri, C. V. Jawahar
+  authors: Abhishek Jha, <b>Vikram Voleti</b>, Vinay P. Namboodiri, C. V. Jawahar
   venue: <a href="https://2019.ieeeicassp.org/" target="_blank">ICASSP 2019</a>
   number_link: 2
   link1:
@@ -99,7 +99,7 @@
 - title: Lip-Synchronization for Dubbed Instructional Videos
   image: 2018b_CVPRW.png
   description: <ul><li>Video generation to morph lip movements of speakers to match new audio</li></ul>
-  authors: Abhishek Jha, Vikram Voleti, Vinay P. Namboodiri, C. V. Jawahar
+  authors: <b>Vikram Voleti</b>, Abhishek Jha, Vinay P. Namboodiri, C. V. Jawahar
   venue: <a href="http://cvpr2018.thecvf.com/program/workshops" target="_blank">CVPR 2018</a> Workshop (<a href="http://fiver.eecs.umich.edu" target="_blank">FIVER</a>)
   number_link: 2
   link1:
@@ -123,7 +123,7 @@
 - title: Simple Real-Time Pattern Recognition for Industrial Automation
   image: 2017_ICIDE.jpg
   description: <ul><li>Optimization and implemention of vision and learning algorithms for faster pattern recognition</li></ul>
-  authors: V. Voleti, P. Mohan, S. Gupta, J. Iqbal
+  authors: <b>Vikram Voleti</b>, P. Mohan, S. Gupta, J. Iqbal
   venue: International Conference on Industrial Design Engineering, ICIDE 2017
   number_link: 1
   link1:
@@ -133,7 +133,7 @@
 - title: A Multimodal Approach for Image De-fencing and Depth Inpainting
   image: 2015_ICAPR.png
   description: <ul><li>Elimination of fence-like occlusions, inpainting of images using RGB-D data</li></ul>
-  authors: S. Jonna, V. S. Voleti, R. R. Sahay
+  authors: S. Jonna, <b>Vikram Voleti</b>, R. R. Sahay
   venue: International Conference on Advances in Pattern Recognition, ICAPR 2015
   number_link: 2
   link1:
