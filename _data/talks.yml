@@ -1,4 +1,13 @@
 
+- title: Training GANs by Solving ODEs
+  image: 20210406_Mila_ODEGAN_Vikram_Voleti.png
+  date: April 6, 2021
+  venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
+  number_link: 1
+  link1:
+    url: 20210406_Mila_ODEGAN_Vikram_Voleti.pdf
+    display: pdf
+
 - title: Score-based Generative Models using SDEs
   image: 20210215_Mila_Score_based_models_Vikram_Voleti.png
   date: February 15, 2021
