@@ -3,11 +3,17 @@
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
   authors: Krishna Murthy Jatavallabhula, Miles Macklin, Florian Golemo, <b>Vikram Voleti</b>, Linda Petrini, Martin Weiss, Breandan Considine, Jérôme Parent-Lévesque, Kevin Xie, Kenny Erleben, Liam Paull, Florian Shkurti, Derek Nowrouzezahrai, Sanja Fidler
   venue: <a href="https://iclr.cc/Conferences/2021" target="_blank">ICLR 2021</a>
-  number_link: 2
+  number_link: 4
   link1:
+    url: https://arxiv.org/abs/2104.02646
+    display: arXiv
+  link2:
+    url: https://gradsim.github.io
+    display: website
+  link3:
     url: https://openreview.net/forum?id=c_E8kFWfhp0
     display: OpenReview
-  link2:
+  link4:
     url: 2020f_MAIS2020_Gradsim.pdf
     display: pdf
 
