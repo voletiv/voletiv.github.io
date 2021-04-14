@@ -63,6 +63,18 @@ _2009 --- 2014_
 # EXPERIENCE
 
 <div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/owcv2021.png">](https://owcv2021.github.io){:target="_blank"}
+
+_February 2021 --- April 2021_
+
+### [OWCV 2021](https://owcv2021.github.io){:target="_blank"}, Canada - Organizer
+**Canada**
+
+I was a co-organizer of the inaugural Ontario Workshop on Computer Vision 2021.
+</div>
+
+
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/graphquon.png">](https://graphquon.github.io){:target="_blank"}
 
 _October 2020 --- December 2020_
