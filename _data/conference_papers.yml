@@ -1,3 +1,33 @@
+- title: Multi-Resolution Continuous Normalizing Flows
+  image: 2021d_NeurIPS2021_MRCNF.png
+#   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
+  authors: Vikram Voleti, Chris Finlay, Adam Oberman, Christopher Pal
+  venue: Pre-print
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2106.08462
+    display: arXiv
+
+- title: Bias Mitigation of Face Recognition Models Through Calibration
+  image: 2021e_NeurIPS2021_FaceBias.png
+#   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
+  authors: Tiago Salvador, Stephanie Cairns, <b>Vikram Voleti</b>, Noah Marshall, Adam Oberman
+  venue: Pre-print
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2106.03761
+    display: arXiv
+
+- title: Improved Predictive Uncertainty using Corruption-based Calibration
+  image: 2021f_NeurIPS2021_Calibration.png
+#   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
+  authors: Tiago Salvador, <b>Vikram Voleti</b>, Alexander Iannantuono, Adam Oberman
+  venue: Pre-print
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2104.02646
+    display: arXiv
+
 - title: gradSim - Differentiable simulation for system identification and visuomotor control
   image: 2021b_ICML2021_gradSim.png
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
@@ -14,7 +44,7 @@
     url: https://openreview.net/forum?id=c_E8kFWfhp0
     display: OpenReview
   link4:
-    url: 2020f_MAIS2020_Gradsim.pdf
+    url: 2020g_ICLR2021_gradSim.pdf
     display: pdf
 
 - title: Accounting for Variance in Machine Learning Benchmarks
@@ -29,6 +59,11 @@
   link2:
     url: 2021a_MLSys2021_Variance_in_ML_Benchmarks.pdf
     display: pdf
+
+# \item \label{gradsim2020MAIS}
+# % Krishna Murthy Jatavallabhula, Miles Macklin, Florian Golemo, \underline{Vikram Voleti}, Linda Petrini, Martin Weiss, Breandan Considine, Jérôme Parent-Lévesque, Kevin Xie, Kenny Erleben, Liam Paull, Florian Shkurti, Sanja Fidler, Derek Nowrouzezahrai,
+# K. M. Jatavallabhula, M. Macklin, F. Golemo, \underline{V. Voleti}, L. Petrini, M. Weiss, B. Considine, J. Parent-Lévesque, K. Xie, K. Erleben, L. Paull, F. Shkurti, S. Fidler, D. Nowrouzezahrai,
+# ``Introducing GradSim: Differentiable Simulation for Self-Supervised Parameter Estimation from Video'' - \textit{MAIS 2020}
 
 - title: Learning to Combine Top-Down and Bottom-Up Signals in Recurrent Neural Networks with Attention over Modules
   image: 2020a_ICML2020_BRIM.png
