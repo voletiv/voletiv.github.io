@@ -7,6 +7,16 @@ permalink: /publications
 
 | <a href="{{ site.google_scholar_url }}" target="_blank" style="text-align:center; display:block"><i class="ai ai-google-scholar-square ai-3x"></i></a> |
 
+# PRE-PRINTS
+
+{% for publication in site.data.preprints %}
+
+{% include publications.html %}
+
+{% endfor %}
+
+<p>&nbsp;</p>
+
 # CONFERENCE PAPERS
 
 {% for publication in site.data.conference_papers %}
