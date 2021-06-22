@@ -39,6 +39,7 @@ permalink: /publications
 <p>&nbsp;</p>
 
 {% assign numOfJournals = loopindex %}
+
 {% endcomment %}
 
 # THESIS / REPORTS
