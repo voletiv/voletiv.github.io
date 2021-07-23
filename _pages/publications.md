@@ -17,7 +17,7 @@ permalink: /publications
 
 <p>&nbsp;</p>
 
-# CONFERENCE PAPERS
+# PUBLICATIONS
 
 {% for publication in site.data.conference_papers %}
 
