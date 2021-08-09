@@ -146,28 +146,6 @@ I was a mentor/consultant for 6 startups at NextAI. I assisted them in integrati
 </div>
 
 
-<div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiith.png">](https://cvit.iiit.ac.in){:target="_blank"}
-
-_May 2017 --- August 2018_
-
-### [International Institute of Information Techonology (IIIT) - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} - Research Fellow
-**Hyderabad, India** --- with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, Centre for Visual Information Technology, IIIT Hyderabad**
-
-- **Video Translation**
-    - Generated videos of movies and educational tutorials of Andrew Ng in Indian languages by morphing lip movement
-    - Experimented with GANs (Pix2Pix) to generate videos using original faces, new lip landmarks, and dubbed audio
-
-- **Assessor for Lipreader**
-    - Built a visual speech recognizer (lipreader) to classify spoken words in videos, and an assessor to check if the lipreader’s output is correct by combining convolutional and recurrent neural networks
-    - Used the lipreader and assessor for self-training on unlabelled data, zero-shot learning on out-of-vocabulary words, and information retrieval
-
-| [**Conference paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018d_ICASSP.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Cross-Language Speech Dependent Lip-Synchronization", in _[ICASSP 2019](https://2019.ieeeicassp.org/){:target="_blank"}_ [[IEEE](https://ieeexplore.ieee.org/document/8682275){:target="_blank"}] |
-
-| [**Workshop paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018b_CVPRW.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Lip-Synchronization for Dubbed Instructional Videos", in _[CVPR Workshop (FIVER), 2018](http://fiver.eecs.umich.edu/#abstracts){:target="_blank"}_ |
-
-</div>
-
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/playment.jpg">](https://playment.io){:target="_blank"}
@@ -192,6 +170,29 @@ _January 2018 --- May 2018_
 **Hyderabad, India**
 
 I was a Mentor for the **Foundations of Artificial Intelligence and Machine Learning** certificate program by IIIT-H Machine Learning Lab and TalentSprint. I assisted in creating tutorials on machine learning, and mentor participants during lab sessions.
+</div>
+
+
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/iiith.png">](https://cvit.iiit.ac.in){:target="_blank"}
+
+_May 2017 --- August 2018_
+
+### [International Institute of Information Techonology (IIIT) - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} - Research Fellow
+**Hyderabad, India** --- with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, Centre for Visual Information Technology, IIIT Hyderabad**
+
+- **Video Translation**
+    - Generated videos of movies and educational tutorials of Andrew Ng in Indian languages by morphing lip movement
+    - Experimented with GANs (Pix2Pix) to generate videos using original faces, new lip landmarks, and dubbed audio
+
+- **Assessor for Lipreader**
+    - Built a visual speech recognizer (lipreader) to classify spoken words in videos, and an assessor to check if the lipreader’s output is correct by combining convolutional and recurrent neural networks
+    - Used the lipreader and assessor for self-training on unlabelled data, zero-shot learning on out-of-vocabulary words, and information retrieval
+
+| [**Conference paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018d_ICASSP_VisDub.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Cross-Language Speech Dependent Lip-Synchronization", in _[ICASSP 2019](https://2019.ieeeicassp.org/){:target="_blank"}_ [[IEEE](https://ieeexplore.ieee.org/document/8682275){:target="_blank"}] |
+
+| [**Workshop paper**]({{site.url}}{{site.baseurl}}/docs/publications/2018b_CVPRW_VisDub.pdf){:target="_blank"}: Abhishek Jha*, Vikram Voleti*, Vinay P. Namboodiri, C. V. Jawahar, "Lip-Synchronization for Dubbed Instructional Videos", in _[CVPR Workshop (FIVER), 2018](http://fiver.eecs.umich.edu/#abstracts){:target="_blank"}_ |
+
 </div>
 
 

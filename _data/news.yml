@@ -7,6 +7,9 @@
 - date: June 7, 2021
   news: Released "Improved Predictive Uncertainty using Corruption-based Calibration" on <a href="https://arxiv.org/abs/2106.03762" target="_blank">arXiv</a>!
 
+- date: May 19, 2021
+  news: Awarded as an <a href="http://cvpr2021.thecvf.com/node/184" target="_blank">"Outstanding Reviewer" at CVPR 2021</a>!
+
 - date: April 7, 2021
   news: Released gradSim on <a href="https://arxiv.org/abs/2104.02646" target="_blank">arXiv</a>! Visit our wesite - <a href="https://gradsim.github.io" target="_blank">gradsim.github.io</a>! Released <a href="https://www.youtube.com/watch?v=QHC55bSUe0A&feature=youtu.be" target="_blank">video</a> for gradSim!
 
@@ -17,10 +20,13 @@
   news: Presented "Score-based Generative Models using Neural SDEs" at <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada [<a href="https://voletiv.github.io/docs/presentations/20210215_Mila_Score_based_models_Vikram_Voleti.pdf" target="_blank">slides</a>]
 
 - date: Jan 18, 2021
-  news: Paper accepted at MLSys 2021! "Accounting for Variance in Machine Learning Benchmarks"
+  news: Paper accepted at MLSys 2021! "Accounting for Variance in Machine Learning Benchmarks" [<a href="https://proceedings.mlsys.org/paper/2021/hash/cfecdb276f634854f3ef915e2e980c31-Abstract.html" target="_blank">MLSys 2021 Proceedings</a>]
 
 - date: Jan 13, 2021
   news: Paper accepted at ICLR 2021! "gradSim - Differentiable simulation for system identification and visuomotor control" [<a href="https://openreview.net/forum?id=c_E8kFWfhp0" target="_blank">OpenReview</a>]
+
+- date: Dec 21, 2020
+  news: Awarded the Microsoft Diversity Award for Doctoral Research!
 
 - date: Dec 10-11, 2020
   news: Organized <a href="https://graphquon.github.io/" target="_blank">GRAPHQUON 2020</a> (formerly MOTOGRAPH)
