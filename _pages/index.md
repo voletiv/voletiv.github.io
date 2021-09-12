@@ -13,7 +13,7 @@ permalink: /
 
 I am a PhD student at [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}, I am supervised by [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}. I am currently a Visiting Researcher with [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"} at the [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"}. I also work as an AI Advisor to [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}.
 
-My main research interests are in computer vision and deep learning. My projects span multi-scale image generation; self-supervised video predition using dynamical modelling; neural rendering; multi-modal GANs; unsupervised physics estimation from video using differentiable 3D simulation. 
+My main research interests are in computer vision and deep learning. My projects span diffusion probabilistic / score-based models, multi-resolution image generation; self-supervised video predition using dynamical modelling; neural rendering; multi-modal GANs. 
 
 In Fall 2019, I was a Research Intern at [Google](https://ai.google/research/teams/perception/){:target="_blank"}, Mountain View in the [Google AI Perception](https://ai.google/research/teams/perception/){:target="_blank"} team. In 2019 and 2020, I was an AI Scientist in Residence at [NextAI](https://www.nextcanada.com/next-ai/){:target="_blank"}.
 
