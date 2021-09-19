@@ -1,3 +1,12 @@
+- title: Improving Continuous Normalizing Flows using a Multi-Resolution Framework
+  image: 2021d_NeurIPS2021_MRCNF.png
+  authors: <b>Vikram Voleti</b>, Chris Finlay, Adam Oberman, Christopher Pal
+  venue: <a href="https://invertibleworkshop.github.io/" target="_blank">INNF+ @ ICML 2021</a>
+  number_link: 1
+  link1:
+    url: https://openreview.net/forum?id=XzNsBgj68_L
+    display: OpenReview
+
 - title: gradSim - Differentiable simulation for system identification and visuomotor control
   image: 2021b_ICML2021_gradSim.png
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
