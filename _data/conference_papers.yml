@@ -64,8 +64,8 @@
   venue: <a href="https://neurips.cc/Conferences/2019" target="_blank">NeurIPS 2019</a> Workshop on <a href="https://sites.google.com/view/neurips2019lire/home?authuser=0" target="_blank">Learning with Rich Experience</a>
   number_link: 2
   link1:
-    url: 2019e_NeurIPSW_EncODEDec.pdf
-    display: pdf
+    url: https://arxiv.org/abs/2109.03292
+    display: arXiv
   link2:
     url: ../presentations/20191213_Vancouver_NeurIPSW_EncODEDec.pdf
     display: poster
