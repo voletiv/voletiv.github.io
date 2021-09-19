@@ -20,9 +20,9 @@ permalink: /contact
 
 [<i class="fa fa-github"></i> GitHub](https://github.com/{{ site.github_username }}){:target="_blank"}
 
-[<i class="fa fa-quora"></i> Quora](https://www.quora.com/profile/{{ site.quora_username }}){:target="_blank"}
+<!-- [<i class="fa fa-quora"></i> Quora](https://www.quora.com/profile/{{ site.quora_username }}){:target="_blank"} -->
 
-[<i class="fa fa-facebook"></i> Facebook](https://www.facebook.com/{{ site.facebook_username }}){:target="_blank"}
+<!-- [<i class="fa fa-facebook"></i> Facebook](https://www.facebook.com/{{ site.facebook_username }}){:target="_blank"} -->
 
 ---
 
