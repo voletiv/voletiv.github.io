@@ -74,7 +74,7 @@ _2009 --- 2014_
 # EXPERIENCE
 
 <div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/owcv2021.png">](https://owcv2021.github.io){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/diff3d.png">](http://montrealrobotics.ca/diff3d/{:target="_blank"}
 
 _August 2021 --- October 2021_
 
