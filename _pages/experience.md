@@ -18,7 +18,7 @@ _September 2018 --- present_
 
 **PhD, Computer Science; Supervisor: [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}**
 
-My research interests are broadly in generative models for images, video, 3D. I work on large-scale image and video generation using latent dynamics.
+My research interests are broadly in generative models for images, video, 3D. I work on image, video and 3D generation using latent dynamics, and score-based diffusion models.
 </div>
 
 
@@ -50,6 +50,17 @@ I advise [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}, an early
 # EDUCATION
 
 <div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila_purple.png">](https://mila.quebec/en/){:target="_blank"}
+
+_08/2018 --- present (anticipated 08/2023)_
+
+### [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}, Canada
+
+**PhD in Computer Science**
+</div>
+
+
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/kgp.jpg">](http://www.iitkgp.ac.in/){:target="_blank"}
 
 _2009 --- 2014_
@@ -61,6 +72,18 @@ _2009 --- 2014_
 
 
 # EXPERIENCE
+
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/owcv2021.png">](https://owcv2021.github.io){:target="_blank"}
+
+_August 2021 --- October 2021_
+
+### [Diff3D workshop](http://montrealrobotics.ca/diff3d/){:target="_blank"} @ [ICCV 2021](https://iccv2021.thecvf.com/home){:target="_blank"}- Organizer
+**Canada**
+
+I was a co-organizer of the Differentiable 3D Vision and Graphics workshop at ICCV 2021.
+</div>
+
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/owcv2021.png">](https://owcv2021.github.io){:target="_blank"}

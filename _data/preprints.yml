@@ -18,7 +18,7 @@
     url: https://arxiv.org/abs/2106.03761
     display: arXiv
 
-- title: Frustratingly Easy Uncertainty Estimation
+- title: Frustratingly Easy Uncertainty Estimation for Distribution Shift
   image: 2021f_NeurIPS2021_Calibration.png
 #   description: <ul><li>Using a post-hoc calibration method to improve predictive uncertainty</li></ul>
   authors: Tiago Salvador, <b>Vikram Voleti</b>, Alexander Iannantuono, Adam Oberman
