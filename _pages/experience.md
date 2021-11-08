@@ -9,16 +9,30 @@ permalink: /experience
 
 # CURRENT
 
+
 <div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila_purple.png">](https://mila.quebec/en/){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/unity.png">](https://unity.com/labs){:target="_blank"}
 
-_September 2018 --- present_
+_October 2021 --- present_
 
-### [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"} - PhD candidate
+### [Unity Technologies](https://unity.com/labs){:target="_blank"} - MITACS Research Intern
+**Montreal, Canada**
 
-**PhD, Computer Science; Supervisor: [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}**
+I work with the DeepPose team at Unity Labs(https://unity.com/labs){:target="_blank"}'s on 3D pose estimation from video.
 
-My research interests are broadly in generative models for images, video, 3D. I work on image, video and 3D generation using latent dynamics, and score-based diffusion models.
+</div>
+
+
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/bluelion.jpeg">](https://bluelionlabs.com/){:target="_blank"}
+
+_October 2020 --- present_
+
+### [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"} - AI Advisor
+**Waterloo, Canada**
+
+I advise [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}, an early-stage startup that provides technology to automatically monitor different organisms in water using machine learning.
+
 </div>
 
 
@@ -36,16 +50,17 @@ I work in [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}'s la
 
 
 <div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/bluelion.jpeg">](https://bluelionlabs.com/){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila_purple.png">](https://mila.quebec/en/){:target="_blank"}
 
-_October 2020 --- present_
+_September 2018 --- present_
 
-### [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"} - AI Advisor
-**Waterloo, Canada**
+### [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"} - PhD candidate
 
-I advise [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}, an early-stage startup that provides technology to automatically monitor different organisms in water using machine learning.
+**PhD, Computer Science; Supervisor: [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}**
 
+My research interests are broadly in generative models for images, video, 3D. I work on image, video and 3D generation using latent dynamics, and score-based diffusion models.
 </div>
+
 
 # EDUCATION
 
@@ -72,6 +87,18 @@ _2009 --- 2014_
 
 
 # EXPERIENCE
+
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/unity.png">](https://unity.com/labs){:target="_blank"}
+
+_August 2021 --- October 2021_
+
+### [Unity Technologies](https://unity.com/labs){:target="_blank"} - MITACS Research Intern
+**Montreal, Canada**
+
+I am a MITACS Research Intern with the DeepPose team at Unity Labs, I work on 3D pose estimation from videos.
+</div>
+
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/diff3d.png">](http://montrealrobotics.ca/diff3d/){:target="_blank"}
