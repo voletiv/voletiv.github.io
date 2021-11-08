@@ -91,7 +91,7 @@ _2009 --- 2014_
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/unity.png">](https://unity.com/labs){:target="_blank"}
 
-_August 2021 --- October 2021_
+_October 2021 --- present_
 
 ### [Unity Technologies](https://unity.com/labs){:target="_blank"} - MITACS Research Intern
 **Montreal, Canada**
