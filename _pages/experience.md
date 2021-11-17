@@ -18,7 +18,7 @@ _October 2021 --- present_
 ### [Unity Technologies](https://unity.com/labs){:target="_blank"} - MITACS Research Intern
 **Montreal, Canada**
 
-I work with the DeepPose team at [Unity Labs](https://unity.com/labs){:target="_blank"}'s on 3D pose estimation from video.
+I work with the DeepPose team at [Unity Labs](https://unity.com/labs){:target="_blank"} on 3D pose estimation from video.
 
 </div>
 
@@ -96,7 +96,7 @@ _October 2021 --- present_
 ### [Unity Technologies](https://unity.com/labs){:target="_blank"} - MITACS Research Intern
 **Montreal, Canada**
 
-I am a MITACS Research Intern with the DeepPose team at Unity Labs, hosted by [Boris Oreshkin](https://scholar.google.ca/citations?user=48MBCeIAAAAJ&hl=en). I work on 3D pose estimation from videos.
+I am a MITACS Research Intern with the DeepPose team at [Unity Labs](https://unity.com/labs){:target="_blank"}, hosted by [Boris Oreshkin](https://scholar.google.ca/citations?user=48MBCeIAAAAJ&hl=en){:target="_blank"}. I work on 3D pose estimation from videos.
 </div>
 
 
