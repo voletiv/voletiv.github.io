@@ -8,16 +8,6 @@
     url: https://arxiv.org/abs/2106.08462
     display: arXiv
 
-- title: FairCal - Fairness Calibration for Face Verification
-  image: 2021j_ICLR2022_FairCal.png
-#   description: <ul><li>Using calibration to improve FPR for facial recognition across minority groups</li></ul>
-  authors: Tiago Salvador, Stephanie Cairns, <b>Vikram Voleti</b>, Noah Marshall, Adam Oberman
-  venue: Pre-print
-  number_link: 1
-  link1:
-    url: https://arxiv.org/abs/2106.03761
-    display: arXiv
-
 - title: Frustratingly Easy Uncertainty Estimation for Distribution Shift
   image: 2021f_NeurIPS2021_Calibration.png
 #   description: <ul><li>Using a post-hoc calibration method to improve predictive uncertainty</li></ul>

@@ -1,3 +1,6 @@
+- date: January 21, 2022
+  news: Paper accepted at ICLR 2022! "FairCal - Fairness Calibration for Face Verification" [<a href="https://arxiv.org/abs/2106.03761" target="_blank">arXiv</a>] [<a href="https://openreview.net/forum?id=nRj0NcmSuxb" target="_blank">OpenReview</a>]
+
 - date: October 18, 2021
   news: Joined Unity Technologies as a MITACS Research Intern!
 
@@ -8,10 +11,10 @@
   news: Short paper accepted at INNF+ workshop @ ICML 2021! "Improving Continuous Normalizing Flows using a Multi-Resolution Framework"! <a href="https://openreview.net/pdf?id=XzNsBgj68_L" target="_blank">OpenReview</a>
 
 - date: June 7, 2021
-  news: Released "Bias Mitigation of Face Recognition Models Through Calibration" on <a href="https://arxiv.org/abs/2106.03761" target="_blank">arXiv</a>!
+  news: Released "FairCal - Fairness Calibration for Face Verification" on <a href="https://arxiv.org/abs/2106.03761" target="_blank">arXiv</a>!
 
 - date: June 7, 2021
-  news: Released "Improved Predictive Uncertainty using Corruption-based Calibration" on <a href="https://arxiv.org/abs/2106.03762" target="_blank">arXiv</a>!
+  news: Released "Frustratingly Easy Uncertainty Estimation for Distribution Shift" on <a href="https://arxiv.org/abs/2106.03762" target="_blank">arXiv</a>!
 
 - date: May 19, 2021
   news: Awarded as an <a href="http://cvpr2021.thecvf.com/node/184" target="_blank">"Outstanding Reviewer" at CVPR 2021</a>!
