@@ -11,7 +11,7 @@ permalink: /
 
 <img class="profile-picture" src="{{site.url}}{{site.baseurl}}/images/profile-picture/profile_picture.jpg" />
 
-I am a PhD student at [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}, I am supervised by [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}. My main research interests are in computer vision and deep learning, I have primarily worked on generative models for image, video and 3D. My projects span diffusion probabilistic / score-based models; multi-resolution image generation; self-supervised video predition using dynamical modelling.
+I am a PhD student at [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}, I am supervised by [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}. My main research interests are in computer vision and deep learning, I have primarily worked on generative models for image, video and 3D. My projects span diffusion probabilistic / score-based models; multi-resolution image generation; self-supervised video prediction using dynamical modelling.
 
 Currently, I am a MITACS Research Intern at [Unity Labs](https://unity.com/labs), I work on 3D pose estimation from video. I am also a Visiting Researcher with [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"} at the [University of Guelph](https://www.uoguelph.ca/engineering/){:target="_blank"}. I also work as an AI Advisor to [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}. 
 
