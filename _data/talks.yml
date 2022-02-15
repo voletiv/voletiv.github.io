@@ -1,3 +1,14 @@
+- title: Denoising Diffusion GANs
+  image: 20220215_Mila_DenoisingDiffusionGANs_Vikram_Voleti.png
+  date: February 15, 2022
+  venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
+  number_link: 2
+  link1:
+    url: 20220215_Mila_DenoisingDiffusionGANs_Vikram_Voleti.pdf
+    display: pdf
+  link2:
+    url: https://docs.google.com/presentation/d/1gyFKM0zrGotwEEPcu667qNj-CHJYNDS2sAsvgCjMtzc/edit?usp=sharing
+    display: slides
 
 - title: Training GANs by Solving ODEs
   image: 20210406_Mila_ODEGAN_Vikram_Voleti.png
