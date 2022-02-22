@@ -10,7 +10,6 @@ html {
     margin: 0;
     padding: 0;
     overflow:scroll;
-    font-family: "Lato", "IBM Plex Sans", "Open Sans", sans-serif;
 }
 
 header {
@@ -138,6 +137,7 @@ ul#horizontal-list li {
 /* Publications */
 
 .publications {
+    font-family: "Lato", "IBM Plex Sans", "Open Sans", sans-serif;
     min-height: 20px;
     width: 100%;
     // padding-bottom: 10px;
