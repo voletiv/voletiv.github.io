@@ -3,11 +3,14 @@
 #   description: <ul><li>Using calibration to improve FPR for facial recognition across minority groups</li></ul>
   authors: Tiago Salvador, Stephanie Cairns, <b>Vikram Voleti</b>, Noah Marshall, Adam Oberman
   venue: <a href="https://iclr.cc/Conferences/2022" target="_blank">ICLR 2022</a>
-  number_link: 2
+  number_link: 3
   link1:
     url: https://arxiv.org/abs/2106.03761
     display: arXiv
   link2:
+    url: ../presentations/2021j_ICLR2022_FairCal_poster.pdf
+    display: poster
+  link3:
     url: https://openreview.net/forum?id=nRj0NcmSuxb
     display: OpenReview
 
