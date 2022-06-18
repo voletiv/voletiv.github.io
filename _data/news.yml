@@ -1,8 +1,8 @@
 - date: May 27, 2022
-  news: Released the <a href="https://github.com/voletiv/mcvd-pytorch" target="_blank">code</a> for "MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation" on <a href="https://arxiv.org/abs/2106.08462" target="_blank">arXiv</a>; <a href="https://mask-cond-video-diffusion.github.io/" target="_blank">Project page</a>
+  news: Released the <a href="https://github.com/voletiv/mcvd-pytorch" target="_blank">code</a> for "(MCVD) Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation" on <a href="https://arxiv.org/abs/2106.08462" target="_blank">arXiv</a>; <a href="https://mask-cond-video-diffusion.github.io/" target="_blank">Project page</a>
 
 - date: May 23, 2022
-  news: Released "MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation" on <a href="https://arxiv.org/abs/2106.08462" target="_blank">arXiv</a>; <a href="https://mask-cond-video-diffusion.github.io/" target="_blank">Project page</a>
+  news: Released "(MCVD) Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation" on <a href="https://arxiv.org/abs/2106.08462" target="_blank">arXiv</a>; <a href="https://mask-cond-video-diffusion.github.io/" target="_blank">Project page</a>
 
 - date: February 15, 2022
   news: Presented "Denoising Diffusion GANs" at <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada [<a href="https://voletiv.github.io/docs/presentations/20220215_Mila_DenoisingDiffusionGANs_Vikram_Voleti.pdf" target="_blank">slides</a>]
