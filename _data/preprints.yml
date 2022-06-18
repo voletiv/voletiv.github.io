@@ -1,3 +1,19 @@
+- title: MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
+  image: 2021d_NeurIPS2021_MRCNF.png
+#   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
+  authors: <b>Vikram Voleti</b>, Chris Finlay, Adam Oberman, Christopher Pal
+  venue: Pre-print
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2106.08462
+    display: arXiv
+  link2:
+    url: https://mask-cond-video-diffusion.github.io/
+    display: Project
+  link2:
+    url: https://github.com/voletiv/mcvd-pytorch
+    display: Code
+
 - title: Multi-Resolution Continuous Normalizing Flows
   image: 2021d_NeurIPS2021_MRCNF.png
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
