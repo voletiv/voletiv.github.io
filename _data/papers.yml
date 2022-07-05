@@ -1,3 +1,29 @@
+- title: (MCVD) Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
+  image: 2022a_MCVD.png
+#   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
+  authors: <b>Vikram Voleti</b>, Alexia Jolicoeur-Martineau, Christopher Pal
+  venue: Pre-print
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2106.08462
+    display: arXiv
+  link2:
+    url: https://mask-cond-video-diffusion.github.io/
+    display: Project
+  link3:
+    url: https://github.com/voletiv/mcvd-pytorch
+    display: Code
+
+- title: Multi-Resolution Continuous Normalizing Flows
+  image: 2021d_NeurIPS2021_MRCNF.png
+#   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
+  authors: <b>Vikram Voleti</b>, Chris Finlay, Adam Oberman, Christopher Pal
+  venue: Pre-print
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2106.08462
+    display: arXiv
+
 - title: FairCal - Fairness Calibration for Face Verification
   image: 2021j_ICLR2022_FairCal.png
 #   description: <ul><li>Using calibration to improve FPR for facial recognition across minority groups</li></ul>
@@ -13,6 +39,25 @@
   link3:
     url: https://openreview.net/forum?id=nRj0NcmSuxb
     display: OpenReview
+
+- title: Generative Models of Brain Dynamics - A Review
+  image: 2022b_Brain.png
+  authors: Mahta Ramezanian Panahi, Germán Abrevaya, Jean-Christophe Gagnon-Audet, <b>Vikram Voleti</b>, Irina Rish, Guillaume Dumas
+  venue: Frontiers of Artificial Intelligence
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2112.12147
+    display: arXiv
+
+- title: Frustratingly Easy Uncertainty Estimation for Distribution Shift
+  image: 2021f_NeurIPS2021_Calibration.png
+#   description: <ul><li>Using a post-hoc calibration method to improve predictive uncertainty</li></ul>
+  authors: Tiago Salvador, <b>Vikram Voleti</b>, Alexander Iannantuono, Adam Oberman
+  venue: Pre-print
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2106.03762
+    display: arXiv
 
 - title: Improving Continuous Normalizing Flows using a Multi-Resolution Framework
   image: 2021d_NeurIPS2021_MRCNF.png
