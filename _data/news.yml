@@ -1,3 +1,6 @@
+- date: August 12, 2022
+  news: Presented "Solving Video Tasks with Denoising Diffusion Models" at <a href="https://research.samsung.com/aicenter_toronto" target="_blank">Samsung AI Center, Toronto</a>, Canada [<a href="https://docs.google.com/presentation/d/1vXhJP52Le3KCLnySgcb70Ni3XshPN-C9sS8E17UUpqs/edit?usp=sharing" target="_blank">slides</a>] [<a href="https://voletiv.github.io/docs/presentations/20220812_Samsung_MCVD_Vikram_Voleti.pdf" target="_blank">pdf</a>]
+
 - date: May 27, 2022
   news: Released the <a href="https://github.com/voletiv/mcvd-pytorch" target="_blank">code</a> for "(MCVD) Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation" on <a href="https://arxiv.org/abs/2106.08462" target="_blank">arXiv</a>; <a href="https://mask-cond-video-diffusion.github.io/" target="_blank">Project page</a>
 
