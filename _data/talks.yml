@@ -1,3 +1,15 @@
+- title: Solving Video Tasks with Denoising Diffusion Models
+  image: 20220812_Samsung_MCVD_Vikram_Voleti.png
+  date: February 15, 2022
+  venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
+  number_link: 2
+  link1:
+    url: 20220812_Samsung_MCVD_Vikram_Voleti.pdf
+    display: pdf
+  link2:
+    url: https://docs.google.com/presentation/d/1vXhJP52Le3KCLnySgcb70Ni3XshPN-C9sS8E17UUpqs/edit?usp=sharing
+    display: slides
+
 - title: Denoising Diffusion GANs
   image: 20220215_Mila_DenoisingDiffusionGANs_Vikram_Voleti.png
   date: February 15, 2022
