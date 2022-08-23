@@ -1,3 +1,13 @@
+- title: SMPL-IK - Learned Morphology-Aware Inverse Kinematics for AI Driven Artistic Workflows
+  image: 2022c_SMPLIK.png
+#   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
+  authors: <b>Vikram Voleti</b>, Boris N. Oreshkin, Florent Bocquelet, Félix G. Harvey, Louis-Simon Ménard, Christopher Pal
+  venue: Pre-print
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2208.08274
+    display: arXiv
+
 - title: (MCVD) Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
   image: 2022a_MCVD.png
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
