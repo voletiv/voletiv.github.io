@@ -11,14 +11,14 @@ permalink: /experience
 
 
 <div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/unity.png">](https://unity.com/labs){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/meta.png">](https://about.facebook.com/){:target="_blank"}
 
-_October 2021 --- present_
+_August 2022 --- present_
 
-### [Unity Technologies](https://unity.com/labs){:target="_blank"} - MITACS Research Intern
-**Montreal, Canada**
+### [Meta](https://about.facebook.com/){:target="_blank"} - Research Intern
+**Menlo Park, California, USA**
 
-I work with the DeepPose team at [Unity Labs](https://unity.com/labs){:target="_blank"} on 3D pose estimation from video.
+I work with the [AI4AR](https://ai.facebook.com/blog/building-with-ai-across-all-of-meta/) team at [Meta](https://about.facebook.com/){:target="_blank"}.
 
 </div>
 
@@ -89,14 +89,26 @@ _2009 --- 2014_
 # EXPERIENCE
 
 <div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/meta.png">](https://about.facebook.com/){:target="_blank"}
+
+_August 2022 --- present_
+
+### [Meta](https://about.facebook.com/){:target="_blank"} - Research Intern
+**Menlo Park, California, USA**
+
+I work with the [AI4AR](https://ai.facebook.com/blog/building-with-ai-across-all-of-meta/) team at [Meta](https://about.facebook.com/){:target="_blank"}, hosted by [Yashar Mehdad](https://scholar.google.com/citations?user=hFKgapkAAAAJ&hl=en).
+
+</div>
+
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/unity.png">](https://unity.com/labs){:target="_blank"}
 
-_October 2021 --- present_
+_October 2021 --- August 2022_
 
 ### [Unity Technologies](https://unity.com/labs){:target="_blank"} - MITACS Research Intern
 **Montreal, Canada**
 
-I am a MITACS Research Intern with the DeepPose team at [Unity Labs](https://unity.com/labs){:target="_blank"}, hosted by [Boris Oreshkin](https://scholar.google.ca/citations?user=48MBCeIAAAAJ&hl=en){:target="_blank"}. I work on 3D pose estimation from videos.
+I am a MITACS Research Intern with the DeepPose team at [Unity Labs](https://unity.com/labs){:target="_blank"}, hosted by [Boris Oreshkin](https://scholar.google.ca/citations?user=48MBCeIAAAAJ&hl=en){:target="_blank"}. I work on 3D pose estimation and inverse kinematics from videos.
 </div>
 
 
