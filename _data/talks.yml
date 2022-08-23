@@ -1,7 +1,19 @@
+- title: A tutorial on Score-based Denoising Diffusion Models
+  image: 20220823_Mila_DDPM_Vikram_Voleti.png
+  date: August 23, 2022
+  venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
+  number_link: 2
+  link1:
+    url: 20220823_Mila_DDPM_Vikram_Voleti.pdf
+    display: pdf
+  link2:
+    url: https://docs.google.com/presentation/d/1WJPE0EthTweKtRoetyRv_PohWYi_mtdJZ_3OYjLq-wQ/edit?usp=sharing
+    display: slides
+
 - title: Solving Video Tasks with Denoising Diffusion Models
   image: 20220812_Samsung_MCVD_Vikram_Voleti.png
-  date: February 15, 2022
-  venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
+  date: August 12, 2022
+  venue: <a href="https://research.samsung.com/aicenter_toronto" target="_blank">Samsung AI Center, Toronto</a>, Canada
   number_link: 2
   link1:
     url: 20220812_Samsung_MCVD_Vikram_Voleti.pdf
