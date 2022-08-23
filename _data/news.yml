@@ -4,7 +4,7 @@
 - date: August 23, 2022
   news: Presented "A tutorial on Score-based Denoising Diffusion Models" at <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada [<a href="https://docs.google.com/presentation/d/1WJPE0EthTweKtRoetyRv_PohWYi_mtdJZ_3OYjLq-wQ/edit?usp=sharing" target="_blank">slides</a>] [<a href="https://voletiv.github.io/docs/presentations/20220823_Mila_DDPM_Vikram_Voleti.pdf" target="_blank">pdf</a>]
 
-- date: Aug 16, 2022
+- date: August 16, 2022
   news: Released "SMPL-IK - Learned Morphology-Aware Inverse Kinematics for AI Driven Artistic Workflows" on <a href="https://arxiv.org/abs/2208.08274" target="_blank">arXiv</a>
 
 - date: August 12, 2022
@@ -25,8 +25,8 @@
 - date: January 21, 2022
   news: Paper accepted at ICLR 2022! "FairCal - Fairness Calibration for Face Verification" [<a href="https://arxiv.org/abs/2106.03761" target="_blank">arXiv</a>] [<a href="https://openreview.net/forum?id=nRj0NcmSuxb" target="_blank">OpenReview</a>]
 
-- date: October 18, 2021
-  news: Joined Unity Technologies as a MITACS Research Intern!
+- date: October 18, 2021 - August 18, 2022
+  news: MITACS Research Intern at Unity Technologies
 
 - date: June 22, 2021
   news: Released "Multi-Resolution Continuous Normalizing Flows" on <a href="https://arxiv.org/abs/2106.08462" target="_blank">arXiv</a>!
@@ -52,19 +52,19 @@
 - date: February 15, 2021
   news: Presented "Score-based Generative Models using Neural SDEs" at <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada [<a href="https://voletiv.github.io/docs/presentations/20210215_Mila_Score_based_models_Vikram_Voleti.pdf" target="_blank">slides</a>]
 
-- date: Jan 18, 2021
+- date: January 18, 2021
   news: Paper accepted at MLSys 2021! "Accounting for Variance in Machine Learning Benchmarks" [<a href="https://proceedings.mlsys.org/paper/2021/hash/cfecdb276f634854f3ef915e2e980c31-Abstract.html" target="_blank">MLSys 2021 Proceedings</a>]
 
-- date: Jan 13, 2021
+- date: January 13, 2021
   news: Paper accepted at ICLR 2021! "gradSim - Differentiable simulation for system identification and visuomotor control" [<a href="https://openreview.net/forum?id=c_E8kFWfhp0" target="_blank">OpenReview</a>]
 
-- date: Dec 21, 2020
+- date: December 21, 2020
   news: Awarded the Microsoft Diversity Award for Doctoral Research!
 
-- date: Dec 10-11, 2020
+- date: December 10-11, 2020
   news: Organized <a href="https://graphquon.github.io/" target="_blank">GRAPHQUON 2020</a> (formerly MOTOGRAPH)
 
-- date: Dec 6-12, 2020
+- date: December 6-12, 2020
   news: Attended <a href="https://neurips.cc/Conferences/2020" target="_blank">NeurIPS 2020</a> (virtually)
 
 - date: October 1, 2020
@@ -93,7 +93,7 @@
 - date: June 2, 2020
   news: Paper accepted at <a href="https://icml.cc/Conferences/2020" target="_blank">ICML 2020</a>! Sarthak Mittal, Alex Lamb, Anirudh Goyal, <b>Vikram Voleti</b>, Murray Shanahan, Guillaume Lajoie, Michael Mozer, Yoshua Bengio, "Learning to Combine Top-Down and Bottom-Up Signals in Recurrent Neural Networks with Attention over Modules"    [<a href="https://arxiv.org/abs/2006.16981" target="_blank">arxiv</a>]
 
-- date: Apr 26 - May 1, 2020
+- date: April 26 - May 1, 2020
   news: Attended <a href="https://iclr.cc/Conferences/2020/" target="_blank">ICLR 2020</a> (virtually)
 
 - date: April 2, 2020

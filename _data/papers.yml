@@ -53,7 +53,7 @@
 - title: Generative Models of Brain Dynamics - A Review
   image: 2022b_Brain.png
   authors: Mahta Ramezanian Panahi, Germán Abrevaya, Jean-Christophe Gagnon-Audet, <b>Vikram Voleti</b>, Irina Rish, Guillaume Dumas
-  venue: Frontiers of Artificial Intelligence
+  venue: <a href="https://www.frontiersin.org/articles/10.3389/frai.2022.807406/full" target="_blank">Frontiers of Artificial Intelligence</a>
   number_link: 1
   link1:
     url: https://arxiv.org/abs/2112.12147
