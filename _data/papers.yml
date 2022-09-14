@@ -1,18 +1,8 @@
-- title: SMPL-IK - Learned Morphology-Aware Inverse Kinematics for AI Driven Artistic Workflows
-  image: 2022c_SMPLIK.png
-#   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
-  authors: <b>Vikram Voleti</b>, Boris N. Oreshkin, Florent Bocquelet, Félix G. Harvey, Louis-Simon Ménard, Christopher Pal
-  venue: Pre-print
-  number_link: 1
-  link1:
-    url: https://arxiv.org/abs/2208.08274
-    display: arXiv
-
 - title: (MCVD) Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
   image: 2022a_MCVD.png
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
   authors: <b>Vikram Voleti</b>, Alexia Jolicoeur-Martineau, Christopher Pal
-  venue: Pre-print
+  venue: <a href="https://neurips.cc/Conferences/2022" target="_blank">NeurIPS 2022</a>
   number_link: 3
   link1:
     url: https://arxiv.org/abs/2205.09853
@@ -23,6 +13,16 @@
   link3:
     url: https://github.com/voletiv/mcvd-pytorch
     display: Code
+
+- title: SMPL-IK - Learned Morphology-Aware Inverse Kinematics for AI Driven Artistic Workflows
+  image: 2022c_SMPLIK.png
+#   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
+  authors: <b>Vikram Voleti</b>, Boris N. Oreshkin, Florent Bocquelet, Félix G. Harvey, Louis-Simon Ménard, Christopher Pal
+  venue: Pre-print
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2208.08274
+    display: arXiv
 
 - title: Multi-Resolution Continuous Normalizing Flows
   image: 2021d_NeurIPS2021_MRCNF.png
