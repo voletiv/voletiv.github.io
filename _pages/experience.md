@@ -109,9 +109,9 @@ _October 2021 --- August 2022_
 **Montreal, Canada**
 
 I am a MITACS Research Intern with the DeepPose team at [Unity Labs](https://unity.com/labs){:target="_blank"}, hosted by [Boris Oreshkin](https://scholar.google.ca/citations?user=48MBCeIAAAAJ&hl=en){:target="_blank"}. I work on 3D pose estimation and inverse kinematics from videos.
-</div>
 
 | "[SMPL-IK - Learned Morphology-Aware Inverse Kinematics for AI Driven Artistic Workflows](https://arxiv.org/abs/2208.08274)", *Vikram Voleti*, Boris N. Oreshkin, Florent Bocquelet, Félix G. Harvey, Louis-Simon Ménard, Christopher Pal - _[SIGGRAPH Asia 2022](https://sa2022.siggraph.org/en/){:target="_blank"}_ |
+</div>
 
 
 <div class="experience-box" markdown="1">
