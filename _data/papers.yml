@@ -18,7 +18,7 @@
   image: 2022c_SMPLIK.png
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
   authors: <b>Vikram Voleti</b>, Boris N. Oreshkin, Florent Bocquelet, Félix G. Harvey, Louis-Simon Ménard, Christopher Pal
-  venue: Pre-print
+  venue: <a href="https://sa2022.siggraph.org/en/" target="_blank">SIGGRAPH Asia 2022</a>
   number_link: 1
   link1:
     url: https://arxiv.org/abs/2208.08274
