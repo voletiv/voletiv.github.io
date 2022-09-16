@@ -243,7 +243,7 @@ I was a Mentor for the **Foundations of Artificial Intelligence and Machine Lear
 _May 2017 --- August 2018_
 
 ### [International Institute of Information Techonology (IIIT) - Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} - Research Fellow
-**Hyderabad, India** --- with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, Centre for Visual Information Technology, IIIT Hyderabad**
+**Hyderabad, India** --- with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"}, Centre for Visual Information Technology, IIIT Hyderabad
 
 - **Video Translation**
     - Generated videos of movies and educational tutorials of Andrew Ng in Indian languages by morphing lip movement
