@@ -3,7 +3,7 @@
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
   authors: <b>Vikram Voleti</b>, Alexia Jolicoeur-Martineau, Christopher Pal
   venue: <a href="https://neurips.cc/Conferences/2022" target="_blank">NeurIPS 2022</a>
-  number_link: 3
+  number_link: 4
   link1:
     url: https://arxiv.org/abs/2205.09853
     display: arXiv
@@ -13,6 +13,22 @@
   link3:
     url: https://github.com/voletiv/mcvd-pytorch
     display: Code
+  link3:
+    url: ../presentations/2022a_MCVD_Poster.png
+    display: Poster
+
+- title: Score-based Denoising Diffusion with Non-Isotropic Gaussian Noise Models
+  image: 2022d_NIDDPM.png
+#   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
+  authors: <b>Vikram Voleti</b>, Christopher Pal, Adam Oberman
+  venue: <a href="https://neurips.cc/Conferences/2022" target="_blank">NeurIPS 2022</a> <a href="https://score-based-methods-workshop.github.io/" target="_blank">Workshop on Score-Based Methods</a>
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/2210.12254
+    display: arXiv
+  link2:
+    url: ../presentations/2022d_NIDDPM_Poster.png
+    display: Poster
 
 - title: SMPL-IK - Learned Morphology-Aware Inverse Kinematics for AI Driven Artistic Workflows
   image: 2022c_SMPLIK.png
