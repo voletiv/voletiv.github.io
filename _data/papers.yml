@@ -3,7 +3,7 @@
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
   authors: <b>Vikram Voleti</b>, Alexia Jolicoeur-Martineau, Christopher Pal
   venue: <a href="https://neurips.cc/Conferences/2022" target="_blank">NeurIPS 2022</a>
-  number_link: 4
+  number_link: 5
   link1:
     url: https://arxiv.org/abs/2205.09853
     display: arXiv
@@ -16,6 +16,9 @@
   link4:
     url: ../presentations/2022a_MCVD_Poster.png
     display: Poster
+  link5:
+    url: https://docs.google.com/presentation/d/1HVcg-WGN76R7uIgj_dcIdxaQ2gp2ft7yuwqtKbfZKwI/edit?usp=sharing
+    display: slides
 
 - title: Score-based Denoising Diffusion with Non-Isotropic Gaussian Noise Models
   image: 2022d_NIDDPM.png
@@ -35,10 +38,16 @@
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
   authors: <b>Vikram Voleti</b>, Boris N. Oreshkin, Florent Bocquelet, Félix G. Harvey, Louis-Simon Ménard, Christopher Pal
   venue: <a href="https://sa2022.siggraph.org/en/" target="_blank">SIGGRAPH Asia 2022</a>
-  number_link: 1
+  number_link: 3
   link1:
     url: https://arxiv.org/abs/2208.08274
     display: arXiv
+  link2:
+    url: https://docs.google.com/presentation/d/1pyiol1HvLY5WP4Pm0bLGvxaimKAX1_uIH-q36DeFgeM/edit?usp=sharing
+    display: slides
+  link3:
+    url: https://www.youtube.com/watch?v=FixF406owB4
+    display: video
 
 - title: Multi-Resolution Continuous Normalizing Flows
   image: 2021d_NeurIPS2021_MRCNF.png

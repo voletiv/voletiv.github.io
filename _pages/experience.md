@@ -18,8 +18,18 @@ _August 2022 --- present_
 ### [Meta](https://about.facebook.com/){:target="_blank"} - Research Intern
 **Menlo Park, California, USA**
 
-I work with the [AI4AR](https://ai.facebook.com/blog/building-with-ai-across-all-of-meta/) team at [Meta](https://about.facebook.com/){:target="_blank"}.
+I work with the [AI4AR](https://ai.facebook.com/blog/building-with-ai-across-all-of-meta/) team at [Meta](https://about.facebook.com/){:target="_blank"} on video and 3D object generation.
 
+</div>
+
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila_purple.png">](https://mila.quebec/en/){:target="_blank"}
+
+_08/2018 --- present (anticipated 08/2023)_
+
+### [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}, Canada
+
+**Researcher pursuing PhD in Computer Science**
 </div>
 
 
@@ -35,6 +45,7 @@ I advise [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}, an early
 
 </div>
 
+<!-- 
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/guelph.png">](https://www.uoguelph.ca/engineering/){:target="_blank"}
@@ -47,7 +58,7 @@ _January 2020 --- present_
 I work in [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}'s lab on computer vision and deep learning.
 
 </div>
-
+ -->
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila_purple.png">](https://mila.quebec/en/){:target="_blank"}
@@ -96,7 +107,7 @@ _August 2022 --- present_
 ### [Meta](https://about.facebook.com/){:target="_blank"} - Research Intern
 **Menlo Park, California, USA**
 
-I work with the [AI4AR](https://ai.facebook.com/blog/building-with-ai-across-all-of-meta/) team at [Meta](https://about.facebook.com/){:target="_blank"}, hosted by [Yashar Mehdad](https://scholar.google.com/citations?user=hFKgapkAAAAJ&hl=en).
+I work with the [AI4AR](https://ai.facebook.com/blog/building-with-ai-across-all-of-meta/) team at [Meta](https://about.facebook.com/){:target="_blank"}, hosted by [Yashar Mehdad](https://scholar.google.com/citations?user=hFKgapkAAAAJ&hl=en). I work on video and 3D object generation.
 
 </div>
 
@@ -108,7 +119,7 @@ _October 2021 --- August 2022_
 ### [Unity Technologies](https://unity.com/labs){:target="_blank"} - MITACS Research Intern
 **Montreal, Canada**
 
-I am a MITACS Research Intern with the DeepPose team at [Unity Labs](https://unity.com/labs){:target="_blank"}, hosted by [Boris Oreshkin](https://scholar.google.ca/citations?user=48MBCeIAAAAJ&hl=en){:target="_blank"}. I work on 3D pose estimation and inverse kinematics from videos.
+I am a MITACS Research Intern with the DeepPose team at [Unity Labs](https://unity.com/labs){:target="_blank"}, hosted by [Boris Oreshkin](https://scholar.google.ca/citations?user=48MBCeIAAAAJ&hl=en){:target="_blank"}. I work on 3D human pose estimation and inverse kinematics from videos.
 
 | [SMPL-IK - Learned Morphology-Aware Inverse Kinematics for AI Driven Artistic Workflows](https://arxiv.org/abs/2208.08274){:target="_blank"}, *Vikram Voleti*, Boris N. Oreshkin, Florent Bocquelet, Félix G. Harvey, Louis-Simon Ménard, Christopher Pal - _[SIGGRAPH Asia 2022](https://sa2022.siggraph.org/en/){:target="_blank"}_ |
 </div>
