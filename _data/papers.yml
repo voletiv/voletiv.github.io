@@ -236,15 +236,15 @@
 #     url: 2018a_NCC.pdf
 #     display: pdf
 
-- title: Simple Real-Time Pattern Recognition for Industrial Automation
-  image: 2017_ICIDE.jpg
-  description: <ul><li>Optimization and implemention of vision and learning algorithms for faster pattern recognition</li></ul>
-  authors: <b>Vikram Voleti</b>, P. Mohan, S. Gupta, J. Iqbal
-  venue: International Conference on Industrial Design Engineering, ICIDE 2017
-  number_link: 1
-  link1:
-    url: 2017_ICIDE.pdf
-    display: pdf
+# - title: Simple Real-Time Pattern Recognition for Industrial Automation
+#   image: 2017_ICIDE.jpg
+#   description: <ul><li>Optimization and implemention of vision and learning algorithms for faster pattern recognition</li></ul>
+#   authors: <b>Vikram Voleti</b>, P. Mohan, S. Gupta, J. Iqbal
+#   venue: International Conference on Industrial Design Engineering, ICIDE 2017
+#   number_link: 1
+#   link1:
+#     url: 2017_ICIDE.pdf
+#     display: pdf
 
 - title: A Multimodal Approach for Image De-fencing and Depth Inpainting
   image: 2015_ICAPR.png
