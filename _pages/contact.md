@@ -10,7 +10,7 @@ permalink: /contact
 
 ## Contact
 
-<i class="fa fa-envelope"></i> vikram dot voleti at gmail com com
+<i class="fa fa-envelope"></i> vikram dot voleti at gmail dot com
 
 ---
 
