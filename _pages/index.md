@@ -9,7 +9,7 @@ permalink: /
 
 <!-- <br/> -->
 
-<img class="profile-picture" src="{{site.url}}{{site.baseurl}}/images/profile-picture/Vikram_Voleti_Mila.jpg" />
+<img class="profile-picture" src="{{site.url}}{{site.baseurl}}/images/profile-picture/Vikram_Voleti_Mila_flip.jpg" />
 
 I am a final year PhD candidate in Computer Science at [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}, I am supervised by [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}. My main research interests are at the intersection of computer vision and deep learning, my past research spans generative modeling and representation learning for image, video and 3D.
 <!-- My projects include score-based diffusion probabilistic models for video prediction, generation, interpolation; multi-resolution image generation; self-supervised video prediction using dynamical modelling; 3D human pose estimation and inverse kinematics from videos. -->
@@ -26,6 +26,8 @@ I graduated from the [Indian Institute of Technology (IIT), Kharagpur, India](ht
 ## Publications
 
 | <a href="{{ site.google_scholar_url }}" target="_blank" style="text-align:center; display:block"><i class="ai ai-google-scholar-square ai-3x"></i></a> |
+
+For a more complete list, please check my <a href="{{ site.google_scholar_url }}" target="_blank">Google Scholar <i class="ai ai-google-scholar-square ai-3x"></i></a> page.
 
 {% for publication in site.data.papers %}
 
