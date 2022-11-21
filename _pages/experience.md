@@ -24,17 +24,6 @@ I work with the [AI4AR](https://ai.facebook.com/blog/building-with-ai-across-all
 </div>
 
 <div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila_purple.png">](https://mila.quebec/en/){:target="_blank"}
-
-_08/2018 --- present (anticipated 08/2023)_
-
-### [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}, Canada
-
-**Researcher pursuing PhD in Computer Science**
-</div>
-
-
-<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/bluelion.jpeg">](https://bluelionlabs.com/){:target="_blank"}
 
 _October 2020 --- present_
@@ -70,7 +59,7 @@ _September 2018 --- present_
 
 **PhD, Computer Science; Supervisor: [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}**
 
-My research interests are broadly in generative models for images, video, 3D. I work on image, video and 3D generation using latent dynamics, and score-based diffusion models.
+My research interests are broadly in generative models and representation learning for images, video, 3D. I work on image, video and 3D generation using latent dynamics, and score-based diffusion models.
 </div>
 
 
@@ -79,7 +68,7 @@ My research interests are broadly in generative models for images, video, 3D. I 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila_purple.png">](https://mila.quebec/en/){:target="_blank"}
 
-_08/2018 --- present (anticipated 08/2023)_
+_Fall 2018 --- present (anticipated 08/2023)_
 
 ### [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}, Canada
 
