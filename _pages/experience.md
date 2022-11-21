@@ -5,10 +5,11 @@ excerpt: All the companies and places Vikram Voleti has worked at, and the jobs
 permalink: /experience
 ---
 
+| <a href="{{ site.google_scholar_url }}" target="_blank" style="text-align:center; display:block"><i class="ai ai-google-scholar-square ai-3x"></i></a> | <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" style="text-align:center; display:block"><i class="fa fa-linkedin ai-3x"></i></a> | <a href="https://github.com/{{ site.github_username }}" target="_blank" style="text-align:center; display:block"><i class="fa fa-github ai-3x"></i></a> |
+
 <img class="experience-main" src="{{site.url}}{{site.baseurl}}/images/experience/experience.png">
 
 # CURRENT
-
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/meta.png">](https://about.facebook.com/){:target="_blank"}
@@ -45,7 +46,7 @@ I advise [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}, an early
 
 </div>
 
-<!-- 
+<!--
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/guelph.png">](https://www.uoguelph.ca/engineering/){:target="_blank"}
@@ -203,7 +204,7 @@ I worked with the [Google AI Perception](https://ai.google/research/teams/percep
 _September 9-13, 2019_
 
 ### [4th IVADO / Mila Deep Learning School](http://mitliagkas.github.io/ift6390-ml-class-2019/){:target="_blank"} - Teaching Assistant
-**Montreal, Canada** 
+**Montreal, Canada**
 
 [Resources](https://github.com/mila-iqia/ivado-mila-dl-school-2019){:target="_blank"}
 </div>
@@ -406,4 +407,3 @@ I experimented with an FPGA, and measured the power consumption among the LookUp
 [Presentation](https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London/blob/master/An Automated Flow for Intra-Die Power Variation Measurement.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London){:target="_blank"} repository containing presentation, certificate, and recommendation letter from Prof. Peter Cheung
 
 </div>
-

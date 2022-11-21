@@ -25,7 +25,7 @@ I graduated from the [Indian Institute of Technology (IIT), Kharagpur, India](ht
 
 ## Publications
 
-| <a href="{{ site.google_scholar_url }}" target="_blank" style="text-align:center; display:block"><i class="ai ai-google-scholar-square ai-3x"></i></a> |
+<!-- | <a href="{{ site.google_scholar_url }}" target="_blank" style="text-align:center; display:block"><i class="ai ai-google-scholar-square ai-3x"></i></a> | -->
 
 For a more complete list, please check my <a href="{{ site.google_scholar_url }}" target="_blank">Google Scholar <i class="ai ai-google-scholar-square ai-3x"></i></a> page.
 
