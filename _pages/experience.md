@@ -138,6 +138,17 @@ _February 2021 --- April 2021_
 I was a co-organizer of the inaugural Ontario Workshop on Computer Vision 2021.
 </div>
 
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/bluelion.jpeg">](https://bluelionlabs.com/){:target="_blank"}
+
+_October 2020 --- present_
+
+### [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"} - AI Advisor
+**Waterloo, Canada**
+
+I advise [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}, an early-stage startup that provides technology to automatically monitor different organisms in water using machine learning.
+
+</div>
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/graphquon.png">](https://graphquon.github.io){:target="_blank"}
@@ -154,7 +165,7 @@ I was part of the organizing committee of GRAPHQUON 2020 (formerly MOTOGRAPH).
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/UdeM.jpg">](https://www.umontreal.ca/){:target="_blank"}
 
-_September 2020_
+_September 2020 --- December 2020_
 
 ### [Fundamentals of Machine Learning (IFT 6390)](http://mitliagkas.github.io/ift6390-ml-class/){:target="_blank"}, by [Ioannis Mitliagkas](http://mitliagkas.github.io/){:target="_blank"} - Teaching Assistant
 **University of Montreal, Montreal, Canada**
@@ -196,6 +207,13 @@ _September 9-13, 2019_
 **Montreal, Canada**
 
 [Resources](https://github.com/mila-iqia/ivado-mila-dl-school-2019){:target="_blank"}
+</div>
+
+
+_September 2019_
+
+### [Fundamentals of Machine Learning (IFT 6390)](http://mitliagkas.github.io/ift6390-ml-class/){:target="_blank"}, by [Ioannis Mitliagkas](http://mitliagkas.github.io/){:target="_blank"} - Teaching Assistant
+**University of Montreal, Montreal, Canada**
 </div>
 
 
