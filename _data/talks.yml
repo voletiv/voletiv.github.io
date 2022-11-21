@@ -1,3 +1,24 @@
+- title: (MVCD) Masked Conditional Video Diffusion
+  image: 20221201_NeurIPS_MCVD_Vikram_Voleti.png
+  date: December 1, 2022
+  venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
+  number_link: 1
+  link1:
+    url: https://docs.google.com/presentation/d/1HVcg-WGN76R7uIgj_dcIdxaQ2gp2ft7yuwqtKbfZKwI/edit?usp=sharing
+    display: slides
+
+- title: SMPL-IK - Learned Morphology-Aware Inverse Kinematics for AI Driven Artistic Workflows
+  image: 20221206_SIGGRAPH_SMPLIK_Vikram_Voleti.png
+  date: December 6, 2022
+  venue: <a href="https://sa2022.siggraph.org/en/" target="_blank">SIGGRAPH Asia</a>, Daegu, South Korea
+  number_link: 2
+  link1:
+    url: https://docs.google.com/presentation/d/1pyiol1HvLY5WP4Pm0bLGvxaimKAX1_uIH-q36DeFgeM/edit?usp=sharing
+    display: slides
+  link2:
+    url: https://www.youtube.com/watch?v=FixF406owB4&ab_channel=VikramVoleti
+    display: video
+
 - title: A tutorial on Score-based Denoising Diffusion Models
   image: 20220823_Mila_DDPM_Vikram_Voleti.png
   date: August 23, 2022
