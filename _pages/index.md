@@ -23,7 +23,7 @@ Previously, I was a MITACS Research Intern at [Unity Labs](https://unity.com/lab
 
 I graduated from the [Indian Institute of Technology (IIT), Kharagpur, India](http://www.iitkgp.ac.in/){:target="_blank"}, in 2014 with a Dual Degree (B.Tech. (H) + M.Tech.) in Electrical Engineering, my Master's specialization is Instrumentation and Signal Processing.
 
-## Research papers
+## PUBLICATIONS
 
 <!-- | <a href="{{ site.google_scholar_url }}" target="_blank" style="text-align:center; display:block"><i class="ai ai-google-scholar-square ai-3x"></i></a> | -->
 
