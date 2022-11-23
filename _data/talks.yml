@@ -2,10 +2,13 @@
   image: 20221201_NeurIPS_MCVD_Vikram_Voleti.png
   date: December 1, 2022
   venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
-  number_link: 1
+  number_link: 2
   link1:
     url: https://docs.google.com/presentation/d/1HVcg-WGN76R7uIgj_dcIdxaQ2gp2ft7yuwqtKbfZKwI/edit?usp=sharing
     display: slides
+  link2:
+    url: https://voletiv.github.io/docs/presentations/2022a_MCVD_Poster.png
+    display: poster
 
 - title: SMPL-IK - Learned Morphology-Aware Inverse Kinematics for AI Driven Artistic Workflows
   image: 20221206_SIGGRAPH_SMPLIK_Vikram_Voleti.png
@@ -19,17 +22,30 @@
     url: https://www.youtube.com/watch?v=FixF406owB4&ab_channel=VikramVoleti
     display: video
 
+- title: Tutorial on Normalizing Flows
+  image: 20221104_UdeM_Normalizing_Flows.png
+  date: Nov 4, 2022
+  venue: <a href="https://sites.google.com/mila.quebec/ift6135-a2022/course-description" target="_blank">Representation Learning</a> (course), Mila, University of Montreal, Canada
+  number_link: 1
+  link1:
+    url: https://www.dropbox.com/s/f589awnx5p3p0t3/Normalizing_flows.pdf?dl=0
+    display: slides
+
+
 - title: A tutorial on Score-based Denoising Diffusion Models
   image: 20220823_Mila_DDPM_Vikram_Voleti.png
   date: August 23, 2022
   venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
-  number_link: 2
+  number_link: 3
   link1:
     url: 20220823_Mila_DDPM_Vikram_Voleti.pdf
     display: pdf
   link2:
     url: https://docs.google.com/presentation/d/1WJPE0EthTweKtRoetyRv_PohWYi_mtdJZ_3OYjLq-wQ/edit?usp=sharing
     display: slides
+  link3:
+    url: https://bluejeans.com/s/GLA5Mr@ukM7/
+    display: video
 
 - title: Solving Video Tasks with Denoising Diffusion Models
   image: 20220812_Samsung_MCVD_Vikram_Voleti.png
@@ -68,29 +84,38 @@
   image: 20210215_Mila_Score_based_models_Vikram_Voleti.png
   date: February 15, 2021
   venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
-  number_link: 1
+  number_link: 2
   link1:
     url: 20210215_Mila_Score_based_models_Vikram_Voleti.pdf
     display: pdf
+  link2:
+    url: https://docs.google.com/presentation/d/1Vof9kuzYO9pIbLBw-ASggXk4d6crqoidUcRn7Z43usI/edit?usp=sharing
+    display: slides
 
 - title: Continuous Normalizing Flows
   image: 20200901_Mila_CNF_Vikram_Voleti.png
   date: September 01, 2020
   venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
-  number_link: 1
+  number_link: 2
   link1:
     url: 20200901_Mila_CNF_Vikram_Voleti.pdf
     display: pdf
+  link2:
+    url: https://docs.google.com/presentation/d/18H5hSKT4A-oZv2F12g5gS8kDNN581bpsBH-ZZFkN3zg/edit?usp=sharing
+    display: slides
 
 - title: GANs - the story so far
   image: 20200725_India_GANs_Vikram_Voleti.png
   date: July 25, 2020
   venue: <a href="https://sites.google.com/view/aisymposium2020/" target="_blank">Summer Symposium on AI Research</a>, India
-  number_link: 2
+  number_link: 3
   link1:
     url: 20200725_India_GANs_Vikram_Voleti.pdf
     display: pdf
   link2:
+    url: https://docs.google.com/presentation/d/1p1OGvGjHWuk7GRYbaGC0Twx0F6IoJHnfTcrZ0emG2Sg/edit?usp=sharing
+    display: slides
+  link3:
     url: https://www.youtube.com/watch?v=r4mfI7PKsPo
     display: video
 
@@ -98,10 +123,13 @@
   image: 20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti.png
   date: July 10, 2020
   venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
-  number_link: 2
+  number_link: 3
   link1:
     url: 20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti.pdf
     display: pdf
+  link2:
+    url: https://docs.google.com/presentation/d/1zWFX4KnP_4ABggeDgg8AQW_LLnQ3pl_esNTMpkiklN8/edit?usp=sharing
+    display: slides
   link2:
     url: https://drive.google.com/file/d/13o6wibXd5JmV4dZTV-ufmrARq1LIe02Y/view
     display: video
@@ -110,10 +138,13 @@
   image: 20200402_Guelph_Neural_ODEs_tutorial.png
   date: Apr 02, 2020
   venue: <a href="https://www.uoguelph.ca/engineering/" target="_blank">University of Guelph</a>, Canada
-  number_link: 1
+  number_link: 2
   link1:
     url: 20200402_Guelph_Neural_ODEs_tutorial.pdf
     display: pdf
+  link2:
+    url: https://docs.google.com/presentation/d/1V7MrZp7Ha3ZId5U84mQ9fTzKDk2QI2McIBgP7yTlbxc/edit?usp=sharing
+    display: slides
 
 - title: Simple Video Generation using Neural ODEs
   image: 20200107_IIITH_Simple_Video_Generation_using_Neural_ODEs.png
@@ -177,6 +208,9 @@
   link1:
     url: 20180226_Saarbrucken_MPI_Vikram_Voleti_MTP_Presentation.pdf
     display: pdf
+  link2:
+    url: https://docs.google.com/presentation/d/1kZQ-lyUXmF57GRmy0z9VzIzYznsaxuGwZKZKK_3ho_4/edit?usp=sharing
+    display: slides
 
 - title: Mathematics in Sanskrit Poetry
   image: 20180218_IIITH_Mathematics_in_Sanskrit_Poetry.png
@@ -191,10 +225,13 @@
   image: 20180202_IIITH_Intuition_behind_LSTMs.png
   date: Feb 02, 2018
   venue: <a href="http://cvit.iiit.ac.in/" target="_blank">IIIT Hyderabad</a>, India
-  number_link: 1
+  number_link: 2
   link1:
     url: 20180202_IIITH_Intuition_behind_LSTMs.pdf
     display: pdf
+  link2:
+    url: https://docs.google.com/presentation/d/1yVHblLlr4Fd9AdPngP2JRWMCCAgCO2FDHPYuN92lGd8/edit?usp=sharing
+    display: slides
 
 - title: Mathematics behind Backpropagation
   image: 20170908_IIITH_Mathematics_behind_Backpropagation.png

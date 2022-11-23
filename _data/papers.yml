@@ -214,7 +214,7 @@
 
 - title: Lip-Synchronization for Dubbed Instructional Videos
   image: 2018b_CVPRW.png
-  description: <ul><li>Video generation to morph lip movements of speakers to match new audio</li></ul>
+  # description: <ul><li>Video generation to morph lip movements of speakers to match new audio</li></ul>
   authors: <b>Vikram Voleti</b>, Abhishek Jha, Vinay P. Namboodiri, C. V. Jawahar
   venue: <a href="http://cvpr2018.thecvf.com/program/workshops" target="_blank">CVPR 2018</a> Workshop (<a href="http://fiver.eecs.umich.edu" target="_blank">FIVER</a>)
   number_link: 2
@@ -248,7 +248,7 @@
 
 - title: A Multimodal Approach for Image De-fencing and Depth Inpainting
   image: 2015_ICAPR.png
-  description: <ul><li>Elimination of fence-like occlusions, inpainting of images using RGB-D data</li></ul>
+  # description: <ul><li>Elimination of fence-like occlusions, inpainting of images using RGB-D data</li></ul>
   authors: S. Jonna, <b>Vikram Voleti</b>, R. R. Sahay
   venue: International Conference on Advances in Pattern Recognition, ICAPR 2015
   number_link: 2
