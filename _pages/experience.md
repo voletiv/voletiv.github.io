@@ -211,6 +211,8 @@ _September 9-13, 2019_
 </div>
 
 
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/UdeM.jpg">](https://www.umontreal.ca/){:target="_blank"}
 _September 2019_
 
 ### [Fundamentals of Machine Learning (IFT 6390)](http://mitliagkas.github.io/ift6390-ml-class/){:target="_blank"}, by [Ioannis Mitliagkas](http://mitliagkas.github.io/){:target="_blank"} - Teaching Assistant
