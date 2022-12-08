@@ -7,7 +7,7 @@ permalink: /CV
 
 <iframe src="https://voletiv.github.io/docs/cv/Vikram_Voleti_CV.pdf"
     width="100%"
-    height="800px"
+    height="100%"
     frameborder="0" 
     marginheight="0" 
     marginwidth="0"
