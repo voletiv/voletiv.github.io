@@ -75,6 +75,15 @@
     url: https://openreview.net/forum?id=nRj0NcmSuxb
     display: OpenReview
 
+- title: Plankton-FL - Exploration of Federated Learning for Privacy-Preserving Training of Deep Neural Networks for Phytoplankton Classification
+  image: 2022f_PlanktonFL.png
+  authors: Daniel Zhang, <b>Vikram Voleti</b>, Alexander Wong, Jason Deglint
+  venue: <a href="https://cvis2022.github.io/" target="_blank">CVIS 2022</a>
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2212.08990
+    display: arXiv
+
 - title: Generative Models of Brain Dynamics - A Review
   image: 2022b_Brain.png
   authors: Mahta Ramezanian Panahi, Germán Abrevaya, Jean-Christophe Gagnon-Audet, <b>Vikram Voleti</b>, Irina Rish, Guillaume Dumas
@@ -84,14 +93,13 @@
     url: https://arxiv.org/abs/2112.12147
     display: arXiv
 
-- title: Frustratingly Easy Uncertainty Estimation for Distribution Shift
-  image: 2021f_NeurIPS2021_Calibration.png
-#   description: <ul><li>Using a post-hoc calibration method to improve predictive uncertainty</li></ul>
-  authors: Tiago Salvador, <b>Vikram Voleti</b>, Alexander Iannantuono, Adam Oberman
-  venue: Pre-print
+- title: Towards Generating Large Synthetic Phytoplankton Datasets for Efficient Monitoring of Harmful Algal Blooms
+  image: 2022e_HAB.png
+  authors: Nitpreet Bamra, <b>Vikram Voleti</b>, Alexander Wong, Jason Deglint
+  venue: <a href="https://aaai.org/Symposia/Fall/fss22.php" target="_blank">AAAI 2022 Fall Symposium</a>
   number_link: 1
   link1:
-    url: https://arxiv.org/abs/2106.03762
+    url: https://arxiv.org/abs/2208.02332
     display: arXiv
 
 - title: Improving Continuous Normalizing Flows using a Multi-Resolution Framework
@@ -121,6 +129,16 @@
   link4:
     url: 2020g_ICLR2021_gradSim.pdf
     display: pdf
+
+- title: Frustratingly Easy Uncertainty Estimation for Distribution Shift
+  image: 2021f_NeurIPS2021_Calibration.png
+#   description: <ul><li>Using a post-hoc calibration method to improve predictive uncertainty</li></ul>
+  authors: Tiago Salvador, <b>Vikram Voleti</b>, Alexander Iannantuono, Adam Oberman
+  venue: Pre-print
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2106.03762
+    display: arXiv
 
 - title: Accounting for Variance in Machine Learning Benchmarks
   image: 2021a_MLSys2021_Variance_in_ML_Benchmarks.png
