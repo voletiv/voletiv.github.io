@@ -102,6 +102,15 @@
     url: https://arxiv.org/abs/2208.02332
     display: arXiv
 
+- title: SALT - Sea lice Adaptive Lattice Tracking--An Unsupervised Approach to Generate an Improved Ocean Model
+  image: 2022g_SALT.png
+  authors: Ju An Park, <b>Vikram Voleti</b>, Kathryn E Thomas, Alexander Wong, Jason L Deglint
+  venue: Pre-print
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2106.13202
+    display: arXiv
+
 - title: Improving Continuous Normalizing Flows using a Multi-Resolution Framework
   image: 2021d_NeurIPS2021_MRCNF.png
   authors: <b>Vikram Voleti</b>, Chris Finlay, Adam Oberman, Christopher Pal
