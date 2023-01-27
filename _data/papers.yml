@@ -1,5 +1,5 @@
 - title: (MCVD) Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
-  image: 2022a_MCVD.png
+  image: 2022a_MCVD.gif
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
   authors: <b>Vikram Voleti</b>, Alexia Jolicoeur-Martineau, Christopher Pal
   venue: <a href="https://neurips.cc/Conferences/2022" target="_blank">NeurIPS 2022</a>
@@ -34,7 +34,7 @@
     display: Poster
 
 - title: SMPL-IK - Learned Morphology-Aware Inverse Kinematics for AI Driven Artistic Workflows
-  image: 2022c_SMPLIK.png
+  image: 2022c_SMPLIK.gif
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
   authors: <b>Vikram Voleti</b>, Boris N. Oreshkin, Florent Bocquelet, Félix G. Harvey, Louis-Simon Ménard, Christopher Pal
   venue: <a href="https://sa2022.siggraph.org/en/" target="_blank">SIGGRAPH Asia 2022</a>
