@@ -1,7 +1,7 @@
 - title: (MCVD) Masked Conditional Video Diffusion
   image: 20221201_NeurIPS_MCVD_Vikram_Voleti.png
   date: December 1, 2022
-  venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
+  venue: <a href="https://neurips.cc/" target="_blank">NeurIPS 2022</a>, New Orleans, USA
   number_link: 2
   link1:
     url: https://docs.google.com/presentation/d/1HVcg-WGN76R7uIgj_dcIdxaQ2gp2ft7yuwqtKbfZKwI/edit?usp=sharing
@@ -57,6 +57,15 @@
     display: pdf
   link2:
     url: https://docs.google.com/presentation/d/1vXhJP52Le3KCLnySgcb70Ni3XshPN-C9sS8E17UUpqs/edit?usp=sharing
+    display: slides
+
+- title: (MCVD) Masked Conditional Video Diffusion
+  image: 20221201_NeurIPS_MCVD_Vikram_Voleti.png
+  date: May 10, 2022
+  venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
+  number_link: 1
+  link1:
+    url: https://docs.google.com/presentation/d/1HVcg-WGN76R7uIgj_dcIdxaQ2gp2ft7yuwqtKbfZKwI/edit?usp=sharing
     display: slides
 
 - title: Denoising Diffusion GANs
