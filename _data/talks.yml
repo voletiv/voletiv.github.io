@@ -1,3 +1,12 @@
+- title: Diffusion models for solving video tasks
+  image: 20230202_INRIA_MCVD_Vikram_Voleti.png
+  date: December 1, 2022
+  venue: <a href="https://inria.fr/en" target="_blank">INRIA</a>, France
+  number_link: 1
+  link1:
+    url: https://docs.google.com/presentation/d/17sBMzmuuMrzPk9NS6Oa9JPok8k9eEomjDxG7927MVec/edit?usp=sharing
+    display: slides
+
 - title: (MCVD) Masked Conditional Video Diffusion
   image: 20221201_NeurIPS_MCVD_Vikram_Voleti.png
   date: December 1, 2022
