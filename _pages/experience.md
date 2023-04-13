@@ -11,30 +11,6 @@ permalink: /experience
 
 # CURRENT
 
-<div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/meta.png">](https://about.facebook.com/){:target="_blank"}
-
-_August 2022 --- present_
-
-### [Meta](https://about.facebook.com/){:target="_blank"} - Research Intern
-**Menlo Park, California, USA**
-
-I work with the [AI4AR](https://ai.facebook.com/blog/building-with-ai-across-all-of-meta/) team at [Meta](https://about.facebook.com/){:target="_blank"} on video and 3D object generation.
-
-</div>
-
-<div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/bluelion.jpeg">](https://bluelionlabs.com/){:target="_blank"}
-
-_October 2020 --- present_
-
-### [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"} - AI Advisor
-**Waterloo, Canada**
-
-I advise [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}, an early-stage startup that provides technology to automatically monitor different organisms in water using machine learning.
-
-</div>
-
 <!--
 
 <div class="experience-box" markdown="1">
@@ -51,6 +27,18 @@ I work in [Prof. Graham Taylor](https://www.gwtaylor.ca/){:target="_blank"}'s la
  -->
 
 <div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/stability_ai.png">](https://stability.ai/){:target="_blank"}
+
+_April 2023 --- present_
+
+### [Stability AI](https://stability.ai/){:target="_blank"} - Research Scientist
+**Canada (Remote)**
+
+I lead AI research and development on generating 3D objects, images, videos from text
+
+</div>
+
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila_purple.png">](https://mila.quebec/en/){:target="_blank"}
 
 _September 2018 --- present_
@@ -60,6 +48,18 @@ _September 2018 --- present_
 **PhD, Computer Science; Supervisor: [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}**
 
 My research interests are broadly in generative models and representation learning for images, video, 3D. I work on image, video and 3D generation using latent dynamics, and score-based diffusion models.
+</div>
+
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/bluelion.jpeg">](https://bluelionlabs.com/){:target="_blank"}
+
+_October 2020 --- present_
+
+### [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"} - AI Advisor
+**Waterloo, Canada**
+
+I advise [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}, an early-stage startup that provides technology to automatically monitor different organisms in water using machine learning.
+
 </div>
 
 
@@ -90,16 +90,33 @@ _2009 --- 2014_
 # EXPERIENCE
 
 <div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/stability_ai.png">](https://stability.ai/){:target="_blank"}
+
+_April 2023 --- present_
+
+### [Stability AI](https://stability.ai/){:target="_blank"} - Research Scientist
+**Canada (Remote)**
+
+I lead AI research and development on generating 3D objects, images, videos from text
+
+</div>
+
+
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/meta.png">](https://about.facebook.com/){:target="_blank"}
 
-_August 2022 --- present_
+_August 2022 --- February 2023_
 
 ### [Meta](https://about.facebook.com/){:target="_blank"} - Research Intern
 **Menlo Park, California, USA**
 
-I work with the [AI4AR](https://ai.facebook.com/blog/building-with-ai-across-all-of-meta/) team at [Meta](https://about.facebook.com/){:target="_blank"}, hosted by [Yashar Mehdad](https://scholar.google.com/citations?user=hFKgapkAAAAJ&hl=en). I work on video and 3D object generation.
+I worked with the [AI4AR](https://ai.facebook.com/blog/building-with-ai-across-all-of-meta/) team at [Meta](https://about.facebook.com/){:target="_blank"}, hosted by [Yashar Mehdad](https://scholar.google.com/citations?user=hFKgapkAAAAJ&hl=en).
+• Led the technology development for generating 3D objects, videos from text; dreamfusion, NeRF
+• Applied expertise at neural graphics for 3D rendering; implemented hands-on in PyTorch
+• International AI team; technology transitioned into a Meta end product, adopted by other teams
 
 </div>
+
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/unity.png">](https://unity.com/labs){:target="_blank"}
@@ -109,7 +126,7 @@ _October 2021 --- August 2022_
 ### [Unity Technologies](https://unity.com/labs){:target="_blank"} - MITACS Research Intern
 **Montreal, Canada**
 
-I am a MITACS Research Intern with the DeepPose team at [Unity Labs](https://unity.com/labs){:target="_blank"}, hosted by [Boris Oreshkin](https://scholar.google.ca/citations?user=48MBCeIAAAAJ&hl=en){:target="_blank"}. I work on 3D human pose estimation and inverse kinematics from videos.
+I am a MITACS Research Intern with the DeepPose team at [Unity Labs](https://unity.com/labs){:target="_blank"}, hosted by [Boris Oreshkin](https://scholar.google.ca/citations?user=48MBCeIAAAAJ&hl=en){:target="_blank"}. I worked on 3D human pose estimation and inverse kinematics from videos.
 
 | [SMPL-IK - Learned Morphology-Aware Inverse Kinematics for AI Driven Artistic Workflows](https://arxiv.org/abs/2208.08274){:target="_blank"}, *Vikram Voleti*, Boris N. Oreshkin, Florent Bocquelet, Félix G. Harvey, Louis-Simon Ménard, Christopher Pal - _[SIGGRAPH Asia 2022](https://sa2022.siggraph.org/en/){:target="_blank"}_ |
 
