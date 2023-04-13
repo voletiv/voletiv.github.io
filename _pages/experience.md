@@ -434,3 +434,4 @@ I experimented with an FPGA, and measured the power consumption among the LookUp
 [Presentation](https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London/blob/master/An Automated Flow for Intra-Die Power Variation Measurement.pdf){:target="_blank"} | [GitHub](https://github.com/voletiv/summer_2011_FPGA_Imperial_College_London){:target="_blank"} repository containing presentation, certificate, and recommendation letter from Prof. Peter Cheung
 
 </div>
+
