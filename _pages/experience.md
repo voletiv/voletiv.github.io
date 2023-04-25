@@ -300,7 +300,7 @@ _May 2017 --- August 2018_
 
 
 <div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/gor.png">](http://www.greyorange.com/){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/greyorange_logo.png">](http://www.greyorange.com/){:target="_blank"}
 
 _Feb 2016 --- May 2017_
 
