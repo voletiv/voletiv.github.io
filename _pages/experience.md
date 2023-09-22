@@ -38,17 +38,17 @@ I lead AI research and development on generating 3D objects, images, videos from
 
 </div>
 
-<div class="experience-box" markdown="1">
+<!-- <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila_purple.png">](https://mila.quebec/en/){:target="_blank"}
 
-_September 2018 --- present_
+_September 2018 --- September 2023_
 
 ### [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"} - PhD candidate
 
 **PhD, Computer Science; Supervisor: [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}**
 
 My research interests are broadly in generative models and representation learning for images, video, 3D. I work on image, video and 3D generation using latent dynamics, and score-based diffusion models.
-</div>
+</div> -->
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/bluelion.jpeg">](https://bluelionlabs.com/){:target="_blank"}
@@ -68,7 +68,7 @@ I advise [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}, an early
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila_purple.png">](https://mila.quebec/en/){:target="_blank"}
 
-_Fall 2018 --- present (anticipated 08/2023)_
+_2018 --- 2023_
 
 ### [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"}, Canada
 
