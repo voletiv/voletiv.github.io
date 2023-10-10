@@ -1,3 +1,17 @@
+- title: Ph.D. thesis talk - Conditional generative modeling for images, 3D animations, and video
+  image: 20230912_UdeM_PhD_thesis_Vikram_Voleti.png
+  date: Sep 12, 2023
+  venue: <a href="https://diro.umontreal.ca/" target="_blank">University of Montreal</a>, Canada
+  number_link: 2
+  link1:
+    url: https://docs.google.com/presentation/d/1TOhPpjHXGR5OOGsxIATl6ldBm2LDuf11Uwro2_V_aLI/edit?usp=sharing
+    display: slides
+  link2:
+    url: Voleti_Vikram_2023_these.pdf
+    display: pdf
+
+/Users/vikramvoleti/Downloads/Voleti_Vikram_2023_these.pdf
+
 - title: Diffusion models for solving video tasks
   image: 20230202_INRIA_MCVD_Vikram_Voleti.png
   date: Mar 6, 2023
