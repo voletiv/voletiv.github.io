@@ -1,14 +1,29 @@
+- title: A tutorial on Score-based Denoising Diffusion Models
+  image: 20220823_Mila_DDPM_Vikram_Voleti.png
+  date:  Nov 24, 2023
+  venue: <a href="https://mila.quebec/en/" target="_blank">Mila</a>, Montreal, Canada
+  number_link: 2
+  link1:
+    url: 20220823_Mila_DDPM_Vikram_Voleti.pdf
+    display: pdf
+  link2:
+    url: https://docs.google.com/presentation/d/1WJPE0EthTweKtRoetyRv_PohWYi_mtdJZ_3OYjLq-wQ/edit?usp=sharing
+    display: slides
+
 - title: Ph.D. thesis talk - Conditional generative modeling for images, 3D animations, and video
   image: 20230912_UdeM_PhD_thesis_Vikram_Voleti.png
   date: Sep 12, 2023
   venue: <a href="https://diro.umontreal.ca/" target="_blank">University of Montreal</a>, Canada
-  number_link: 2
+  number_link: 3
   link1:
     url: https://docs.google.com/presentation/d/1TOhPpjHXGR5OOGsxIATl6ldBm2LDuf11Uwro2_V_aLI/edit?usp=sharing
     display: slides
   link2:
-    url: Voleti_Vikram_2023_these.pdf
-    display: pdf
+    url: https://arxiv.org/abs/2310.13157
+    display: arXiv
+  link3:
+    url: https://papyrus.bib.umontreal.ca/xmlui/handle/1866/32123
+    display: University of Montreal
 
 - title: Diffusion models for solving video tasks
   image: 20230202_INRIA_MCVD_Vikram_Voleti.png
@@ -60,7 +75,6 @@
   link1:
     url: https://www.dropbox.com/s/f589awnx5p3p0t3/Normalizing_flows.pdf?dl=0
     display: slides
-
 
 - title: A tutorial on Score-based Denoising Diffusion Models
   image: 20220823_Mila_DDPM_Vikram_Voleti.png

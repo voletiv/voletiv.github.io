@@ -1,3 +1,62 @@
+- title: (SVD) Stable video diffusion - Scaling latent video diffusion models to large datasets
+  image: 2023_svd.gif
+  authors: Andreas Blattmann, Tim Dockhorn, Sumith Kulal, Daniel Mendelevitch, Maciej Kilian, Dominik Lorenz, Yam Levi, Zion English, <b>Vikram Voleti</b>, Adam Letts, Varun Jampani, Robin Rombach
+  # venue: <a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2022</a>
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2311.15127
+    display: arXiv
+  link2:
+    url: https://stability.ai/news/stable-video-diffusion-open-ai-video-model
+    display: Stability
+  link3:
+    url: https://huggingface.co/docs/diffusers/main/en/using-diffusers/svd
+    display: HuggingFace
+
+- title: Objaverse-XL - A Universe of 10M+ 3D Objects
+  image: 2023_objaversexl.png
+  authors: Matt Deitke, Ruoshi Liu, Matthew Wallingford, Huong Ngo, Oscar Michel, Aditya Kusupati, Alan Fan, Christian Laforte, <b>Vikram Voleti</b>, Samir Yitzhak Gadre, Eli VanderBilt, Aniruddha Kembhavi, Carl Vondrick, Georgia Gkioxari, Kiana Ehsani, Ludwig Schmidt, Ali Farhadi
+  venue: <a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2023</a>
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2307.05663
+    display: arXiv
+  link2:
+    url: https://objaverse.allenai.org/
+    display: Website
+  link3:
+    url: https://github.com/allenai/objaverse-xl
+    display: GitHub
+
+- title: Are Diffusion Models Vision-And-Language Reasoners?
+  image: 2023_diffusionitm.png
+  authors: Benno Krojer, Elinor Poole-Dayan, <b>Vikram Voleti</b>, Christopher Pal, Siva Reddy
+  venue: <a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2023</a>
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2305.16397
+    display: arXiv
+
+- title: PhD Thesis - Conditional Generative Modeling for Images, 3D Animations, and Video
+  image: 2023_UdeM.jpg
+  authors: <b>Vikram Voleti</b>
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/2310.13157
+    display: arXiv
+  link2:
+    url: https://papyrus.bib.umontreal.ca/xmlui/handle/1866/32123
+    display: University of Montreal
+
+- title: Score-based Diffusion Models in Function Space
+  image: 2023_func.png
+  authors: Jae Hyun Lim, Nikola B. Kovachki, Ricardo Baptista, Christopher Beckham, Kamyar Azizzadenesheli, Jean Kossaifi, <b>Vikram Voleti</b>, Jiaming Song, Karsten Kreis, Jan Kautz, Christopher Pal, Arash Vahdat, Anima Anandkumar
+  # venue: <a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2023</a>
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2302.07400
+    display: arXiv
+
 - title: (MCVD) Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
   image: 2022a_MCVD.gif
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>

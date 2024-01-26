@@ -1,4 +1,22 @@
-- title: Image De-fencing using Microsoft Kinect (Master's Thesis)
+- title: Ph.D. Thesis - Conditional Generative Modeling for Images, 3D Animations, and Video
+  image: 2023_UdeM.jpg
+  description: <ul>
+               <li>Image generation using Multi-Resolution Continuous Normalizing Flows
+               <li>Image generation using Non-Isotropic Denoising Diffusion Models</li>
+               <li>3D animation using neural inverse kinematics with 3D human pose prior</li>
+               <li>Video prediction using Neural ODEs</li>
+               <li>Video prediction, generation, interpolation using Masked Conditional Video Diffusion models</li>
+               </ul>
+  venue: University of Montreal, Canada
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/2310.13157
+    display: arXiv
+  link2:
+    url: https://papyrus.bib.umontreal.ca/xmlui/handle/1866/32123
+    display: University of Montreal
+
+- title: Master's Thesis - Image De-fencing using Microsoft Kinect
   image: mtp_rect.jpg
   description: <ul>
                <li>Elimination of fence-like occlusions, inpainting of images using RGB-D data</li>
@@ -18,7 +36,7 @@
     url: https://github.com/voletiv/MTP_inPainting
     display: GitHub
 
-- title: Determination of Time Offset between Audio and Video (Bachelor's Thesis)
+- title: Bachelor's Thesis - Determination of Time Offset between Audio and Video
   image: btp.png
   description: <ul>
                <li>Measurement of synchronization between audio and video using bilabial cues in both modes</li>

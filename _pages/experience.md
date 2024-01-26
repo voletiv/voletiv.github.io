@@ -103,6 +103,23 @@ I lead AI research and development on generating 3D objects, images, videos from
 
 
 <div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mila_purple.png">](https://mila.quebec/en/){:target="_blank"}
+
+_2018 --- 2023_
+
+### [Mila](https://mila.quebec/en/){:target="_blank"}, [University of Montreal](https://diro.umontreal.ca/){:target="_blank"} - Ph.D. student
+**Montreal, Canada**
+
+- Image generation using Multi-Resolution Continuous Normalizing Flows
+- Image generation using Non-Isotropic Denoising Diffusion Models
+- 3D animation using neural inverse kinematics with 3D human pose prior
+- Video prediction using Neural ODEs
+- Video prediction, generation, interpolation using Masked Conditional Video Diffusion models
+
+</div>
+
+
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/meta.png">](https://about.facebook.com/){:target="_blank"}
 
 _August 2022 --- February 2023_
