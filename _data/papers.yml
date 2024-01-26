@@ -40,11 +40,14 @@
 - title: PhD Thesis - Conditional Generative Modeling for Images, 3D Animations, and Video
   # image: 2023_UdeM.jpg
   authors: <b>Vikram Voleti</b>
-  number_link: 2
+  number_link: 3
   link1:
+    url: https://docs.google.com/presentation/d/1TOhPpjHXGR5OOGsxIATl6ldBm2LDuf11Uwro2_V_aLI/edit?usp=sharing
+    display: slides
+  link2:
     url: https://arxiv.org/abs/2310.13157
     display: arXiv
-  link2:
+  link3:
     url: https://papyrus.bib.umontreal.ca/xmlui/handle/1866/32123
     display: University of Montreal
 
