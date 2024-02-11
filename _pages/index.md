@@ -1,7 +1,6 @@
 ---
 title: Vikram Voleti
 layout: default
-excerpt: Home page of Vikram Voleti's website
 permalink: /
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Vikram Voleti's talks
 layout: default
-excerpt: Vikram Voleti's talks
 permalink: /talks
 ---
 

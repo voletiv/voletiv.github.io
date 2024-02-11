@@ -1,7 +1,6 @@
 ---
 title: Vikram Voleti's work experience
 layout: default
-excerpt: All the companies and places Vikram Voleti has worked at, and the jobs
 permalink: /experience
 ---
 
