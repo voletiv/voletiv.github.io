@@ -37,6 +37,21 @@
     url: https://arxiv.org/abs/2305.16397
     display: arXiv
 
+- title: threestudio - a modular framework for diffusion-guided 3D generation
+  image: 2023_threestudio.png
+  authors: Ying-Tian Liu, Yuan-Chen Guom <b>Vikram Voleti</b>, Ruizhi Shao, Chia-Hao Chen, Guan Luo, Zixin Zou, Chen Wang, Christian Laforte, Yan-Pei Cao, Song-Hai Zhang
+  venue: <a href="https://iccv2023.thecvf.com/" target="_blank">ICCV 2023</a> <a href="https://ai3dcc.github.io/" target="_blank">workshop</a>
+  number_link: 3
+  link1:
+    url: https://github.com/threestudio-project/threestudio
+    display: GitHub
+  link2:
+    url: https://cg.cs.tsinghua.edu.cn/threestudio/ICCV2023_AI3DCC_threestudio.pdf
+    display: PDF
+  link3:
+    url: 20231006_threestudio.pdf
+    display: pdf
+
 - title: PhD Thesis - Conditional Generative Modeling for Images, 3D Animations, and Video
   image: 2023_UdeM.jpg
   authors: <b>Vikram Voleti</b>
