@@ -39,7 +39,7 @@
 
 - title: threestudio - a modular framework for diffusion-guided 3D generation
   image: 2023_threestudio.png
-  authors: Ying-Tian Liu, Yuan-Chen Guom <b>Vikram Voleti</b>, Ruizhi Shao, Chia-Hao Chen, Guan Luo, Zixin Zou, Chen Wang, Christian Laforte, Yan-Pei Cao, Song-Hai Zhang
+  authors: Ying-Tian Liu, Yuan-Chen Guo, <b>Vikram Voleti</b>, Ruizhi Shao, Chia-Hao Chen, Guan Luo, Zixin Zou, Chen Wang, Christian Laforte, Yan-Pei Cao, Song-Hai Zhang
   venue: <a href="https://iccv2023.thecvf.com/" target="_blank">ICCV 2023</a> <a href="https://ai3dcc.github.io/" target="_blank">workshop</a>
   number_link: 3
   link1:
