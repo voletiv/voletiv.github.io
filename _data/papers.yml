@@ -1,3 +1,19 @@
+- title: SV3D - Novel multi-view synthesis and 3D generation from a single image using latent video diffusion
+  image: 2024_sv3d.gif
+  authors: <b>Vikram Voleti</b>, Chun-Han Yao, Mark Boss, Adam Letts, David Pankratz, Dmitry Tochilkin, Christian Laforte, Robin Rombach, Varun Jampani
+  # venue: <a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2022</a>
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2403.12008
+    display: arXiv
+  link2:
+    url: https://stability.ai/news/introducing-stable-video-3d
+    display: Stability
+  link3:
+    url: https://huggingface.co/stabilityai/sv3d
+    display: HuggingFace
+
+
 - title: (SVD) Stable video diffusion - Scaling latent video diffusion models to large datasets
   image: 2023_svd.gif
   authors: Andreas Blattmann, Tim Dockhorn, Sumith Kulal, Daniel Mendelevitch, Maciej Kilian, Dominik Lorenz, Yam Levi, Zion English, <b>Vikram Voleti</b>, Adam Letts, Varun Jampani, Robin Rombach
@@ -130,7 +146,7 @@
   image: 2021d_NeurIPS2021_MRCNF.png
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
   authors: <b>Vikram Voleti</b>, Chris Finlay, Adam Oberman, Christopher Pal
-  venue: Submitted to a journal
+  venue: Annals of Mathematics and Artificial Intelligence, 2024
   number_link: 1
   link1:
     url: https://arxiv.org/abs/2106.08462
