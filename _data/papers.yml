@@ -1,15 +1,42 @@
+- title: SV4D - Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency
+  image: 2024_sv4d.gif
+  authors: Yiming Xie, Chun-Han Yao, <b>Vikram Voleti</b>, Huaizu Jiang, Varun Jampani
+  # venue: <a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2022</a>
+  number_link: 5
+  link1:
+    url: https://sv4d.github.io
+    display: Project
+  link2:
+    url: https://arxiv.org/abs/2407.17470
+    display: arXiv
+  link3:
+    url: https://www.youtube.com/watch?v=RBP8vdAWTgk
+    display: Video
+  link4:
+    url: https://stability.ai/news/stable-video-4d
+    display: Stability
+  link5:
+    url: https://huggingface.co/stabilityai/sv4d
+    display: HuggingFace
+
 - title: SV3D - Novel multi-view synthesis and 3D generation from a single image using latent video diffusion
   image: 2024_sv3d.gif
   authors: <b>Vikram Voleti</b>, Chun-Han Yao, Mark Boss, Adam Letts, David Pankratz, Dmitry Tochilkin, Christian Laforte, Robin Rombach, Varun Jampani
   # venue: <a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2022</a>
-  number_link: 3
+  number_link: 5
   link1:
+    url: https://sv3d.github.io
+    display: Project
+  link2:
     url: https://arxiv.org/abs/2403.12008
     display: arXiv
-  link2:
+  link3:
+    url: https://www.youtube.com/watch?v=Zqw4-1LcfWg
+    display: Video
+  link4:
     url: https://stability.ai/news/introducing-stable-video-3d
     display: Stability
-  link3:
+  link5:
     url: https://huggingface.co/stabilityai/sv3d
     display: HuggingFace
 
