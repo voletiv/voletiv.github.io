@@ -19,6 +19,15 @@
     url: https://huggingface.co/stabilityai/sv4d
     display: HuggingFace
 
+- title: HouseCrafter - Lifting Floorplans to 3D Scenes with 2D Diffusion Model
+  image: 2024_housecrafter.png
+  authors: Hieu T Nguyen, Yiwen Chen, <b>Vikram Voleti</b>, Varun Jampani, Huaizu Jiang
+  # venue: <a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2022</a>
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2406.20077
+    display: arXiv
+
 - title: SV3D - Novel multi-view synthesis and 3D generation from a single image using latent video diffusion
   image: 2024_sv3d.gif
   authors: <b>Vikram Voleti</b>, Chun-Han Yao, Mark Boss, Adam Letts, David Pankratz, Dmitry Tochilkin, Christian Laforte, Robin Rombach, Varun Jampani
@@ -40,7 +49,6 @@
     url: https://huggingface.co/stabilityai/sv3d
     display: HuggingFace
 
-
 - title: (SVD) Stable video diffusion - Scaling latent video diffusion models to large datasets
   image: 2023_svd.gif
   authors: Andreas Blattmann, Tim Dockhorn, Sumith Kulal, Daniel Mendelevitch, Maciej Kilian, Dominik Lorenz, Yam Levi, Zion English, <b>Vikram Voleti</b>, Adam Letts, Varun Jampani, Robin Rombach
@@ -55,6 +63,16 @@
   link3:
     url: https://huggingface.co/docs/diffusers/main/en/using-diffusers/svd
     display: HuggingFace
+
+- title: Multi-Resolution Continuous Normalizing Flows
+  image: 2021d_NeurIPS2021_MRCNF.png
+#   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
+  authors: <b>Vikram Voleti</b>, Chris Finlay, Adam Oberman, Christopher Pal
+  venue: Annals of Mathematics and Artificial Intelligence, 2024
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2106.08462
+    display: arXiv
 
 - title: Objaverse-XL - A Universe of 10M+ 3D Objects
   image: 2023_objaversexl.png
@@ -168,16 +186,6 @@
   link3:
     url: https://www.youtube.com/watch?v=FixF406owB4
     display: video
-
-- title: Multi-Resolution Continuous Normalizing Flows
-  image: 2021d_NeurIPS2021_MRCNF.png
-#   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
-  authors: <b>Vikram Voleti</b>, Chris Finlay, Adam Oberman, Christopher Pal
-  venue: Annals of Mathematics and Artificial Intelligence, 2024
-  number_link: 1
-  link1:
-    url: https://arxiv.org/abs/2106.08462
-    display: arXiv
 
 - title: FairCal - Fairness Calibration for Face Verification
   image: 2021j_ICLR2022_FairCal.png
