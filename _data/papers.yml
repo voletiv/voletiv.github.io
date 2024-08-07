@@ -20,7 +20,7 @@
     display: HuggingFace
 
 - title: HouseCrafter - Lifting Floorplans to 3D Scenes with 2D Diffusion Model
-  image: 2024_housecrafter.png
+  image: 2024_housecrafter.gif
   authors: Hieu T Nguyen, Yiwen Chen, <b>Vikram Voleti</b>, Varun Jampani, Huaizu Jiang
   # venue: <a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2022</a>
   number_link: 1
