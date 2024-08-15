@@ -31,7 +31,7 @@
 - title: SV3D - Novel multi-view synthesis and 3D generation from a single image using latent video diffusion
   image: 2024_sv3d.gif
   authors: <b>Vikram Voleti</b>, Chun-Han Yao, Mark Boss, Adam Letts, David Pankratz, Dmitry Tochilkin, Christian Laforte, Robin Rombach, Varun Jampani
-  # venue: <a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2022</a>
+  venue: <a href="https://eccv2024.ecva.net/" target="_blank">ECCV 2024</a> Oral!
   number_link: 5
   link1:
     url: https://sv3d.github.io
