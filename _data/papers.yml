@@ -69,10 +69,13 @@
 #   description: <ul><li>Making a differentiable simulator, using it for self-supervised physics estimation from video</li></ul>
   authors: <b>Vikram Voleti</b>, Chris Finlay, Adam Oberman, Christopher Pal
   venue: Annals of Mathematics and Artificial Intelligence, 2024
-  number_link: 1
+  number_link: 2
   link1:
     url: https://arxiv.org/abs/2106.08462
     display: arXiv
+  link2:
+    url: https://link.springer.com/article/10.1007/s10472-024-09939-5
+    display: Springer
 
 - title: Objaverse-XL - A Universe of 10M+ 3D Objects
   image: 2023_objaversexl.png
