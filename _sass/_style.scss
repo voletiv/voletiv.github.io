@@ -138,9 +138,8 @@ ul#horizontal-list li {
   max-height: 1em;
   height: auto;
   width: auto;
-  vertical-align: middle;
-  margin: 0 4px;
-//   object-fit: contain;
+  vertical-align: -0.1em; /* tweak to eliminate gap */
+  margin: 0 2px;
 }
 
 /* Publications */
