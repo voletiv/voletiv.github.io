@@ -16,11 +16,11 @@ I completed my PhD in Computer Science at <img src="{{site.url}}{{site.baseurl}}
 <!-- My projects include score-based diffusion probabilistic models for video prediction, generation, interpolation; multi-resolution image generation; self-supervised video prediction using dynamical modelling; 3D human pose estimation and inverse kinematics from videos. -->
 
 <!-- I also work as an AI Advisor to [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}. -->
-Prior to that, I was a Research Intern at <img src="{{site.url}}{{site.baseurl}}/images/experience/meta2.png" alt="Meta" class="inline-logo">[Meta](https://meta.com),
+During my PhD, I worked as a Research Intern at <img src="{{site.url}}{{site.baseurl}}/images/experience/meta2.png" alt="Meta" class="inline-logo">[Meta](https://meta.com),
 <!-- where I worked on generation of video, 3D objects, 4D content from text. Before that, I was  a MITACS Research Intern at-->
 <img src="{{site.url}}{{site.baseurl}}/images/experience/unity_white.png" alt="Unity" class="inline-logo">[Unity Labs](https://unity.com/labs), and
 <!-- I worked on 3D human pose estimation and inverse kinematics from video. In Fall 2019, I was a Research Intern at  -->
-<img src="{{site.url}}{{site.baseurl}}/images/experience/Google__G__Logo.png" alt="Google" class="inline-logo">[Google](https://ai.google/research/teams/perception/){:target="_blank"}.
+<img src="{{site.url}}{{site.baseurl}}/images/experience/Google__G__Logo.png" alt="Google" class="inline-logo">[Google](https://ai.google/research/teams/perception/){:target="_blank"}. Prior to that, I worked in the engineering industry for 4 years.
  <!-- in the [Google AI Perception](https://ai.google/research/teams/perception/){:target="_blank"} team. -->
 <!-- In 2019 and 2020, I was an AI Scientist in Residence at [NextAI](https://www.nextcanada.com/next-ai/){:target="_blank"}. -->
 
