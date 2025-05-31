@@ -160,6 +160,7 @@ ul#horizontal-list li {
 .publication-picture {
     object-fit: cover;
     display: block;
+    position: relative;
     max-height: 30%;
     max-width: 15%;
     float: left;
@@ -173,6 +174,12 @@ ul#horizontal-list li {
 .publication-text {
     // margin-left: 24%;
     margin: 0px 20px 20px 25%;
+}
+
+.publications::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 // .publication-links {
