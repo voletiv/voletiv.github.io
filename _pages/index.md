@@ -37,7 +37,7 @@ For a more complete list, please check my <a href="{{ site.google_scholar_url }}
 
 <p>&nbsp;</p>
 
-## News
+<!-- ## News
 
 <table>
 {% for article in site.data.news %}
@@ -45,4 +45,4 @@ For a more complete list, please check my <a href="{{ site.google_scholar_url }}
 {% include news.html %}
 </tr>
 {% endfor %}
-</table>
+</table> -->
