@@ -49,18 +49,6 @@ _September 2018 --- September 2023_
 My research interests are broadly in generative models and representation learning for images, video, 3D. I work on image, video and 3D generation using latent dynamics, and score-based diffusion models.
 </div> -->
 
-<div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/bluelion.jpeg">](https://bluelionlabs.com/){:target="_blank"}
-
-_October 2020 --- present_
-
-### [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"} - AI Advisor
-**Waterloo, Canada**
-
-I advise [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"}, an early-stage startup that provides technology to automatically monitor different organisms in water using machine learning.
-
-</div>
-
 
 # EDUCATION
 
@@ -175,7 +163,7 @@ I was a co-organizer of the inaugural Ontario Workshop on Computer Vision 2021.
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/bluelion.jpeg">](https://bluelionlabs.com/){:target="_blank"}
 
-_October 2020 --- present_
+_October 2020 --- March 2025_
 
 ### [Blue Lion Labs](https://bluelionlabs.com/){:target="_blank"} - AI Advisor
 **Waterloo, Canada**
