@@ -1,3 +1,45 @@
+- title: SV4D 2.0 - Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation
+  image: 2025_sv4d20.gif
+  authors: Chun-Han Yao, Yiming Xie, <b>Vikram Voleti</b>, Huaizu Jiang, Varun Jampani
+  # venue: <a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2022</a>
+  number_link: 5
+  link1:
+    url: https://sv4d20.github.io/
+    display: Project
+  link2:
+    url: https://arxiv.org/abs/2503.16396
+    display: arXiv
+  link3:
+    url: https://www.youtube.com/watch?v=dtqj-s50ynU
+    display: Video
+  link4:
+    url: https://stability.ai/news/stable-video-4d-20-new-upgrades-for-high-fidelity-novel-views-and-4d-generation-from-a-single-video
+    display: Stability
+  link5:
+    url: https://huggingface.co/stabilityai/sv4d2.0
+    display: HuggingFace
+
+- title: Stable Virtual Camera - Generative View Synthesis with Diffusion Models
+  image: 2025_svc.gif
+  authors: Jensen Zhou, Hang Gao, <b>Vikram Voleti</b>, Aaryaman Vasishta, Chun-Han Yao, Mark Boss, Philip Torr, Christian Rupprecht, Varun Jampani
+  # venue: <a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2022</a>
+  number_link: 5
+  link1:
+    url: https://stable-virtual-camera.github.io/
+    display: Project
+  link2:
+    url: https://arxiv.org/abs/2503.14489
+    display: arXiv
+  link3:
+    url: https://www.youtube.com/channel/UCLLlVDcS7nNenT_zzO3OPxQ
+    display: Video
+  link4:
+    url: https://stability.ai/news/introducing-stable-virtual-camera-multi-view-video-generation-with-3d-camera-control
+    display: Stability
+  link5:
+    url: https://huggingface.co/stabilityai/stable-virtual-camera
+    display: HuggingFace
+
 - title: SV4D - Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency
   image: 2024_sv4d.gif
   authors: Yiming Xie, Chun-Han Yao, <b>Vikram Voleti</b>, Huaizu Jiang, Varun Jampani
