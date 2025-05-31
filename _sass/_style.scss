@@ -158,7 +158,8 @@ ul#horizontal-list li {
 }
 
 .publication-picture {
-    display: inline-block;
+    object-fit: cover;
+    display: block;
     max-height: 30%;
     max-width: 15%;
     float: left;
