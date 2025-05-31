@@ -20,7 +20,8 @@ Prior to that, I was a Research Intern at <img src="{{site.url}}{{site.baseurl}}
 <!-- where I worked on generation of video, 3D objects, 4D content from text. Before that, I was  a MITACS Research Intern at-->
 <img src="{{site.url}}{{site.baseurl}}/images/experience/unity_white.png" alt="Unity" class="inline-logo">[Unity Labs](https://unity.com/labs), and
 <!-- I worked on 3D human pose estimation and inverse kinematics from video. In Fall 2019, I was a Research Intern at  -->
-<img src="{{site.url}}{{site.baseurl}}/images/experience/Google__G__Logo.png" alt="Google" class="inline-logo">[Google](https://ai.google/research/teams/perception/){:target="_blank"} in the [Google AI Perception](https://ai.google/research/teams/perception/){:target="_blank"} team.
+<img src="{{site.url}}{{site.baseurl}}/images/experience/Google__G__Logo.png" alt="Google" class="inline-logo">[Google](https://ai.google/research/teams/perception/){:target="_blank"}.
+ <!-- in the [Google AI Perception](https://ai.google/research/teams/perception/){:target="_blank"} team. -->
 <!-- In 2019 and 2020, I was an AI Scientist in Residence at [NextAI](https://www.nextcanada.com/next-ai/){:target="_blank"}. -->
 
 <!-- Previously, I worked as a Research Fellow with [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/){:target="_blank"} at [IIIT-Hyderabad](https://cvit.iiit.ac.in){:target="_blank"} on automated lip synthesis for translation of a video into a different languages. I was a Mentor for the first [Foundations of AI/ML](https://www.talentsprint.com/aiml.dpl){:target="_blank"} certificate program for industry professionals by IIIT-H Machine Learning Lab. Prior to that, I worked at [GreyOrange Robotics](http://www.greyorange.com/){:target="_blank"} on real time embedded vision in videos for warehouse automation, and autonomous robots; and at [Airbus, India](http://www.airbus.com/){:target="_blank"} on software development and integration. -->
