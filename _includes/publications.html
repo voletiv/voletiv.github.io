@@ -136,6 +136,46 @@
 </p>
 {% endif %}
 
+{% if publication.number_link == 6 %}
+<p>
+{% if publication.link1.url contains '://' %}
+<a href="{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ publication.link1.url }}" target="_blank">{{ publication.link1.display }}</a>
+{% endif %}
+|
+{% if publication.link2.url contains '://' %}
+<a href="{{ publication.link2.url }}" target="_blank">{{ publication.link2.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ publication.link2.url }}" target="_blank">{{ publication.link2.display }}</a>
+{% endif %}
+|
+{% if publication.link3.url contains '://' %}
+<a href="{{ publication.link3.url }}" target="_blank">{{ publication.link3.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ publication.link3.url }}" target="_blank">{{ publication.link3.display }}</a>
+{% endif %}
+|
+{% if publication.link4.url contains '://' %}
+<a href="{{ publication.link4.url }}" target="_blank">{{ publication.link4.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ publication.link4.url }}" target="_blank">{{ publication.link4.display }}</a>
+{% endif %}
+|
+{% if publication.link5.url contains '://' %}
+<a href="{{ publication.link5.url }}" target="_blank">{{ publication.link5.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ publication.link5.url }}" target="_blank">{{ publication.link5.display }}</a>
+{% endif %}
+|
+{% if publication.link5.url contains '://' %}
+<a href="{{ publication.link6.url }}" target="_blank">{{ publication.link6.display }}</a>
+{% else %}
+<a href="{{site.url}}{{site.baseurl}}/docs/publications/{{ publication.link6.url }}" target="_blank">{{ publication.link6.display }}</a>
+{% endif %}
+</p>
+{% endif %}
+
 </div>
 
 </div>
