@@ -135,10 +135,13 @@ ul#horizontal-list li {
 }
 
 .inline-logo {
-  height: 1em;
-  width: 1em;
+  max-height: 1em;
+  max-width: 1em;
+  height: auto;
+  width: auto;
   vertical-align: middle;
-  margin: 0 4px;
+  margin: 0 2px;
+  object-fit: contain;
 }
 
 /* Publications */
