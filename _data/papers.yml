@@ -43,8 +43,8 @@
 - title: SV4D - Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency
   image: 2024_sv4d.gif
   authors: Yiming Xie, Chun-Han Yao, <b>Vikram Voleti</b>, Huaizu Jiang, Varun Jampani
-  # venue: <a href="https://neurips.cc/Conferences/2023" target="_blank">NeurIPS 2022</a>
-  number_link: 5
+  venue: <a href="https://iclr.cc/virtual/2025/poster/28061" target="_blank">ICLR 2025</a>
+  number_link: 6
   link1:
     url: https://sv4d.github.io
     display: Project
@@ -60,6 +60,9 @@
   link5:
     url: https://huggingface.co/stabilityai/sv4d
     display: HuggingFace
+  link6:
+    url: https://iclr.cc/virtual/2025/poster/28061
+    display: ICLR 2025
 
 - title: HouseCrafter - Lifting Floorplans to 3D Scenes with 2D Diffusion Model
   image: 2024_housecrafter.gif
